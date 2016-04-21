@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  26 FEB 2016 16:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  21 APR 2016 10:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -635,7 +635,7 @@ Package biblatex Info: Reference segment=0 on input line 29.
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Class ucbthesis Warning: The final submitted version should not have an approva
-l page on input line 60.
+l page on input line 46.
 
 [2] [3]
 \openout2 = `abstract.aux'.
@@ -706,7 +706,7 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Here is how much of TeX's memory you used:
  9262 strings out of 493117
  146594 string characters out of 6135433
- 576284 words of memory out of 5000000
+ 576287 words of memory out of 5000000
  12658 multiletter control sequences out of 15000+600000
  9499 words of font info for 33 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -722,7 +722,7 @@ l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local
 texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/
 local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb>
-Output written on thesis.pdf (15 pages, 131009 bytes).
+Output written on thesis.pdf (15 pages, 131795 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
