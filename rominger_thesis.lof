@@ -1,0 +1,21 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\addvspace {10pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.1}{\ignorespaces The distributions of within-order fluctuations in genus diversity shown for the trajectories of three exemplar orders (A) and shown as an empirical cumulative density aggregated across all orders (B). To display all orders simultaneously we simply collapse their fluctuation distributions by dividing by their standard deviations. If orders conform to the Gaussian hypothesis their scaled fluctuations should fall along the cumulative density line of a normal N(0, 1) distribution, as shown in (B). In (C) the distribution of inverse variances $\beta _k$ across all orders matches very closely to a Gamma distribution (black line); exemplar orders are again highlighted.}}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Distribution of fluctuations in genus diversity within orders of marine invertebrates in the Paleobiology Database \cite {alroy08} after bias correction. The distribution is fat-tailed as compared to the maximum likelihood estimate of the normal distribution (blue line). At the order level the empirical distribution of fluctuations are well described by our super-statistical approach, both when computed from integrating over the distribution of observed variances (red line) and when fit via maximum likelihood (95\% confidence interval; red shading).}}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Distribution of Kolmogorov-Smirnov (KS) statistics from randomly permuting genera within orders (gray shading represents 95\% confidence interval). Solid black line is observed KS statistic at the order level, while the dashed black line shows the observed KS statistic at the class level.}}{9}
+\defcounter {refsection}{0}\relax 
+\addvspace {10pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Bujumbura prexy wiggly.}}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Aviv faceplate emmitance.}}{10}
+\defcounter {refsection}{0}\relax 
+\addvspace {10pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Bujumbura prexy wiggly.}}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Aviv faceplate emmitance.}}{12}

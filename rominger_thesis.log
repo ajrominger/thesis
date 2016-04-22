@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  21 APR 2016 15:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  21 APR 2016 17:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**\input thesis.tex
-(./thesis.tex
+**\input rominger_thesis.tex
+(./rominger_thesis.tex
 (/usr/local/texlive/2014/texmf-dist/tex/latex/ucbthesis/ucbthesis.cls
 Document Class: ucbthesis 2014/04/11 v3.4 University of California, Berkeley Th
 esis Class
@@ -573,6 +573,14 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2013/06/09 v2.4 Extended list environments
+\pltopsep=\skip193
+\plpartopsep=\skip194
+\plitemsep=\skip195
+\plparsep=\skip196
+\pl@lab=\toks23
+)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -582,22 +590,22 @@ File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 \@quotelevel=\count304
 \@quotereset=\count305
 
-(./thesis.aux (./abstract.aux) (./intro.aux) (./chap1.aux) (./chap2.aux)
-(./chap3.aux) (./conclusion.aux))
-\openout1 = `thesis.aux'.
+(./rominger_thesis.aux (./abstract.aux) (./intro.aux) (./chap1.aux)
+(./chap2.aux) (./chap3.aux) (./conclusion.aux))
+\openout1 = `rominger_thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 
 ******************************************************
@@ -623,19 +631,321 @@ Package biblatex Info: No input encoding detected.
 (biblatex)             Assuming 'ascii'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'ascii'.
-\openout4 = `thesis.bcf'.
+\openout4 = `rominger_thesis.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'thesis.bbl' found.
-(./thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 61.
-Package biblatex Info: Reference segment=0 on input line 61.
+Package biblatex Info: ... file 'rominger_thesis.bbl' found.
+(./rominger_thesis.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                hopkins2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                butler2004
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                bak1993
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                liow2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                hubbell2001
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                mayr1965systZool
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                rabosky2009ecolLett
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                erwin2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                vermeij1987
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                jablonski2008
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                alroy08
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                sole1997
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                fuentes2009
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                erwin2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                price2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                newman1985adaptive
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                ricklefs2006neutral
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                cir1985
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                harnik2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                alroy2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                rabosky2006laser
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                vrba1983
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                gilinsky1994
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                beck2004
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                brose2005
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                gavrilets2005
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                simpson1953
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                roy2009range
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                quental2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                sepkoski1984
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                sepkoski1992
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                holman1989
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                madin2006
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                chave2004neutral
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                beck2003
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                newman1995
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                eldredgeGould1972
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                raup1982
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                foote2008paleobiol
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                rosindell2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Erwin1998
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                kirchner1998
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                benton1995
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+Package biblatex Info: Reference section=0 on input line 17.
+Package biblatex Info: Reference segment=0 on input line 17.
  [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Class ucbthesis Warning: The final submitted version should not have an approva
-l page on input line 78.
+l page on input line 34.
 
 [2] [3]
 \openout2 = `abstract.aux'.
@@ -644,110 +954,145 @@ l page on input line 78.
 
 ]) [1
 
-] (./thesis.toc
+] (./rominger_thesis.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
-) [2] (./thesis.lof) [3
+) [2]
+(./rominger_thesis.lof) [3
 
-]
-(./thesis.lot) [4
+] (./rominger_thesis.lot) [4
 
 ] [5]
 \openout2 = `intro.aux'.
 
- (./intro.tex) [1
+ (./intro.tex)
+[1
 
 
 ]
 \openout2 = `chap1.aux'.
 
- (./chap1.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 19.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 19.
- [2
+ (./chap1.tex [2
 
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 122.
+
+LaTeX Warning: Reference `sec:suppLimitDist' on page 3 undefined on input line 
+136.
+
+[3]
+
+LaTeX Warning: Reference `sec:suppSepk' on page 4 undefined on input line 165.
 
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 122.
- [3]) [4]
+LaTeX Warning: Reference `fig:supp_3TPub' on page 4 undefined on input line 176
+.
+
+[4]
+
+LaTeX Warning: Reference `fig:divByPub' on page 5 undefined on input line 241.
+
+
+LaTeX Warning: Reference `fig:supp_3TPub' on page 5 undefined on input line 251
+.
+
+
+LaTeX Warning: Reference `fig:supp_3TPub' on page 5 undefined on input line 253
+.
+
+
+LaTeX Warning: Reference `sec:rawPBDB' on page 5 undefined on input line 255.
+
+[5]
+
+LaTeX Warning: Reference `sec:suppSepk' on page 6 undefined on input line 279.
+
+
+LaTeX Warning: Reference `sec:suppSepk' on page 6 undefined on input line 315.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 328.
+[6]
+
+LaTeX Warning: Reference `fig:supp_PBDB_Px_cls' on page 7 undefined on input li
+ne 336.
+
+
+LaTeX Warning: Reference `fig:supp_sepkPx' on page 7 undefined on input line 35
+1.
+
+[7]) [8] [9]
 \openout2 = `chap2.aux'.
 
-
-(./chap2.tex [5
-
+ (./chap2.tex [10
 
 
-]) [6]
+
+]) [11]
 \openout2 = `chap3.aux'.
 
- (./chap3.tex [7
+ (./chap3.tex [12
 
 
 
-]) [8]
+]) [13]
 \openout2 = `conclusion.aux'.
 
- (./conclusion.tex) [9
+ (./conclusion.tex) [14
 
 
 
-] [10
+] [15
 
 
 ]
 \tf@toc=\write5
-\openout5 = `thesis.toc'.
+\openout5 = `rominger_thesis.toc'.
 
 \tf@lof=\write6
-\openout6 = `thesis.lof'.
+\openout6 = `rominger_thesis.lof'.
 
 \tf@lot=\write7
-\openout7 = `thesis.lot'.
+\openout7 = `rominger_thesis.lot'.
 
+ (./rominger_thesis.aux (./abstract.aux) (./intro.aux) (./chap1.aux)
+(./chap2.aux) (./chap3.aux) (./conclusion.aux))
 
-(./thesis.aux (./abstract.aux) (./intro.aux) (./chap1.aux) (./chap2.aux)
-(./chap3.aux) (./conclusion.aux))
-Package logreq Info: Writing requests to 'thesis.run.xml'.
-\openout1 = `thesis.run.xml'.
+LaTeX Warning: There were undefined references.
+
+Package logreq Info: Writing requests to 'rominger_thesis.run.xml'.
+\openout1 = `rominger_thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 9287 strings out of 493117
- 146910 string characters out of 6135433
- 584546 words of memory out of 5000000
- 12662 multiletter control sequences out of 15000+600000
- 9499 words of font info for 33 fonts, out of 8000000 for 9000
- 1143 hyphenation exceptions out of 8191
- 48i,10n,48p,882b,923s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 9403 strings out of 493117
+ 148681 string characters out of 6135433
+ 587790 words of memory out of 5000000
+ 12779 multiletter control sequences out of 15000+600000
+ 10115 words of font info for 35 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 48i,10n,48p,891b,921s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/l
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
 ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
 l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr
-/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb>
-
-Output written on thesis.pdf (19 pages, 122925 bytes).
+/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb>
+Output written on rominger_thesis.pdf (24 pages, 145353 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
+ 129 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

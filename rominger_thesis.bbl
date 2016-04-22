@@ -1,0 +1,86 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{waveshaping}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=84a69eff71f1c900d0d3c66432dce988}{Jackson}{J\bibinitperiod}{Rosa\bibnamedelima Olin}{R\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=84a69eff71f1c900d0d3c66432dce988}{Jackson}{J\bibinitperiod}{Rosa\bibnamedelima Olin}{R\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{84a69eff71f1c900d0d3c66432dce988}
+      \strng{fullhash}{84a69eff71f1c900d0d3c66432dce988}
+      \field{sortinit}{J}
+      \field{labeltitle}{A Tutorial on Endow Dill or Tomography Doff}
+      \field{journaltitle}{Inertia Puff Journal}
+      \field{number}{2}
+      \field{title}{A Tutorial on Endow Dill or Tomography Doff}
+      \field{volume}{3}
+      \field{year}{1979}
+      \field{pages}{29\bibrangedash 34}
+    \endentry
+  \endsortlist
+  \missing{hopkins2014}
+  \missing{butler2004}
+  \missing{bak1993}
+  \missing{liow2007}
+  \missing{hubbell2001}
+  \missing{mayr1965systZool}
+  \missing{rabosky2009ecolLett}
+  \missing{erwin2012}
+  \missing{vermeij1987}
+  \missing{jablonski2008}
+  \missing{alroy08}
+  \missing{sole1997}
+  \missing{fuentes2009}
+  \missing{erwin2007}
+  \missing{price2014}
+  \missing{newman1985adaptive}
+  \missing{ricklefs2006neutral}
+  \missing{cir1985}
+  \missing{harnik2011}
+  \missing{alroy2010}
+  \missing{rabosky2006laser}
+  \missing{vrba1983}
+  \missing{gilinsky1994}
+  \missing{beck2004}
+  \missing{brose2005}
+  \missing{gavrilets2005}
+  \missing{simpson1953}
+  \missing{roy2009range}
+  \missing{quental2013}
+  \missing{sepkoski1984}
+  \missing{sepkoski1992}
+  \missing{holman1989}
+  \missing{madin2006}
+  \missing{chave2004neutral}
+  \missing{beck2003}
+  \missing{newman1995}
+  \missing{eldredgeGould1972}
+  \missing{raup1982}
+  \missing{foote2008paleobiol}
+  \missing{rosindell2011}
+  \missing{Erwin1998}
+  \missing{kirchner1998}
+  \missing{benton1995}
+\endrefsection
+\endinput
+

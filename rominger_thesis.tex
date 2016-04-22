@@ -1,62 +1,18 @@
-%% thesis.tex 2014/04/11
-%
-% Based on sample files of unknown authorship.
-%
-% The Current Maintainer of this work is Paul Vojta.
-
 \documentclass{ucbthesis}
 \usepackage{biblatex}
-
-% To compile this file, run "latex thesis", then "biber thesis"
-% (or "bibtex thesis", if the output from latex asks for that instead),
-% and then "latex thesis" (without the quotes in each case).
-
-% Double spacing, if you want it.  Do not use for the final copy.
-% \def\dsp{\def\baselinestretch{2.0}\large\normalsize}
-% \dsp
 
 % If the Grad. Division insists that the first paragraph of a section
 % be indented (like the others), then include this line:
 % \usepackage{indentfirst}
 
-\bibliography{references}
-
-\hyphenation{mar-gin-al-ia}
-\hyphenation{bra-va-do}
-
-% \makeevenfoot{headings}{}{\thepage}{}
-% \makeoddfoot{headings}{}{\thepage}{}
-% \makeevenhead{headings}{}{}{}
-% \makeoddhead{headings}{}{}{}
+\usepackage{paralist}
 
 \makeevenfoot{simple}{}{\thepage}{}
 \makeoddfoot{simple}{}{\thepage}{}
 \makeevenhead{simple}{}{}{}
 \makeoddhead{simple}{}{}{}
 
-% \copypagestyle{chapter}{simple} % make chapter a page style of its own
-% \makeevenfoot{chapter}{}{\thepage}{}
-% \makeoddfoot{chapter}{}{\thepage}{}
-% \makeevenhead{chapter}{}{}{}
-% \makeoddhead{chapter}{}{}{}
-
-% \copypagestyle{title}{simple} 
-% \makeevenfoot{title}{}{\thepage}{}
-% \makeoddfoot{title}{}{\thepage}{}
-% \makeevenhead{title}{}{}{}
-% \makeoddhead{title}{}{}{}
-
-% \copypagestyle{book}{simple} 
-% \makeevenfoot{book}{}{\thepage}{}
-% \makeoddfoot{book}{}{\thepage}{}
-% \makeevenhead{book}{}{}{}
-% \makeoddhead{book}{}{}{}
-
-% \copypagestyle{part}{simple} 
-% \makeevenfoot{part}{}{\thepage}{}
-% \makeoddfoot{part}{}{\thepage}{}
-% \makeevenhead{part}{}{}{}
-% \makeoddhead{part}{}{}{}
+\bibliography{thesis}
 
 \begin{document}
 

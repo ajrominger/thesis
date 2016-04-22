@@ -1,0 +1,57 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is 'rominger_thesis.blg'
+[51] biber-darwin:275> INFO - === Thu Apr 21, 2016, 17:01:22
+[51] Biber.pm:333> INFO - Reading 'rominger_thesis.bcf'
+[101] Biber.pm:630> INFO - Found 44 citekeys in bib section 0
+[117] Biber.pm:3053> INFO - Processing section 0
+[132] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[133] bibtex.pm:812> INFO - Found BibTeX data source 'thesis.bib'
+[135] Utils.pm:169> WARN - I didn't find a database entry for 'raup1982' (section 0)
+[136] Utils.pm:169> WARN - I didn't find a database entry for 'sepkoski1984' (section 0)
+[136] Utils.pm:169> WARN - I didn't find a database entry for 'gilinsky1994' (section 0)
+[136] Utils.pm:169> WARN - I didn't find a database entry for 'liow2007' (section 0)
+[136] Utils.pm:169> WARN - I didn't find a database entry for 'alroy08' (section 0)
+[136] Utils.pm:169> WARN - I didn't find a database entry for 'alroy2010' (section 0)
+[136] Utils.pm:169> WARN - I didn't find a database entry for 'benton1995' (section 0)
+[136] Utils.pm:169> WARN - I didn't find a database entry for 'Erwin1998' (section 0)
+[136] Utils.pm:169> WARN - I didn't find a database entry for 'quental2013' (section 0)
+[137] Utils.pm:169> WARN - I didn't find a database entry for 'bak1993' (section 0)
+[137] Utils.pm:169> WARN - I didn't find a database entry for 'sole1997' (section 0)
+[137] Utils.pm:169> WARN - I didn't find a database entry for 'newman1995' (section 0)
+[137] Utils.pm:169> WARN - I didn't find a database entry for 'vermeij1987' (section 0)
+[137] Utils.pm:169> WARN - I didn't find a database entry for 'kirchner1998' (section 0)
+[190] Utils.pm:169> WARN - I didn't find a database entry for 'madin2006' (section 0)
+[191] Utils.pm:169> WARN - I didn't find a database entry for 'rabosky2009ecolLett' (section 0)
+[191] Utils.pm:169> WARN - I didn't find a database entry for 'erwin2012' (section 0)
+[191] Utils.pm:169> WARN - I didn't find a database entry for 'roy2009range' (section 0)
+[191] Utils.pm:169> WARN - I didn't find a database entry for 'hopkins2014' (section 0)
+[191] Utils.pm:169> WARN - I didn't find a database entry for 'eldredgeGould1972' (section 0)
+[192] Utils.pm:169> WARN - I didn't find a database entry for 'newman1985adaptive' (section 0)
+[192] Utils.pm:169> WARN - I didn't find a database entry for 'vrba1983' (section 0)
+[192] Utils.pm:169> WARN - I didn't find a database entry for 'simpson1953' (section 0)
+[192] Utils.pm:169> WARN - I didn't find a database entry for 'holman1989' (section 0)
+[192] Utils.pm:169> WARN - I didn't find a database entry for 'beck2003' (section 0)
+[192] Utils.pm:169> WARN - I didn't find a database entry for 'gavrilets2005' (section 0)
+[193] Utils.pm:169> WARN - I didn't find a database entry for 'price2014' (section 0)
+[193] Utils.pm:169> WARN - I didn't find a database entry for 'jablonski2008' (section 0)
+[193] Utils.pm:169> WARN - I didn't find a database entry for 'harnik2011' (section 0)
+[244] Utils.pm:169> WARN - I didn't find a database entry for 'foote2008paleobiol' (section 0)
+[244] Utils.pm:169> WARN - I didn't find a database entry for 'sepkoski1992' (section 0)
+[244] Utils.pm:169> WARN - I didn't find a database entry for 'mayr1965systZool' (section 0)
+[244] Utils.pm:169> WARN - I didn't find a database entry for 'erwin2007' (section 0)
+[244] Utils.pm:169> WARN - I didn't find a database entry for 'hubbell2001' (section 0)
+[244] Utils.pm:169> WARN - I didn't find a database entry for 'brose2005' (section 0)
+[244] Utils.pm:169> WARN - I didn't find a database entry for 'cir1985' (section 0)
+[244] Utils.pm:169> WARN - I didn't find a database entry for 'butler2004' (section 0)
+[244] Utils.pm:169> WARN - I didn't find a database entry for 'beck2004' (section 0)
+[244] Utils.pm:169> WARN - I didn't find a database entry for 'fuentes2009' (section 0)
+[244] Utils.pm:169> WARN - I didn't find a database entry for 'rabosky2006laser' (section 0)
+[245] Utils.pm:169> WARN - I didn't find a database entry for 'rosindell2011' (section 0)
+[245] Utils.pm:169> WARN - I didn't find a database entry for 'chave2004neutral' (section 0)
+[245] Utils.pm:169> WARN - I didn't find a database entry for 'ricklefs2006neutral' (section 0)
+[368] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[368] Biber.pm:2945> INFO - Sorting 'entry' list 'nty' keys
+[368] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[370] bbl.pm:482> INFO - Writing 'rominger_thesis.bbl' with encoding 'ascii'
+[371] bbl.pm:555> INFO - Output to rominger_thesis.bbl
+[371] Biber.pm:105> INFO - WARNINGS: 43
