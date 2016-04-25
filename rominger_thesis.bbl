@@ -1,86 +1,185 @@
-% $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.3 $
-% Do not modify the above lines!
-%
-% This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated by
-% biber as required.
-%
-\begingroup
-\makeatletter
-\@ifundefined{ver@biblatex.sty}
-  {\@latex@error
-     {Missing 'biblatex' package}
-     {The bibliography requires the 'biblatex' package.}
-      \aftergroup\endinput}
-  {}
-\endgroup
+\begin{thebibliography}{43}
+\providecommand{\natexlab}[1]{#1}
 
+\bibitem[{Alroy(2010)}]{alroy2010}
+Alroy, J. (2010) \textit{Science}, \textbf{329}, 1191--1194.
 
-\refsection{0}
-  \sortlist{entry}{nty}
-    \entry{waveshaping}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=84a69eff71f1c900d0d3c66432dce988}{Jackson}{J\bibinitperiod}{Rosa\bibnamedelima Olin}{R\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=84a69eff71f1c900d0d3c66432dce988}{Jackson}{J\bibinitperiod}{Rosa\bibnamedelima Olin}{R\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{84a69eff71f1c900d0d3c66432dce988}
-      \strng{fullhash}{84a69eff71f1c900d0d3c66432dce988}
-      \field{sortinit}{J}
-      \field{labeltitle}{A Tutorial on Endow Dill or Tomography Doff}
-      \field{journaltitle}{Inertia Puff Journal}
-      \field{number}{2}
-      \field{title}{A Tutorial on Endow Dill or Tomography Doff}
-      \field{volume}{3}
-      \field{year}{1979}
-      \field{pages}{29\bibrangedash 34}
-    \endentry
-  \endsortlist
-  \missing{hopkins2014}
-  \missing{butler2004}
-  \missing{bak1993}
-  \missing{liow2007}
-  \missing{hubbell2001}
-  \missing{mayr1965systZool}
-  \missing{rabosky2009ecolLett}
-  \missing{erwin2012}
-  \missing{vermeij1987}
-  \missing{jablonski2008}
-  \missing{alroy08}
-  \missing{sole1997}
-  \missing{fuentes2009}
-  \missing{erwin2007}
-  \missing{price2014}
-  \missing{newman1985adaptive}
-  \missing{ricklefs2006neutral}
-  \missing{cir1985}
-  \missing{harnik2011}
-  \missing{alroy2010}
-  \missing{rabosky2006laser}
-  \missing{vrba1983}
-  \missing{gilinsky1994}
-  \missing{beck2004}
-  \missing{brose2005}
-  \missing{gavrilets2005}
-  \missing{simpson1953}
-  \missing{roy2009range}
-  \missing{quental2013}
-  \missing{sepkoski1984}
-  \missing{sepkoski1992}
-  \missing{holman1989}
-  \missing{madin2006}
-  \missing{chave2004neutral}
-  \missing{beck2003}
-  \missing{newman1995}
-  \missing{eldredgeGould1972}
-  \missing{raup1982}
-  \missing{foote2008paleobiol}
-  \missing{rosindell2011}
-  \missing{Erwin1998}
-  \missing{kirchner1998}
-  \missing{benton1995}
-\endrefsection
-\endinput
+\bibitem[{Alroy \textit{et~al.}(2008)Alroy, Aberhan, Bottjer, Foote,
+  F{\"u}rsich, Harries, Hendy, Holland, Ivany, Kiessling, Kosnik, Marshall,
+  McGowan, Miller, Olszewski, Patzkowsky, Peters, Villier, Wagner, Bonuso,
+  Borkow, Brenneis, Clapham, Fall, Ferguson, Hanson, Krug, Layou, Leckey,
+  N{\"u}rnberg, Powers, Sessa, Simpson, Toma{\v s}ov{\'y}ch \&
+  Visaggi}]{alroy08}
+Alroy, J., Aberhan, M., Bottjer, D.J., Foote, M., F{\"u}rsich, F.T., Harries,
+  P.J., Hendy, A.J.W., Holland, S.M., Ivany, L.C., Kiessling, W., Kosnik, M.A.,
+  Marshall, C.R., McGowan, A.J., Miller, A.I., Olszewski, T.D., Patzkowsky,
+  M.E., Peters, S.E., Villier, L., Wagner, P.J., Bonuso, N., Borkow, P.S.,
+  Brenneis, B., Clapham, M.E., Fall, L.M., Ferguson, C.A., Hanson, V.L., Krug,
+  A.Z., Layou, K.M., Leckey, E.H., N{\"u}rnberg, S., Powers, C.M., Sessa, J.A.,
+  Simpson, C., Toma{\v s}ov{\'y}ch, A. \& Visaggi, C.C. (2008)
+  \textit{Science}, \textbf{321}, 97--100.
 
+\bibitem[{Bak \& Sneppen(1993)}]{bak1993}
+Bak, P. \& Sneppen, K. (1993) \textit{Phys. Rev. Lett.}, \textbf{71},
+  4083--4086.
+
+\bibitem[{Beck(2004)}]{beck2004}
+Beck, C. (2004) \textit{Physica D: Nonlinear Phenomena}, \textbf{193},
+  195--207.
+
+\bibitem[{Beck \& Cohen(2003)}]{beck2003}
+Beck, C. \& Cohen, E. (2003) \textit{Physica A: Statistical Mechanics and its
+  Applications}, \textbf{322}, 267--275.
+
+\bibitem[{Benton(1995)}]{benton1995}
+Benton, M. (1995) \textit{Science}, \textbf{268}, 52--58.
+
+\bibitem[{Brose \textit{et~al.}(2005)Brose, Berlow \& Martinez}]{brose2005}
+Brose, U., Berlow, E.L. \& Martinez, N.D. (2005) \textit{Ecology Letters},
+  \textbf{8}, 1317--1325.
+
+\bibitem[{Butler \& King(2004)}]{butler2004}
+Butler, M.A. \& King, A.A. (2004) \textit{The American Naturalist},
+  \textbf{164}, 683--695.
+
+\bibitem[{Chave(2004)}]{chave2004neutral}
+Chave, J. (2004) \textit{Ecology letters}, \textbf{7}, 241--253.
+
+\bibitem[{Cox \textit{et~al.}(1985)Cox, Ingersoll~Jr \& Ross}]{cir1985}
+Cox, J.C., Ingersoll~Jr, J.E. \& Ross, S.A. (1985) \textit{Econometrica:
+  Journal of the Econometric Society}, 385--407.
+
+\bibitem[{Eldredge \& Gould(1972)}]{eldredgeGould1972}
+Eldredge, N. \& Gould, S.J. (1972) \textit{Models in paleobiology},
+  \textbf{82}, 115.
+
+\bibitem[{Erwin(1998)}]{Erwin1998}
+Erwin, D.H. (1998) \textit{Trends in Ecology and Evolution}, \textbf{13},
+  344--349.
+
+\bibitem[{Erwin(2007)}]{erwin2007}
+Erwin, D.H. (2007) \textit{Palaeontology}, \textbf{50}, 57--73.
+
+\bibitem[{Erwin(2012)}]{erwin2012}
+Erwin, D.H. (2012) \textit{Journal of Experimental Zoology Part B: Molecular
+  and Developmental Evolution}, \textbf{318}, 460--465.
+
+\bibitem[{Foote \textit{et~al.}(2008)Foote, Crampton, Beu \&
+  Cooper}]{foote2008paleobiol}
+Foote, M., Crampton, J.S., Beu, A.G. \& Cooper, R.A. (2008)
+  \textit{Paleobiology}, \textbf{34}, 421--433.
+
+\bibitem[{Fuentes \textit{et~al.}(2009)Fuentes, Gerig \& Vicente}]{fuentes2009}
+Fuentes, M.A., Gerig, A. \& Vicente, J. (2009) \textit{PLoS ONE}, \textbf{4},
+  e8243.
+
+\bibitem[{Gavrilets \& Vose(2005)}]{gavrilets2005}
+Gavrilets, S. \& Vose, A. (2005) \textit{Proceedings of the National academy of
+  Sciences of the United States of America}, \textbf{102}, 18040--18045.
+
+\bibitem[{Gilinsky(1994)}]{gilinsky1994}
+Gilinsky, N.L. (1994) \textit{Paleobiology}, 445--458.
+
+\bibitem[{Harnik(2011)}]{harnik2011}
+Harnik, P.G. (2011) \textit{Proceedings of the National Academy of Sciences},
+  \textbf{108}, 13594--13599.
+
+\bibitem[{Holman(1989)}]{holman1989}
+Holman, E.W. (1989) \textit{Paleobiology}, 357--363.
+
+\bibitem[{Hopkins \textit{et~al.}(2014)Hopkins, Simpson \&
+  Kiessling}]{hopkins2014}
+Hopkins, M.J., Simpson, C. \& Kiessling, W. (2014) \textit{Ecology letters},
+  \textbf{17}, 314--323.
+
+\bibitem[{Hubbell(2001)}]{hubbell2001}
+Hubbell, S.P. (2001) \textit{The unified neutral theory of biodiversity and
+  biogeography (MPB-32)}, vol.~32. Princeton University Press.
+
+\bibitem[{Jablonski(2008)}]{jablonski2008}
+Jablonski, D. (2008) \textit{Annual Review of Ecology, Evolution, and
+  Systematics}, \textbf{39}, 501--524.
+
+\bibitem[{Kirchner \& Weil(1998)}]{kirchner1998}
+Kirchner, J.W. \& Weil, A. (1998) \textit{Nature}, \textbf{395}, 337--338.
+
+\bibitem[{Liow \& Stenseth(2007)}]{liow2007}
+Liow, L.H. \& Stenseth, N.C. (2007) \textit{Proceedings of the Royal Society B:
+  Biological Sciences}, \textbf{274}, 2745--2752.
+
+\bibitem[{Madin \textit{et~al.}(2006)Madin, Alroy, Aberhan, F{\"u}rsich,
+  Kiessling, Kosnik \& Wagner}]{madin2006}
+Madin, J.S., Alroy, J., Aberhan, M., F{\"u}rsich, F.T., Kiessling, W., Kosnik,
+  M.A. \& Wagner, P.J. (2006) \textit{Science}, \textbf{312}, 897--900.
+
+\bibitem[{Mayr(1965)}]{mayr1965systZool}
+Mayr, E. (1965) \textit{Systematic Zoology}, \textbf{14}, 73--97.
+
+\bibitem[{Newman \textit{et~al.}(1985)Newman, Cohen \&
+  Kipnis}]{newman1985adaptive}
+Newman, C., Cohen, J. \& Kipnis, C. (1985) \textit{Nature}, \textbf{315},
+  400--401.
+
+\bibitem[{Newman \& Roberts(1995)}]{newman1995}
+Newman, M.E.J. \& Roberts, B.W. (1995) \textit{Proceedings of the Royal Society
+  of London B}, \textbf{260}, 31--37.
+
+\bibitem[{Price \textit{et~al.}(2014)Price, Hooper, Buchanan, Johansson,
+  Tietze, Alstr{\"o}m, Olsson, Ghosh-Harihar, Ishtiaq, Gupta
+  \textit{et~al.}}]{price2014}
+Price, T.D., Hooper, D.M., Buchanan, C.D., Johansson, U.S., Tietze, D.T.,
+  Alstr{\"o}m, P., Olsson, U., Ghosh-Harihar, M., Ishtiaq, F., Gupta, S.K.
+  \textit{et~al.} (2014) \textit{Nature}, \textbf{509}, 222--225.
+
+\bibitem[{Quental \& Marshall(2013)}]{quental2013}
+Quental, T.B. \& Marshall, C.R. (2013) \textit{Science}.
+
+\bibitem[{Rabosky(2006)}]{rabosky2006laser}
+Rabosky, D.L. (2006) \textit{Evolutionary bioinformatics online}, \textbf{2},
+  247.
+
+\bibitem[{Rabosky(2009)}]{rabosky2009ecolLett}
+Rabosky, D.L. (2009) \textit{Ecology Letters}, \textbf{12}, 735--743.
+
+\bibitem[{Raup \textit{et~al.}(1982)Raup, Sepkoski~Jr
+  \textit{et~al.}}]{raup1982}
+Raup, D.M., Sepkoski~Jr, J.J. \textit{et~al.} (1982) \textit{Science},
+  \textbf{215}, 1501--1503.
+
+\bibitem[{Ricklefs(2006)}]{ricklefs2006neutral}
+Ricklefs, R.E. (2006) \textit{Ecology}, \textbf{87}, 1424--1431.
+
+\bibitem[{Rosindell \textit{et~al.}(2011)Rosindell, Hubbell \&
+  Etienne}]{rosindell2011TREE}
+Rosindell, J., Hubbell, S.P. \& Etienne, R.S. (2011) \textit{Trends in ecology
+  \& evolution}, \textbf{26}, 340--348.
+
+\bibitem[{Roy \textit{et~al.}(2009)Roy, Hunt, Jablonski, Krug \&
+  Valentine}]{roy2009range}
+Roy, K., Hunt, G., Jablonski, D., Krug, A.Z. \& Valentine, J.W. (2009)
+  \textit{Proceedings of the Royal Society B: Biological Sciences},
+  \textbf{276}, 1485--1493.
+
+\bibitem[{Sepkoski(1984)}]{sepkoski1984}
+Sepkoski, J.J. (1984) \textit{Paleobiology}, \textbf{10}, 246--267.
+
+\bibitem[{Sepkoski(1992)}]{sepkoski1992}
+Sepkoski, J.J. (1992) \textit{A compendium of fossil marine animal families}.
+  Milwaukee Public Museum, Milwaukee, WI.
+
+\bibitem[{Simpson(1953)}]{simpson1953}
+Simpson, G. (1953) \textit{The Major Features of Evolution}, 313--337.
+
+\bibitem[{Sol{\'e} \textit{et~al.}(1997)Sol{\'e}, Manrubia, Benton \&
+  Bak}]{sole1997}
+Sol{\'e}, R.V., Manrubia, S.C., Benton, M. \& Bak, P. (1997) \textit{Nature},
+  \textbf{388}, 764--767.
+
+\bibitem[{Vermeij(1987)}]{vermeij1987}
+Vermeij, G.J. (1987) \textit{Evolution and Escalation}. Princeton University
+  Press, Princeton, N.J.
+
+\bibitem[{Vrba(1983)}]{vrba1983}
+Vrba, E.S. (1983) \textit{Science}, \textbf{221}, 387--389.
+
+\end{thebibliography}
