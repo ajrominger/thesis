@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  25 APR 2016 14:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  25 APR 2016 15:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -349,22 +349,159 @@ Package: paralist 2013/06/09 v2.4 Extended list environments
 \plparsep=\skip188
 \pl@lab=\toks22
 )
+(/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip189
+\bibsep=\skip190
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count138
+)
 (./rominger_thesis.aux (./abstract.aux) (./intro.aux) (./chap1.aux)
-(./chap2.aux) (./chap3.aux) (./conclusion.aux))
+(./chap2.aux
+
+Package natbib Warning: Citation `alroy2010' multiply defined.
+
+
+Package natbib Warning: Citation `alroy08' multiply defined.
+
+
+Package natbib Warning: Citation `bak1993' multiply defined.
+
+
+Package natbib Warning: Citation `beck2004' multiply defined.
+
+
+Package natbib Warning: Citation `beck2003' multiply defined.
+
+
+Package natbib Warning: Citation `benton1995' multiply defined.
+
+
+Package natbib Warning: Citation `brose2005' multiply defined.
+
+
+Package natbib Warning: Citation `butler2004' multiply defined.
+
+
+Package natbib Warning: Citation `chave2004neutral' multiply defined.
+
+
+Package natbib Warning: Citation `cir1985' multiply defined.
+
+
+Package natbib Warning: Citation `eldredgeGould1972' multiply defined.
+
+
+Package natbib Warning: Citation `Erwin1998' multiply defined.
+
+
+Package natbib Warning: Citation `erwin2007' multiply defined.
+
+
+Package natbib Warning: Citation `erwin2012' multiply defined.
+
+
+Package natbib Warning: Citation `foote2008paleobiol' multiply defined.
+
+
+Package natbib Warning: Citation `fuentes2009' multiply defined.
+
+
+Package natbib Warning: Citation `gavrilets2005' multiply defined.
+
+
+Package natbib Warning: Citation `gilinsky1994' multiply defined.
+
+
+Package natbib Warning: Citation `harnik2011' multiply defined.
+
+
+Package natbib Warning: Citation `holman1989' multiply defined.
+
+
+Package natbib Warning: Citation `hopkins2014' multiply defined.
+
+
+Package natbib Warning: Citation `hubbell2001' multiply defined.
+
+
+Package natbib Warning: Citation `jablonski2008' multiply defined.
+
+
+Package natbib Warning: Citation `kirchner1998' multiply defined.
+
+
+Package natbib Warning: Citation `liow2007' multiply defined.
+
+
+Package natbib Warning: Citation `madin2006' multiply defined.
+
+
+Package natbib Warning: Citation `mayr1965systZool' multiply defined.
+
+
+Package natbib Warning: Citation `newman1985adaptive' multiply defined.
+
+
+Package natbib Warning: Citation `newman1995' multiply defined.
+
+
+Package natbib Warning: Citation `price2014' multiply defined.
+
+
+Package natbib Warning: Citation `quental2013' multiply defined.
+
+
+Package natbib Warning: Citation `rabosky2006laser' multiply defined.
+
+
+Package natbib Warning: Citation `rabosky2009ecolLett' multiply defined.
+
+
+Package natbib Warning: Citation `raup1982' multiply defined.
+
+
+Package natbib Warning: Citation `ricklefs2006neutral' multiply defined.
+
+
+Package natbib Warning: Citation `rosindell2011TREE' multiply defined.
+
+
+Package natbib Warning: Citation `roy2009range' multiply defined.
+
+
+Package natbib Warning: Citation `sepkoski1984' multiply defined.
+
+
+Package natbib Warning: Citation `sepkoski1992' multiply defined.
+
+
+Package natbib Warning: Citation `simpson1953' multiply defined.
+
+
+Package natbib Warning: Citation `sole1997' multiply defined.
+
+
+Package natbib Warning: Citation `vermeij1987' multiply defined.
+
+
+Package natbib Warning: Citation `vrba1983' multiply defined.
+
+) (./chap3.aux) (./conclusion.aux))
 \openout1 = `rominger_thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 
 ******************************************************
@@ -391,7 +528,7 @@ Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Class ucbthesis Warning: The final submitted version should not have an approva
-l page on input line 31.
+l page on input line 32.
 
 [2] [3]
 \openout2 = `abstract.aux'.
@@ -408,104 +545,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
 ) [2]
-(./rominger_thesis.lof
-Overfull \hbox (1469.42833pt too wide) in paragraph at lines 3--3
- \OT1/cmr/m/n/12 brates in the Pa-le-o-bi-ol-ogy Database [[]] 
- []
-
-) [3
+(./rominger_thesis.lof) [3
 
 ] (./rominger_thesis.lot) [4
 
 ] [5]
 \openout2 = `intro.aux'.
 
- (./intro.tex) [1
+ (./intro.tex)
+[1
 
 
 ]
 \openout2 = `chap1.aux'.
 
- (./chap1.tex
-Overfull \hbox (38.0866pt too wide) in paragraph at lines 44--53
-\OT1/cmr/m/n/12 [[], [], [], [],
- []
-
-
-Overfull \hbox (1226.27522pt too wide) in paragraph at lines 44--53
-[]\OT1/cmr/m/n/12 ,
- []
-
-
-Overfull \hbox (5.10117pt too wide) in paragraph at lines 44--53
-\OT1/cmr/m/n/12 such as adap-tive ra-di-a-tions and mass ex-tinc-tions have re-
-ceived spe-cial attention[[],
- []
-
-
-Overfull \hbox (1595.51306pt too wide) in paragraph at lines 44--53
-[]\OT1/cmr/m/n/12 ], but fluc-tu-a-tions of all sizes are ubiq-ui-tous [[], [],
-
- []
-
-
-Overfull \hbox (1.55728pt too wide) in paragraph at lines 55--75
-\OT1/cmr/m/n/12 phase-transitions [[], []] to
- []
-
-
-Overfull \hbox (102.77289pt too wide) in paragraph at lines 55--75
-\OT1/cmr/m/n/12 fauna [[], [],
- []
-
-
-Overfull \hbox (1229.53908pt too wide) in paragraph at lines 55--75
-[]\OT1/cmr/m/n/12 ].
- []
-
-
-Overfull \hbox (1373.21397pt too wide) in paragraph at lines 55--75
-\OT1/cmr/m/n/12 equi-lib-rium [[], [],
- []
-
-[2
+ (./chap1.tex [2
 
 
 
 ]
-Overfull \hbox (86.40918pt too wide) in paragraph at lines 76--93
-\OT1/cmr/m/n/12 tained, a phe-nomenon known as niche con-ser-vatism [[],
- []
-
-
-Overfull \hbox (179.6865pt too wide) in paragraph at lines 76--93
-\OT1/cmr/m/n/12 [[], [], []];
- []
-
-
-Overfull \hbox (62.33623pt too wide) in paragraph at lines 96--126
-\OT1/cmr/m/n/12 equilibrium dy-nam-ics in sta-tis-ti-cal physics [[]]. Super-st
-atistics [[]]
- []
-
-
-Overfull \hbox (135.9356pt too wide) in paragraph at lines 96--126
-[]\OT1/cmr/m/n/12 ]
- []
-
 
 LaTeX Warning: Reference `sec:suppLimitDist' on page 3 undefined on input line 
 136.
-
-
-Overfull \hbox (1325.06044pt too wide) in paragraph at lines 128--157
-\OT1/cmr/m/n/12 Database (PBDB) [[]]
- []
-
-
-Overfull \hbox (1229.53908pt too wide) in paragraph at lines 128--157
-\OT1/cmr/m/n/12 [[]]
- []
 
 [3]
 
@@ -515,39 +576,9 @@ LaTeX Warning: Reference `sec:suppSepk' on page 4 undefined on input line 165.
 LaTeX Warning: Reference `fig:supp_3TPub' on page 4 undefined on input line 176
 .
 
-
-Overfull \hbox (1323.85489pt too wide) in paragraph at lines 160--180
-\OT1/cmr/m/n/12 ver-sity, the PBDB [[]]
- []
-
-
-Overfull \hbox (1268.70534pt too wide) in paragraph at lines 160--180
-\OT1/cmr/m/n/12 cri-te-ria [[],
- []
-
-
-Overfull \hbox (1322.23256pt too wide) in paragraph at lines 160--180
-\OT1/cmr/m/n/12 timer'' cor-rec-tion [[]].
- []
-
 [4]
-Overfull \hbox (1554.11441pt too wide) in paragraph at lines 203--213
-\OT1/cmr/m/n/12 2013. Col-lec-tions were fil-tered us-ing the same ap-proach as
- Al-roy [[]]
- []
-
 
 LaTeX Warning: Reference `fig:divByPub' on page 5 undefined on input line 241.
-
-
-Overfull \hbox (1423.99956pt too wide) in paragraph at lines 224--244
-\OT1/cmr/m/n/12 publication-based spec-i-men databases [[],
- []
-
-
-Overfull \hbox (1353.56557pt too wide) in paragraph at lines 224--244
-\OT1/cmr/m/n/12 ``three timer'' cor-rec-tion [[]]
- []
 
 
 LaTeX Warning: Reference `fig:supp_3TPub' on page 5 undefined on input line 251
@@ -560,22 +591,16 @@ LaTeX Warning: Reference `fig:supp_3TPub' on page 5 undefined on input line 253
 
 LaTeX Warning: Reference `sec:rawPBDB' on page 5 undefined on input line 255.
 
-
-Overfull \hbox (1557.94817pt too wide) in paragraph at lines 245--257
-\OT1/cmr/m/n/12 sults to more com-pu-ta-tion-ally in-ten-sive sub-sampling pro-
-ce-dures [[],
- []
-
 [5]
 
 LaTeX Warning: Reference `sec:suppSepk' on page 6 undefined on input line 279.
 
-[6]
 
-LaTeX Warning: Reference `sec:suppSepk' on page 7 undefined on input line 315.
+LaTeX Warning: Reference `sec:suppSepk' on page 6 undefined on input line 315.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 328.
+[6]
 
 LaTeX Warning: Reference `fig:supp_PBDB_Px_cls' on page 7 undefined on input li
 ne 336.
@@ -584,53 +609,11 @@ ne 336.
 LaTeX Warning: Reference `fig:supp_sepkPx' on page 7 undefined on input line 35
 1.
 
-[7]
-Overfull \hbox (8.01971pt too wide) in paragraph at lines 410--428
-\OT1/cmr/m/n/12 crit-i-cized for their over-parameterization [[]],
- []
+[7] (./rominger_thesis.bbl [8] [9
 
-[8] (./rominger_thesis.bbl [9]
-bibitemlist
-
-Overfull \hbox (1235.41402pt too wide) in paragraph at lines 13--21
-[]
- []
-
-[10
+] [10]) [11]) [12
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 92--94
-[]\OT1/cmr/m/n/12 Hopkins, M.J., Simp-son, C. &
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--114
-[]\OT1/cmr/m/n/12 Madin,
- []
-
-
-Overfull \hbox (145.07439pt too wide) in paragraph at lines 130--133
-[]
- []
-
-[11])
-Underfull \hbox (badness 10000) in paragraph at lines 470--470
-[]\OT1/cmr/m/n/12 Figure 1.2: []Distribution of fluc-tu-a-tions in genus di-ver
--sity within
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 470--470
-\OT1/cmr/m/n/12 or-ders of ma-rine in-ver-te-brates in the Pa-le-o-bi-ol-ogy Da
-tabase
- []
-
-
-Overfull \hbox (1229.53908pt too wide) in paragraph at lines 470--470
-\OT1/cmr/m/n/12 [[]]
- []
-
-) [12] [13]
 \openout2 = `chap2.aux'.
 
  (./chap2.tex
@@ -646,11 +629,19 @@ Missing character: There is no ˜ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
- [14
+ [13
 
 
 
-] [15]
+] [14]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+
+[15]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
@@ -669,66 +660,68 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
 Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no “ in font cmr12!
- [18]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no “ in font cmr12!
-Missing character: There is no â in font cmr12!
 Missing character: There is no ˆ in font cmr12!
 Missing character: There is no ’ in font cmr12!
- [19]
+ [18]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [19]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
  [20]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
- [21]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
 Missing character: There is no ˜ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
- [22] [23]
+ [21] [22]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
+ [23]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ (./rominger_thesis.bbl [24]
+[25
 
-[24]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no “ in font cmr12!
-) [25]
+] [26]) [27] [28
+
+]) [29
+
+]
 \openout2 = `chap3.aux'.
 
- (./chap3.tex) [26
+ (./chap3.tex) [30
 
 
 
 ]
 \openout2 = `conclusion.aux'.
 
- (./conclusion.tex) [27
+ (./conclusion.tex) [31
 
 
 
 ]
+
+Package natbib Warning: There were multiply defined citations.
+
 \tf@toc=\write4
 \openout4 = `rominger_thesis.toc'.
 
@@ -738,21 +731,20 @@ Missing character: There is no “ in font cmr12!
 \tf@lot=\write6
 \openout6 = `rominger_thesis.lot'.
 
- (./rominger_thesis.aux
-(./abstract.aux) (./intro.aux) (./chap1.aux) (./chap2.aux) (./chap3.aux)
-(./conclusion.aux))
+(./rominger_thesis.aux (./abstract.aux) (./intro.aux) (./chap1.aux)
+(./chap2.aux) (./chap3.aux) (./conclusion.aux))
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3948 strings out of 493117
- 52919 string characters out of 6135433
- 150401 words of memory out of 5000000
- 7398 multiletter control sequences out of 15000+600000
+ 4371 strings out of 493117
+ 58884 string characters out of 6135433
+ 154756 words of memory out of 5000000
+ 7815 multiletter control sequences out of 15000+600000
  10284 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,11n,30p,819b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,11n,33p,453b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
@@ -765,10 +757,10 @@ l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local
 texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/tex
 live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on rominger_thesis.pdf (36 pages, 201245 bytes).
+Output written on rominger_thesis.pdf (40 pages, 205485 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
+ 183 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
