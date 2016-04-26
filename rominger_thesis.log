@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  25 APR 2016 15:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  25 APR 2016 19:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -357,151 +357,21 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count138
 )
 (./rominger_thesis.aux (./abstract.aux) (./intro.aux) (./chap1.aux)
-(./chap2.aux
-
-Package natbib Warning: Citation `alroy2010' multiply defined.
-
-
-Package natbib Warning: Citation `alroy08' multiply defined.
-
-
-Package natbib Warning: Citation `bak1993' multiply defined.
-
-
-Package natbib Warning: Citation `beck2004' multiply defined.
-
-
-Package natbib Warning: Citation `beck2003' multiply defined.
-
-
-Package natbib Warning: Citation `benton1995' multiply defined.
-
-
-Package natbib Warning: Citation `brose2005' multiply defined.
-
-
-Package natbib Warning: Citation `butler2004' multiply defined.
-
-
-Package natbib Warning: Citation `chave2004neutral' multiply defined.
-
-
-Package natbib Warning: Citation `cir1985' multiply defined.
-
-
-Package natbib Warning: Citation `eldredgeGould1972' multiply defined.
-
-
-Package natbib Warning: Citation `Erwin1998' multiply defined.
-
-
-Package natbib Warning: Citation `erwin2007' multiply defined.
-
-
-Package natbib Warning: Citation `erwin2012' multiply defined.
-
-
-Package natbib Warning: Citation `foote2008paleobiol' multiply defined.
-
-
-Package natbib Warning: Citation `fuentes2009' multiply defined.
-
-
-Package natbib Warning: Citation `gavrilets2005' multiply defined.
-
-
-Package natbib Warning: Citation `gilinsky1994' multiply defined.
-
-
-Package natbib Warning: Citation `harnik2011' multiply defined.
-
-
-Package natbib Warning: Citation `holman1989' multiply defined.
-
-
-Package natbib Warning: Citation `hopkins2014' multiply defined.
-
-
-Package natbib Warning: Citation `hubbell2001' multiply defined.
-
-
-Package natbib Warning: Citation `jablonski2008' multiply defined.
-
-
-Package natbib Warning: Citation `kirchner1998' multiply defined.
-
-
-Package natbib Warning: Citation `liow2007' multiply defined.
-
-
-Package natbib Warning: Citation `madin2006' multiply defined.
-
-
-Package natbib Warning: Citation `mayr1965systZool' multiply defined.
-
-
-Package natbib Warning: Citation `newman1985adaptive' multiply defined.
-
-
-Package natbib Warning: Citation `newman1995' multiply defined.
-
-
-Package natbib Warning: Citation `price2014' multiply defined.
-
-
-Package natbib Warning: Citation `quental2013' multiply defined.
-
-
-Package natbib Warning: Citation `rabosky2006laser' multiply defined.
-
-
-Package natbib Warning: Citation `rabosky2009ecolLett' multiply defined.
-
-
-Package natbib Warning: Citation `raup1982' multiply defined.
-
-
-Package natbib Warning: Citation `ricklefs2006neutral' multiply defined.
-
-
-Package natbib Warning: Citation `rosindell2011TREE' multiply defined.
-
-
-Package natbib Warning: Citation `roy2009range' multiply defined.
-
-
-Package natbib Warning: Citation `sepkoski1984' multiply defined.
-
-
-Package natbib Warning: Citation `sepkoski1992' multiply defined.
-
-
-Package natbib Warning: Citation `simpson1953' multiply defined.
-
-
-Package natbib Warning: Citation `sole1997' multiply defined.
-
-
-Package natbib Warning: Citation `vermeij1987' multiply defined.
-
-
-Package natbib Warning: Citation `vrba1983' multiply defined.
-
-) (./chap3.aux) (./conclusion.aux))
+(./chap2.aux) (./chap3.aux) (./conclusion.aux))
 \openout1 = `rominger_thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 
 ******************************************************
@@ -528,7 +398,7 @@ Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Class ucbthesis Warning: The final submitted version should not have an approva
-l page on input line 32.
+l page on input line 33.
 
 [2] [3]
 \openout2 = `abstract.aux'.
@@ -609,14 +479,28 @@ ne 336.
 LaTeX Warning: Reference `fig:supp_sepkPx' on page 7 undefined on input line 35
 1.
 
-[7] (./rominger_thesis.bbl [8] [9
-
-] [10]) [11]) [12
+[7] [8]) [9
 
 ]
 \openout2 = `chap2.aux'.
 
  (./chap2.tex
+
+Package natbib Warning: Citation `ricklefs2004' on page 10 undefined on input l
+ine 14.
+
+
+Package natbib Warning: Citation `wiens2011' on page 10 undefined on input line
+ 19.
+
+
+Package natbib Warning: Citation `wiens2011' on page 10 undefined on input line
+ 34.
+
+
+Package natbib Warning: Citation `jetz2012' on page 10 undefined on input line 
+34.
+
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ˜ in font cmr12!
@@ -629,99 +513,156 @@ Missing character: There is no ˜ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
- [13
+[10
 
 
 
-] [14]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no “ in font cmr12!
+]
+
+Package natbib Warning: Citation `warren2015' on page 11 undefined on input lin
+e 60.
+
+
+Package natbib Warning: Citation `vitousek2004' on page 11 undefined on input l
+ine 64.
+
+
+Package natbib Warning: Citation `wagner1995' on page 11 undefined on input lin
+e 65.
+
+
+Package natbib Warning: Citation `slatkin1987' on page 11 undefined on input li
+ne 80.
+
+[11]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
 
-[15]
+
+Package natbib Warning: Citation `golan1996' on page 12 undefined on input line
+ 118.
+
+
+Package natbib Warning: Citation `roussev2010' on page 12 undefined on input li
+ne 118.
+
+
+Package natbib Warning: Citation `gull1986' on page 12 undefined on input line 
+119.
+
+
+Package natbib Warning: Citation `phillips2006' on page 12 undefined on input l
+ine 120.
+
+
+Package natbib Warning: Citation `dewar2008' on page 12 undefined on input line
+ 120.
+
+
+Package natbib Warning: Citation `thompson2013' on page 12 undefined on input l
+ine 139.
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+[12]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [16]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no “ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no “ in font cmr12!
- [17]
+ [13] [14]
+
+Package natbib Warning: Citation `RCore' on page 15 undefined on input line 289
+.
+
+
+Package natbib Warning: Citation `whittaker2008' on page 15 undefined on input 
+line 298.
+
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no ˆ in font cmr12!
 Missing character: There is no ’ in font cmr12!
- [18]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no “ in font cmr12!
+[15]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ˜ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
- [19]
+ [16]
+
+Package natbib Warning: Citation `brewer2015' on page 17 undefined on input lin
+e 428.
+
+
+Package natbib Warning: Citation `goodman2015' on page 17 undefined on input li
+ne 429.
+
+
+Package natbib Warning: Citation `goodman2015' on page 17 undefined on input li
+ne 433.
+
+[17]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
+
+
+Package natbib Warning: Citation `suweis2014' on page 18 undefined on input lin
+e 505.
+
+[18] [19]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
+Missing character: There is no “ in font cmr12!
  [20]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
-Missing character: There is no ˜ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
- [21] [22]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [23]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no “ in font cmr12!
- (./rominger_thesis.bbl [24]
-[25
+ [21] [22
 
-] [26]) [27] [28
-
-]) [29
+]) [23
 
 ]
 \openout2 = `chap3.aux'.
 
- (./chap3.tex) [30
+ (./chap3.tex) [24
 
 
 
 ]
 \openout2 = `conclusion.aux'.
 
- (./conclusion.tex) [31
+ (./conclusion.tex) [25
 
 
 
 ]
+(./rominger_thesis.bbl [26
 
-Package natbib Warning: There were multiply defined citations.
 
+]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ [27]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [28] [29])
+
+Package natbib Warning: There were undefined citations.
+
+[30]
 \tf@toc=\write4
 \openout4 = `rominger_thesis.toc'.
 
@@ -731,20 +672,20 @@ Package natbib Warning: There were multiply defined citations.
 \tf@lot=\write6
 \openout6 = `rominger_thesis.lot'.
 
-(./rominger_thesis.aux (./abstract.aux) (./intro.aux) (./chap1.aux)
+ (./rominger_thesis.aux (./abstract.aux) (./intro.aux) (./chap1.aux)
 (./chap2.aux) (./chap3.aux) (./conclusion.aux))
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4371 strings out of 493117
- 58884 string characters out of 6135433
- 154756 words of memory out of 5000000
- 7815 multiletter control sequences out of 15000+600000
+ 4502 strings out of 493117
+ 61224 string characters out of 6135433
+ 157758 words of memory out of 5000000
+ 7948 multiletter control sequences out of 15000+600000
  10284 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,11n,33p,453b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,10n,33p,434b,481s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
@@ -757,10 +698,10 @@ l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local
 texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/tex
 live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on rominger_thesis.pdf (40 pages, 205485 bytes).
+Output written on rominger_thesis.pdf (39 pages, 207440 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
+ 180 PDF objects out of 1000 (max. 8388607)
+ 125 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

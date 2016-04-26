@@ -10,25 +10,24 @@
 \contentsline {subsection}{Numerical methods}{5}
 \contentsline {section}{\numberline {1.3}Results and Discussion}{6}
 \contentsline {section}{\numberline {1.4}Conclusion}{7}
-\contentsline {chapter}{Bibliography}{9}
-\contentsline {chapter}{\chapternumberline {2}Community assembly on isolated islands: macroecology meets evolution}{13}
-\contentsline {section}{\numberline {2.1}Introduction}{13}
-\contentsline {subsection}{Hotspot oceanic archipelagos as model systems}{14}
-\contentsline {subsection}{Development of genetic structure}{14}
-\contentsline {subsection}{Macroecological metrics and idealized ecological theory}{15}
-\contentsline {section}{\numberline {2.2}Methods}{16}
+\contentsline {chapter}{\chapternumberline {2}Community assembly on isolated islands: macroecology meets evolution}{10}
+\contentsline {section}{\numberline {2.1}Introduction}{10}
+\contentsline {subsection}{Hotspot oceanic archipelagos as model systems}{11}
+\contentsline {subsection}{Development of genetic structure}{11}
+\contentsline {subsection}{Macroecological metrics and idealized ecological theory}{12}
+\contentsline {section}{\numberline {2.2}Methods}{13}
+\contentsline {subsection}{Dispersal-driven processes to in situ differentiation across the island chronosequence}{13}
+\contentsline {subsection}{Ecological metrics across the island chronosequence}{14}
+\contentsline {section}{\numberline {2.3}Results}{16}
 \contentsline {subsection}{Dispersal-driven processes to in situ differentiation across the island chronosequence}{16}
-\contentsline {subsection}{Ecological metrics across the island chronosequence}{17}
-\contentsline {section}{\numberline {2.3}Results}{19}
-\contentsline {subsection}{Dispersal-driven processes to in situ differentiation across the island chronosequence}{19}
-\contentsline {subsection}{Ecological metrics across the island chronosequence}{19}
-\contentsline {section}{\numberline {2.4}Discussion}{20}
-\contentsline {subsection}{Development of genetic population structure at different trophic levels}{20}
-\contentsline {subsection}{Macroecological metrics: network structure and steady state}{21}
-\contentsline {subsection}{Future research}{22}
-\contentsline {subsubsection}{Ecological data: assembly of species into communities}{23}
-\contentsline {subsubsection}{Evolutionary data: diversification within species}{23}
-\contentsline {section}{\numberline {2.5}Conclusions}{24}
-\contentsline {chapter}{Bibliography}{25}
-\contentsline {chapter}{\chapternumberline {3}meteR: An R package for testing the Maximum Entropy Theory of Ecology}{30}
-\contentsline {chapter}{Conclusion}{31}
+\contentsline {subsection}{Ecological metrics across the island chronosequence}{16}
+\contentsline {section}{\numberline {2.4}Discussion}{17}
+\contentsline {subsection}{Development of genetic population structure at different trophic levels}{17}
+\contentsline {subsection}{Macroecological metrics: network structure and steady state}{18}
+\contentsline {subsection}{Future research}{19}
+\contentsline {subsubsection}{Ecological data: assembly of species into communities}{20}
+\contentsline {subsubsection}{Evolutionary data: diversification within species}{20}
+\contentsline {section}{\numberline {2.5}Conclusions}{20}
+\contentsline {chapter}{\chapternumberline {3}meteR: An R package for testing the Maximum Entropy Theory of Ecology}{24}
+\contentsline {chapter}{Conclusion}{25}
+\contentsline {chapter}{Bibliography}{26}
