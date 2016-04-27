@@ -1,6 +1,6 @@
 \contentsline {chapter}{Contents}{ii}
-\contentsline {chapter}{List of Figures}{iii}
-\contentsline {chapter}{List of Tables}{iv}
+\contentsline {chapter}{List of Figures}{iv}
+\contentsline {chapter}{List of Tables}{vi}
 \contentsline {chapter}{Introduction}{1}
 \contentsline {chapter}{\chapternumberline {1}Punctuated non-equilibrium and niche conservatism explain biodiversity fluctuations through the Phanerozoic}{2}
 \contentsline {section}{\numberline {1.1}Background}{2}
@@ -30,4 +30,11 @@
 \contentsline {section}{\numberline {2.5}Conclusions}{20}
 \contentsline {chapter}{\chapternumberline {3}meteR: An R package for testing the Maximum Entropy Theory of Ecology}{24}
 \contentsline {chapter}{Conclusion}{25}
-\contentsline {chapter}{Bibliography}{26}
+\contentsline {appendix}{\chapternumberline {A}Supplement to ``Punctuated non-equilibrium and niche conservatism explain biodiversity fluctuations through the Phanerozoic''}{26}
+\contentsline {section}{\numberline {A.1}Limit distribution of a time-averaged homogeneous origination-extinction process}{26}
+\contentsline {section}{\numberline {A.2}Additional super-statistical analyses}{27}
+\contentsline {subsection}{Raw PBDB data}{27}
+\contentsline {subsection}{Different taxonomic ranks in PBDB data}{27}
+\contentsline {subsection}{Sepkoski's compendium}{27}
+\contentsline {appendix}{\chapternumberline {B}Supplement to ``Community assembly on isolated islands: Macroecology meets evolution''}{29}
+\contentsline {chapter}{Bibliography}{32}

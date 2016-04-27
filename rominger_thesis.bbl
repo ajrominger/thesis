@@ -1,4 +1,4 @@
-\begin{thebibliography}{85}
+\begin{thebibliography}{92}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Albrecht \textit{et~al.}(2010)Albrecht, Riesen \&
@@ -39,6 +39,11 @@ Bak, P. \& Sneppen, K. (1993) \textit{Phys. Rev. Lett.}, \textbf{71},
 \bibitem[{Bascompte \& Jordano(2007)}]{bascompte2007}
 Bascompte, J. \& Jordano, P. (2007) \textit{Annu. Rev. Ecol. Evol. Syst.},
   \textbf{38}, 567--93.
+
+\bibitem[{Bascompte \textit{et~al.}(2003)Bascompte, Jordano, Melian \&
+  Olesen}]{bascompte2003}
+Bascompte, J., Jordano, P., Melian, C.J. \& Olesen, J.M. (2003) \textit{Proc.
+  Natl Acad. Sci. USA}, \textbf{100}, 9383--9387.
 
 \bibitem[{Beck(2004)}]{beck2004}
 Beck, C. (2004) \textit{Physica D: Nonlinear Phenomena}, \textbf{193},
@@ -127,6 +132,11 @@ Fuentes, M.A., Gerig, A. \& Vicente, J. (2009) \textit{PLoS ONE}, \textbf{4},
 Gavrilets, S. \& Vose, A. (2005) \textit{Proceedings of the National academy of
   Sciences of the United States of America}, \textbf{102}, 18040--18045.
 
+\bibitem[{Gibson \textit{et~al.}(2011)Gibson, Knott, Eberlein \&
+  Memmott}]{gibson2011}
+Gibson, R.H., Knott, B., Eberlein, T. \& Memmott, J. (2011) \textit{Oikos},
+  \textbf{120}, 822--831.
+
 \bibitem[{Gilinsky(1994)}]{gilinsky1994}
 Gilinsky, N.L. (1994) \textit{Paleobiology}, 445--458.
 
@@ -149,6 +159,10 @@ Goodman, K., Welter, S. \& Roderick, G. (2012) \textit{Evolution}, \textbf{66},
 \bibitem[{Gruner(2007)}]{gruner2007}
 Gruner, D.S. (2007) \textit{Biological Journal of the Linnean Society},
   \textbf{90}, 551--570.
+
+\bibitem[{Hannisdal \& Peters(2011)}]{hannisdal2011}
+Hannisdal, B. \& Peters, S.E. (2011) \textit{Science}, \textbf{334},
+  1121--1124.
 
 \bibitem[{Harnik(2011)}]{harnik2011}
 Harnik, P.G. (2011) \textit{Proceedings of the National Academy of Sciences},
@@ -216,9 +230,17 @@ Mendelson, T.C. \& Shaw, K.L. (2005) \textit{Nature}, \textbf{433}, 375--376.
 Newman, C., Cohen, J. \& Kipnis, C. (1985) \textit{Nature}, \textbf{315},
   400--401.
 
+\bibitem[{Newman \& Girvan(2004)}]{newman2004}
+Newman, M. \& Girvan, M. (2004) \textit{Physical Review E}, \textbf{69},
+  026113.
+
 \bibitem[{Newman \& Roberts(1995)}]{newman1995}
 Newman, M.E.J. \& Roberts, B.W. (1995) \textit{Proceedings of the Royal Society
   of London B}, \textbf{260}, 31--37.
+
+\bibitem[{Nielsen \& Bascompte(2007)}]{nielsen2007}
+Nielsen, A. \& Bascompte, J. (2007) \textit{Journal of Ecology}, \textbf{95},
+  1134--1141.
 
 \bibitem[{Nuismer \textit{et~al.}(2013)Nuismer, Jordano \&
   Bascompte}]{nuismer2013}
@@ -236,6 +258,11 @@ O'Grady, P.M., Lapoint, R.T., Bonacum, J., Lasola, J., Owen, E., Wu, Y. \&
 Oksanen, J., Blanchet, F.G., Kindt, R., Legendre, P., Minchin, P.R., O'Hara,
   R.B., Simpson, G.L., Solymos, P., Stevens, M.H.H. \& Wagner, H. (2013)
   \textit{vegan: Community Ecology Package}.
+
+\bibitem[{Olesen \textit{et~al.}(2007)Olesen, Bascompte, Dupont \&
+  Jordano}]{olesen2007}
+Olesen, J., Bascompte, J., Dupont, Y. \& Jordano, P. (2007) \textit{Proc. Natl
+  Acad. Sci. USA}, \textbf{104}, 19891--19896.
 
 \bibitem[{Percy(2003)}]{percy2003}
 Percy, D. (2003) \textit{Evolution}, \textbf{57}, 2540--2556.
@@ -283,6 +310,11 @@ Ricklefs, R.E. (2004) \textit{Ecology Letters}, \textbf{7}, 1--15.
 
 \bibitem[{Ricklefs(2006)}]{ricklefs2006neutral}
 Ricklefs, R.E. (2006) \textit{Ecology}, \textbf{87}, 1424--1431.
+
+\bibitem[{Rivera-Hutinel \textit{et~al.}(2012)Rivera-Hutinel, Bustamante,
+  Mar{\'\i}n \& Medel}]{rivera2012}
+Rivera-Hutinel, A., Bustamante, R., Mar{\'\i}n, V. \& Medel, R. (2012)
+  \textit{Ecology}, \textbf{93}, 1593--1603.
 
 \bibitem[{Roderick \textit{et~al.}(2012)Roderick, Croucher, Vandergast \&
   Gillespie}]{roderick2012}

@@ -7,6 +7,8 @@ A level-1 auxiliary file: chap1.aux
 A level-1 auxiliary file: chap2.aux
 A level-1 auxiliary file: chap3.aux
 A level-1 auxiliary file: conclusion.aux
+A level-1 auxiliary file: ch1_appendix.aux
+A level-1 auxiliary file: ch2_appendix.aux
 The style file: thesis.bst
 Database file #1: thesis.bib
 Warning--I didn't find a database entry for "warren2015"
@@ -24,45 +26,45 @@ Warning--I didn't find a database entry for "brewer2015"
 Warning--I didn't find a database entry for "goodman2015"
 Warning--I didn't find a database entry for "suweis2014"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 85 entries,
+You've used 92 entries,
             3046 wiz_defined-function locations,
-            1164 strings with 19282 characters,
-and the built_in function-call counts, 48170 in all, are:
-= -- 3930
-> -- 2191
-< -- 56
-+ -- 879
-- -- 757
-* -- 4038
-:= -- 7764
-add.period$ -- 92
-call.type$ -- 85
-change.case$ -- 591
-chr.to.int$ -- 86
-cite$ -- 85
-duplicate$ -- 3137
-empty$ -- 3432
-format.name$ -- 994
-if$ -- 9184
+            1204 strings with 20299 characters,
+and the built_in function-call counts, 52396 in all, are:
+= -- 4285
+> -- 2381
+< -- 59
++ -- 956
+- -- 823
+* -- 4416
+:= -- 8427
+add.period$ -- 99
+call.type$ -- 92
+change.case$ -- 641
+chr.to.int$ -- 93
+cite$ -- 92
+duplicate$ -- 3402
+empty$ -- 3728
+format.name$ -- 1087
+if$ -- 9986
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 679
-newline$ -- 259
-num.names$ -- 344
-pop$ -- 1179
+missing$ -- 736
+newline$ -- 280
+num.names$ -- 372
+pop$ -- 1279
 preamble$ -- 1
-purify$ -- 589
+purify$ -- 639
 quote$ -- 0
-skip$ -- 1237
+skip$ -- 1336
 stack$ -- 0
-substring$ -- 2851
-swap$ -- 1730
+substring$ -- 3136
+swap$ -- 1883
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 750
+type$ -- 813
 warning$ -- 0
-while$ -- 396
+while$ -- 430
 width$ -- 0
-write$ -- 849
+write$ -- 919
 (There were 14 warnings)
