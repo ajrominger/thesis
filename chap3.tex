@@ -192,7 +192,7 @@ accessible and provides an efficient workflow for evaluating METE with
 empirical data.
 
 
-\section{meteR}
+\section{\texttt{meteR}}
 
 Our \texttt{R} package, \texttt{meteR}, helps to address two key
 challenges with using METE: it reduces the need for practitioners to
@@ -473,8 +473,6 @@ to reject the hypothesis that the data came from a METE distribution.
  ipd2.z <- logLikZ(ipd2, nrep=999, return.sim=TRUE) # return simulated values 
                                                     # for plotting
  ipd2.z$z # the z-value itself
-\end{Sinput}
-\begin{Soutput}
 'log Lik.' -2.713953 (df=2)
 \end{verbatim}
 The z-value less than $\approx 2$ indicates we cannot reject METE.
@@ -484,7 +482,8 @@ Figure \ref{fig:arth} (panel c) visually confirms this:
  abline(v=ipd2.z$obs) # observed likelihood
 \end{verbatim}
 
-More detailed examples are availible as a vignette included in \texttt{meteR} and accessible with the command
+More detailed examples are availible as a vignette included in
+\texttt{meteR} and accessible with the command
 
 
 \section{Conclusions}
@@ -577,7 +576,10 @@ Betty Moore Foundation. CM acknowledges funding from USDA-NRI grant
 
 \section*{Tables}
 
-\begin{table}[H]
+%% for raggedright columns
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\begin{table}[!hp]
 \caption[METE predictions]{METE predictions. Following notational
   conventions in \citet{Harte:2011ut}, $Z$ and $Z_{\Pi}$ are partition
   functions (i.e. to ensure their respective probability distributions
@@ -587,7 +589,7 @@ Betty Moore Foundation. CM acknowledges funding from USDA-NRI grant
   E_0\lambda_2$, and $\gamma=\lambda_{1} + \epsilon \lambda_{2}$.} 
 \label{tab:metrics}
 \small
-\begin{tabular}{p{4cm} p{1.1cm} p{5.5cm} p{2cm} p{2cm}}
+\begin{tabular}{L{4cm} p{1.2cm} L{5.4cm} p{2cm} p{2cm}}
   \hline
  Predictions & Acronym & Functional Form & Type & \texttt{meteR} function\\ 
   \hline
@@ -604,4 +606,3 @@ Betty Moore Foundation. CM acknowledges funding from USDA-NRI grant
 \end{tabular}
 \end{table}
 
-\end{document}
