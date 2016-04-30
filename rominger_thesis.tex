@@ -9,11 +9,38 @@
 \usepackage{paralist}
 \usepackage{natbib}
 % \usepackage{chapterbib}
+\usepackage{graphicx}
+\usepackage{rotating}
+\usepackage{array}
 
 \makeevenfoot{simple}{}{\thepage}{}
 \makeoddfoot{simple}{}{\thepage}{}
 \makeevenhead{simple}{}{}{}
 \makeoddhead{simple}{}{}{}
+
+% \copypagestyle{chapter}{simple} % make chapter a page style of its own
+% \makeevenfoot{chapter}{}{\thepage}{}
+% \makeoddfoot{chapter}{}{\thepage}{}
+% \makeevenhead{chapter}{}{}{}
+% \makeoddhead{chapter}{}{}{}
+
+% \copypagestyle{title}{simple} 
+% \makeevenfoot{title}{}{\thepage}{}
+% \makeoddfoot{title}{}{\thepage}{}
+% \makeevenhead{title}{}{}{}
+% \makeoddhead{title}{}{}{}
+
+% \copypagestyle{book}{simple} 
+% \makeevenfoot{book}{}{\thepage}{}
+% \makeoddfoot{book}{}{\thepage}{}
+% \makeevenhead{book}{}{}{}
+% \makeoddhead{book}{}{}{}
+
+% \copypagestyle{part}{simple} 
+% \makeevenfoot{part}{}{\thepage}{}
+% \makeoddfoot{part}{}{\thepage}{}
+% \makeevenhead{part}{}{}{}
+% \makeoddhead{part}{}{}{}
 
 \begin{document}
 
@@ -43,10 +70,10 @@
 \null\vfil
 \begin{center}
   I dedicate this thesis to my guides and sources of solace through
-  the process of completing my Ph.D: to my mother Judy Rominger and
-  my godmother Marsha Keener; to my partner Linden Schneider; and to
-  the kolea \textit{(Pluvialis fulva)} giant koa \textit{(Acacia koa)} of
-  Hawaii.
+  the process of completing my Ph.D: to my mother Judy Rominger and my
+  godmother Marsha Keener; to my partner Linden Schneider; and to the
+  kolea \textit{(Pluvialis fulva)} and giant koa \textit{(Acacia koa)}
+  of Hawaii.
 \end{center}
 \vfil\null
 \end{dedication}
@@ -95,7 +122,8 @@ and Management and the Walker Fund at UC Berkeley.s
 \addtopsmarks{headings}{}{
   \createmark{chapter}{left}{nonumber}{}{}
 }
-\pagestyle{headings}
+
+\pagestyle{simple}
 
 \let\origChapName\chaptername
 \renewcommand{\chaptername}{}
@@ -111,8 +139,8 @@ and Management and the Walker Fund at UC Berkeley.s
 \include{ch1_appendix}
 \include{ch2_appendix}
 
-\bibliographystyle{thesis}
-\bibliography{thesis}
+% \bibliographystyle{thesis}
+% \bibliography{thesis}
 
 \end{document}
 

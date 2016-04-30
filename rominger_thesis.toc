@@ -1,6 +1,6 @@
 \contentsline {chapter}{Contents}{ii}
-\contentsline {chapter}{List of Figures}{iii}
-\contentsline {chapter}{List of Tables}{iv}
+\contentsline {chapter}{List of Figures}{iv}
+\contentsline {chapter}{List of Tables}{v}
 \contentsline {chapter}{Introduction}{1}
 \contentsline {chapter}{\chapternumberline {1}Punctuated non-equilibrium and niche conservatism explain biodiversity fluctuations through the Phanerozoic}{2}
 \contentsline {section}{\numberline {1.1}Background}{2}
@@ -10,21 +10,40 @@
 \contentsline {subsection}{Numerical methods}{5}
 \contentsline {section}{\numberline {1.3}Results and Discussion}{5}
 \contentsline {section}{\numberline {1.4}Conclusion}{7}
-\contentsline {chapter}{\chapternumberline {2}Community assembly on isolated islands: macroecology meets evolution}{10}
-\contentsline {section}{\numberline {2.1}Introduction}{10}
-\contentsline {subsection}{Hotspot oceanic archipelagos as model systems}{11}
-\contentsline {subsection}{Development of genetic structure}{11}
-\contentsline {subsection}{Macroecological metrics and idealized ecological theory}{12}
-\contentsline {section}{\numberline {2.2}Methods}{13}
-\contentsline {subsection}{Dispersal-driven processes to in situ differentiation across the island chronosequence}{13}
-\contentsline {subsection}{Ecological metrics across the island chronosequence}{14}
-\contentsline {section}{\numberline {2.3}Results}{15}
+\contentsline {chapter}{\chapternumberline {2}Community assembly on isolated islands: macroecology meets evolution}{12}
+\contentsline {section}{\numberline {2.1}Introduction}{12}
+\contentsline {subsection}{Hotspot oceanic archipelagos as model systems}{13}
+\contentsline {subsection}{Development of genetic structure}{13}
+\contentsline {subsection}{Macroecological metrics and idealized ecological theory}{14}
+\contentsline {section}{\numberline {2.2}Methods}{15}
 \contentsline {subsection}{Dispersal-driven processes to in situ differentiation across the island chronosequence}{15}
 \contentsline {subsection}{Ecological metrics across the island chronosequence}{16}
-\contentsline {section}{\numberline {2.4}Discussion}{17}
-\contentsline {subsection}{Development of genetic population structure at different trophic levels}{17}
-\contentsline {subsection}{Macroecological metrics: network structure and steady state}{18}
-\contentsline {subsection}{Future research}{19}
-\contentsline {subsubsection}{Ecological data: assembly of species into communities}{19}
-\contentsline {subsubsection}{Evolutionary data: diversification within species}{20}
-\contentsline {section}{\numberline {2.5}Conclusions}{20}
+\contentsline {section}{\numberline {2.3}Results}{17}
+\contentsline {subsection}{Dispersal-driven processes to in situ differentiation across the island chronosequence}{17}
+\contentsline {subsection}{Ecological metrics across the island chronosequence}{18}
+\contentsline {section}{\numberline {2.4}Discussion}{19}
+\contentsline {subsection}{Development of genetic population structure at different trophic levels}{19}
+\contentsline {subsection}{Macroecological metrics: network structure and steady state}{20}
+\contentsline {subsection}{Future research}{21}
+\contentsline {subsubsection}{Ecological data: assembly of species into communities}{21}
+\contentsline {subsubsection}{Evolutionary data: diversification within species}{22}
+\contentsline {section}{\numberline {2.5}Conclusions}{22}
+\contentsline {chapter}{\chapternumberline {3}\texttt {meteR}: An R package for testing the Maximum Entropy Theory of Ecology}{30}
+\contentsline {section}{\numberline {3.1}Background on the Maximum Entropy Theory of Ecology}{31}
+\contentsline {subsection}{Stronger tests of METE}{32}
+\contentsline {section}{\numberline {3.2}\texttt {meteR}}{33}
+\contentsline {section}{\numberline {3.3}Package Features}{34}
+\contentsline {subsection}{Inputs}{34}
+\contentsline {subsection}{Core Functions}{35}
+\contentsline {subsection}{Macroecological Predictions}{35}
+\contentsline {subsection}{Directly Working with Probability Distributions}{36}
+\contentsline {section}{\numberline {3.4}Sample Code}{36}
+\contentsline {section}{\numberline {3.5}Conclusions}{38}
+\contentsline {chapter}{Conclusion}{41}
+\contentsline {appendix}{\chapternumberline {A}Supplement to ``Punctuated non-equilibrium and niche conservatism explain biodiversity fluctuations through the Phanerozoic''}{42}
+\contentsline {section}{\numberline {A.1}Limit distribution of a time-averaged homogeneous origination-extinction process}{42}
+\contentsline {section}{\numberline {A.2}Additional super-statistical analyses}{43}
+\contentsline {subsection}{Raw PBDB data}{43}
+\contentsline {subsection}{Different taxonomic ranks in PBDB data}{43}
+\contentsline {subsection}{Sepkoski's compendium}{43}
+\contentsline {appendix}{\chapternumberline {B}Supplement to ``Community assembly on isolated islands: Macroecology meets evolution''}{45}
