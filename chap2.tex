@@ -663,8 +663,9 @@ Foundation DEB 1241253.
 
 \section*{Figures}
 
-\begin{figure}
-%\centerline{\includegraphics[scale=0.5]{fig_pkx-fbeta.pdf}}
+\begin{figure}[!hp]
+  \centering
+  \includegraphics[scale=0.35]{figs/fig_map.pdf}
   \caption[Map of substrate age]{Map of substrate age (millions of
 years, My) of the islands of Kauai, Maui and Hawaii. Colours
 correspond to substrate age from young (light) to old (dark). Focal
@@ -674,8 +675,9 @@ represented by grey circles..}
   \label{fig:map}
 \end{figure}
 
-\begin{figure}[!hp] \centering
-% \includegraphics[scale=0.7]{fig_Px.pdf}
+\begin{figure}[!hp] 
+  \centering
+  \includegraphics[scale=0.35]{figs/fig_volcanoFst.pdf}
   \caption[Population genetic structure]{Population genetic structure
 ($\Phi_{ST}$ for all taxa except \textit{Laupala} for which we used
 $F_{ST}$) among sites within volcanoes with volcano age for insects
@@ -696,8 +698,9 @@ quasimodo}; 11, \textit{Theridion grallator}.}
   \label{fig:popGen}
 \end{figure}
 
-\begin{figure}[!hp] \centering
-% \includegraphics[scale=0.9]{fig_dStat(3TP).pdf}
+\begin{figure}[!hp] 
+  \centering
+  \includegraphics[scale=0.35]{figs/fig_degree.pdf}
   \caption[Patterns in degree distributions across sites]{Patterns in
 degree distributions across sites, comparing archipelago-wide endemics
 (cosmopolitans) with single-island endemic (Endemics) taxa. The top
@@ -715,12 +718,24 @@ but significantly increase on the intermediate-aged site Maui
   \label{fig:degree}
 \end{figure}
 
+\begin{figure}[!hp] 
+  \centering
+  \includegraphics[scale=0.4]{figs/fig_netMets.pdf}
+  \caption[Patterns in degree distributions across sites]{Trends in
+    network metric nestedness and modularity through time. Nestedness
+    decreases while modularity increases. Error bars represent 95\%
+    confidence intervals from a null model simulation.}
+\label{fig:netMet}
+\end{figure}
+
 \clearpage
 
 \section*{Tables}
 
-\begin{table}[!hp] \centering
-% \includegraphics[scale=0.9]{fig_dStat(3TP).pdf}
+\begin{sidewaystable}[!h]
+% \begin{table}[!hp] 
+  \centering
+  \includegraphics[scale=1]{figs/tab_amova.pdf}
   \caption[Results of the analyses of molecular variance]{Results of
 the analyses of molecular variance (AMOVA) that partitions molecular
 genetic variation among volcanoes and among sites within volcanoes for
@@ -729,4 +744,5 @@ Hawaii. Where estimates of divergence through molecular dating are
 available for the taxa, they are presented to show the timeframe
 within which this genetic structure has developed.}
   \label{tab:genStat}
-\end{table}
+% \end{table}
+\end{sidewaystable}
