@@ -39,11 +39,11 @@
 \contentsline {subsection}{Directly Working with Probability Distributions}{36}
 \contentsline {section}{\numberline {3.4}Sample Code}{36}
 \contentsline {section}{\numberline {3.5}Conclusions}{38}
-\contentsline {chapter}{Conclusion}{41}
-\contentsline {appendix}{\chapternumberline {A}Supplement to ``Punctuated non-equilibrium and niche conservatism explain biodiversity fluctuations through the Phanerozoic''}{42}
-\contentsline {section}{\numberline {A.1}Limit distribution of a time-averaged homogeneous origination-extinction process}{42}
-\contentsline {section}{\numberline {A.2}Additional super-statistical analyses}{43}
-\contentsline {subsection}{Raw PBDB data}{43}
-\contentsline {subsection}{Different taxonomic ranks in PBDB data}{43}
-\contentsline {subsection}{Sepkoski's compendium}{43}
-\contentsline {appendix}{\chapternumberline {B}Supplement to ``Community assembly on isolated islands: Macroecology meets evolution''}{45}
+\contentsline {chapter}{Conclusion}{43}
+\contentsline {appendix}{\chapternumberline {A}Supplement to ``Punctuated non-equilibrium and niche conservatism explain biodiversity fluctuations through the Phanerozoic''}{44}
+\contentsline {section}{\numberline {A.1}Limit distribution of a time-averaged homogeneous origination-extinction process}{44}
+\contentsline {section}{\numberline {A.2}Additional super-statistical analyses}{45}
+\contentsline {subsection}{Raw PBDB data}{45}
+\contentsline {subsection}{Different taxonomic ranks in PBDB data}{45}
+\contentsline {subsection}{Sepkoski's compendium}{45}
+\contentsline {appendix}{\chapternumberline {B}Supplement to ``Community assembly on isolated islands: Macroecology meets evolution''}{47}

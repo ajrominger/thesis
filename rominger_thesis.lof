@@ -8,16 +8,16 @@
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Patterns in degree distributions across sites}}{26}
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Patterns in degree distributions across sites}}{27}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces \texttt {meteR}'s workflow}}{40}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \texttt {meteR}'s workflow}}{39}
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Species abundance distribution and species area relationship for the \texttt {anbo} dataset}}{40}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Individual power distributions shown}}{40}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Individual power distributions shown}}{41}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Relationship between number of publications and genus diversity}}{44}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Comparison of SQS method with the raw data and three-timer bias correction method}}{44}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Super-statistical prediction of raw data}}{44}
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Super-statistical prediction of bias corrected class-level data}}{44}
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Super-statistical prediction for Sepkoski's compendium}}{44}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Relationship between number of publications and genus diversity}}{46}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Comparison of SQS method with the raw data and three-timer bias correction method}}{46}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Super-statistical prediction of raw data}}{46}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Super-statistical prediction of bias corrected class-level data}}{46}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Super-statistical prediction for Sepkoski's compendium}}{46}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Comparison of different null models}}{47}
-\contentsline {figure}{\numberline {B.2}{\ignorespaces NODF and modularity for non-conservative networks}}{47}
-\contentsline {figure}{\numberline {B.3}{\ignorespaces Result from rarification analysis}}{47}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Comparison of different null models}}{49}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces NODF and modularity for non-conservative networks}}{49}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces Result from rarification analysis}}{49}

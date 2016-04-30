@@ -520,56 +520,57 @@ Betty Moore Foundation. CM acknowledges funding from USDA-NRI grant
 \section*{Figures}
 
 
-\begin{figure}[H] 
-\begin{center}
-%\includegraphics[width=\textwidth]{Figures/meteR_workflow.pdf}
-\caption[\texttt{meteR}'s workflow]{\texttt{meteR}'s workflow. \texttt{meteR} accepts multiple data
-  types, which are used to calculate the core probability
-  distributions from which all predictions arise: the \textit{Ecosystem
-    Structure Function} (ESF) and the \textit{Spatial Structure Function}
-  (SSF). From the ESF and SSF, a variety of macroecological
-  distributions can be calculated (see Table \ref{tab:metrics} for
-  definitions). Each of these can be plotted or summarized in various
-  ways and model fit is readily assessed. Furthermore, density,
-  distribution function, quantile function and random generation is
-  available for each function, allowing for custom plotting,
-  simulation and model evaluation.}
+\begin{figure}[!h] 
+  \begin{center}
+    \includegraphics[width=\textwidth]{figs/meteR_workflow.pdf}
+    \caption[\texttt{meteR}'s workflow]{\texttt{meteR}'s
+      workflow. \texttt{meteR} accepts multiple data types, which are
+      used to calculate the core probability distributions from which
+      all predictions arise: the \textit{Ecosystem Structure Function}
+      (ESF) and the \textit{Spatial Structure Function} (SSF). From
+      the ESF and SSF, a variety of macroecological distributions can
+      be calculated (see Table \ref{tab:metrics} for
+      definitions). Each of these can be plotted or summarized in
+      various ways and model fit is readily assessed. Furthermore,
+      density, distribution function, quantile function and random
+      generation is available for each function, allowing for custom
+      plotting, simulation and model evaluation.}
 \label{fig:workflow}
 \end{center} 
 \end{figure}
 
 
-\begin{figure}[H] 
-\begin{center}
-% \includegraphics[width=0.75\textwidth]{Figures/meteR_MS_v3-anbo_plot}
-  \caption[Species abundance distribution and species area
-  relationship for the \texttt{anbo} dataset]{Species abundance
-    distribution (a) and species area relationship (b) for the \texttt{    anbo} dataset. The blue line in (b) depicts the upscaled SAR
-    predicted by METE. METE fits the Anza Borrego data poorly at
-    increasingly small scales. Understanding such systematic
-    deviations from theory could be an opportune area of exploration,
-    and initial work suggests that such deviations could be an
-    indicator of anthropogenic disturbance (Newman \textit{et al.}, in
-    prep.) such as invasive species, which are present in the Anza
-    Borrego dataset. Note that we have stylized the log axes using
-    custom code not included in \texttt{meteR}.}
+\begin{figure}[!h] 
+  \begin{center}
+    \includegraphics[width=0.75\textwidth]{figs/meteR_MS_v3-anbo_plot}
+    \caption[Species abundance distribution and species area
+    relationship for the \texttt{anbo} dataset]{Species abundance
+      distribution (a) and species area relationship (b) for the
+      \texttt{ anbo} dataset. The blue line in (b) depicts the
+      upscaled SAR predicted by METE. METE fits the Anza Borrego data
+      poorly at increasingly small scales. Understanding such
+      systematic deviations from theory could be an opportune area of
+      exploration, and initial work suggests that such deviations
+      could be an indicator of anthropogenic disturbance (Newman
+      \textit{et al.}, in prep.) such as invasive species, which are
+      present in the Anza Borrego dataset. Note that we have stylized
+      the log axes using custom code not included in \texttt{meteR}.}
 \label{fig:anbo}
 \end{center} 
 \end{figure}
 
 
-\begin{figure}[H] 
-\begin{center}
-% \includegraphics[width=0.75\textwidth]{Figures/meteR_MS_v3-arth_plot}
-%\includegraphics[width=0.75\textwidth]{fig_arth.pdf}
-\caption[Individual power distributions shown]{Individual power
-  distributions shown as a rank plot (a) and cumulative density plot
-  (b). To evaluate model fit we compare the observed likelihood of the
-  data given the METE model (red line in panel c) to simulated
-  likelihoods produced by simulated \texttt{nrep} communities from the
-  fitted METE object and calculating their likelihoods. Thus the
-  simulated distribution represents hypothetical likelihoods for
-  datasets obeying METE.} 
+\begin{figure}[!h] 
+  \begin{center}
+    \includegraphics[width=0.75\textwidth]{figs/meteR_MS_v3-arth_plot}
+    \caption[Individual power distributions shown]{Individual power
+      distributions shown as a rank plot (a) and cumulative density
+      plot (b). To evaluate model fit we compare the observed
+      likelihood of the data given the METE model (red line in panel
+      c) to simulated likelihoods produced by simulated \texttt{nrep}
+      communities from the fitted METE object and calculating their
+      likelihoods. Thus the simulated distribution represents
+      hypothetical likelihoods for datasets obeying METE.}
 \label{fig:arth} 
 \end{center} 
 \end{figure}
@@ -579,7 +580,7 @@ Betty Moore Foundation. CM acknowledges funding from USDA-NRI grant
 %% for raggedright columns
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 
-\begin{table}[!hp]
+\begin{table}[!h]
 \caption[METE predictions]{METE predictions. Following notational
   conventions in \citet{Harte:2011ut}, $Z$ and $Z_{\Pi}$ are partition
   functions (i.e. to ensure their respective probability distributions
