@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  3 MAY 2016 14:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  3 MAY 2016 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -451,29 +451,6 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box31
 \rot@mess@toks=\toks29
 )
-
-Class memoir Warning: You are using the caption package with the memoir class. 
-To prepare we will now reset all captioning macros and configurations to kernel
- defaults, and then let the caption package take over. Please remember to use t
-he caption package interfaces in order to configure your captions. .
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 57.
-\captionmargin=\dimen158
-\captionmargin@=\dimen159
-\captionwidth=\dimen160
-\caption@tempdima=\dimen161
-\caption@indent=\dimen162
-\caption@parindent=\dimen163
-\caption@hangindent=\dimen164
-)
-\c@ContinuedFloat=\count152
-Package caption Info: rotating package is loaded.
-)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2013/11/25 v2.8a programmable bibliographies (PK/JW/AB)
 
@@ -488,7 +465,7 @@ AB)
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
-\etb@tempcnta=\count153
+\etb@tempcnta=\count152
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
@@ -505,7 +482,7 @@ Package etexcmds Info: Could not find \expanded.
 )))
 (/usr/local/texlive/2014/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count154
+\lrq@indent=\count153
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -514,44 +491,44 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count155
-\c@listtotal=\count156
-\c@listcount=\count157
-\c@liststart=\count158
-\c@liststop=\count159
-\c@citecount=\count160
-\c@citetotal=\count161
-\c@multicitecount=\count162
-\c@multicitetotal=\count163
-\c@instcount=\count164
-\c@maxnames=\count165
-\c@minnames=\count166
-\c@maxitems=\count167
-\c@minitems=\count168
-\c@citecounter=\count169
-\c@savedcitecounter=\count170
-\c@uniquelist=\count171
-\c@uniquename=\count172
-\c@refsection=\count173
-\c@refsegment=\count174
-\c@maxextratitle=\count175
-\c@maxextratitleyear=\count176
-\c@maxextrayear=\count177
-\c@maxextraalpha=\count178
-\c@abbrvpenalty=\count179
-\c@highnamepenalty=\count180
-\c@lownamepenalty=\count181
-\c@maxparens=\count182
-\c@parenlevel=\count183
-\blx@tempcnta=\count184
-\blx@tempcntb=\count185
-\blx@tempcntc=\count186
-\blx@maxsection=\count187
-\blx@maxsegment@0=\count188
-\blx@notetype=\count189
-\blx@parenlevel@text=\count190
-\blx@parenlevel@foot=\count191
-\blx@sectionciteorder@0=\count192
+\c@tabx@nest=\count154
+\c@listtotal=\count155
+\c@listcount=\count156
+\c@liststart=\count157
+\c@liststop=\count158
+\c@citecount=\count159
+\c@citetotal=\count160
+\c@multicitecount=\count161
+\c@multicitetotal=\count162
+\c@instcount=\count163
+\c@maxnames=\count164
+\c@minnames=\count165
+\c@maxitems=\count166
+\c@minitems=\count167
+\c@citecounter=\count168
+\c@savedcitecounter=\count169
+\c@uniquelist=\count170
+\c@uniquename=\count171
+\c@refsection=\count172
+\c@refsegment=\count173
+\c@maxextratitle=\count174
+\c@maxextratitleyear=\count175
+\c@maxextrayear=\count176
+\c@maxextraalpha=\count177
+\c@abbrvpenalty=\count178
+\c@highnamepenalty=\count179
+\c@lownamepenalty=\count180
+\c@maxparens=\count181
+\c@parenlevel=\count182
+\blx@tempcnta=\count183
+\blx@tempcntb=\count184
+\blx@tempcntc=\count185
+\blx@maxsection=\count186
+\blx@maxsegment@0=\count187
+\blx@notetype=\count188
+\blx@parenlevel@text=\count189
+\blx@parenlevel@foot=\count190
+\blx@sectionciteorder@0=\count191
 \labelnumberwidth=\skip194
 \labelalphawidth=\skip195
 \shorthandwidth=\skip196
@@ -562,9 +539,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip201
 \blx@bcfin=\read2
 \blx@bcfout=\write4
-\c@mincomprange=\count193
-\c@maxcomprange=\count194
-\c@mincompwidth=\count195
+\c@mincomprange=\count192
+\c@maxcomprange=\count193
+\c@mincompwidth=\count194
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -573,73 +550,73 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'nature.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count196
-\c@savedafterword=\count197
-\c@annotator=\count198
-\c@savedannotator=\count199
-\c@author=\count200
-\c@savedauthor=\count201
-\c@bookauthor=\count202
-\c@savedbookauthor=\count203
-\c@commentator=\count204
-\c@savedcommentator=\count205
-\c@editor=\count206
-\c@savededitor=\count207
-\c@editora=\count208
-\c@savededitora=\count209
-\c@editorb=\count210
-\c@savededitorb=\count211
-\c@editorc=\count212
-\c@savededitorc=\count213
-\c@foreword=\count214
-\c@savedforeword=\count215
-\c@holder=\count216
-\c@savedholder=\count217
-\c@introduction=\count218
-\c@savedintroduction=\count219
-\c@namea=\count220
-\c@savednamea=\count221
-\c@nameb=\count222
-\c@savednameb=\count223
-\c@namec=\count224
-\c@savednamec=\count225
-\c@shortauthor=\count226
-\c@savedshortauthor=\count227
-\c@shorteditor=\count228
+\c@afterword=\count195
+\c@savedafterword=\count196
+\c@annotator=\count197
+\c@savedannotator=\count198
+\c@author=\count199
+\c@savedauthor=\count200
+\c@bookauthor=\count201
+\c@savedbookauthor=\count202
+\c@commentator=\count203
+\c@savedcommentator=\count204
+\c@editor=\count205
+\c@savededitor=\count206
+\c@editora=\count207
+\c@savededitora=\count208
+\c@editorb=\count209
+\c@savededitorb=\count210
+\c@editorc=\count211
+\c@savededitorc=\count212
+\c@foreword=\count213
+\c@savedforeword=\count214
+\c@holder=\count215
+\c@savedholder=\count216
+\c@introduction=\count217
+\c@savedintroduction=\count218
+\c@namea=\count219
+\c@savednamea=\count220
+\c@nameb=\count221
+\c@savednameb=\count222
+\c@namec=\count223
+\c@savednamec=\count224
+\c@shortauthor=\count225
+\c@savedshortauthor=\count226
+\c@shorteditor=\count227
+\c@savedshorteditor=\count228
 Normal \count register pool exhausted, switching to extended pool.
-\c@savedshorteditor=\count277
-\c@translator=\count278
-\c@savedtranslator=\count279
-\c@labelname=\count280
-\c@savedlabelname=\count281
-\c@institution=\count282
-\c@savedinstitution=\count283
-\c@lista=\count284
-\c@savedlista=\count285
-\c@listb=\count286
-\c@savedlistb=\count287
-\c@listc=\count288
-\c@savedlistc=\count289
-\c@listd=\count290
-\c@savedlistd=\count291
-\c@liste=\count292
-\c@savedliste=\count293
-\c@listf=\count294
-\c@savedlistf=\count295
-\c@location=\count296
-\c@savedlocation=\count297
-\c@organization=\count298
-\c@savedorganization=\count299
-\c@origlocation=\count300
-\c@savedoriglocation=\count301
-\c@origpublisher=\count302
-\c@savedorigpublisher=\count303
-\c@publisher=\count304
-\c@savedpublisher=\count305
-\c@language=\count306
-\c@savedlanguage=\count307
-\c@pageref=\count308
-\c@savedpageref=\count309
+\c@translator=\count277
+\c@savedtranslator=\count278
+\c@labelname=\count279
+\c@savedlabelname=\count280
+\c@institution=\count281
+\c@savedinstitution=\count282
+\c@lista=\count283
+\c@savedlista=\count284
+\c@listb=\count285
+\c@savedlistb=\count286
+\c@listc=\count287
+\c@savedlistc=\count288
+\c@listd=\count289
+\c@savedlistd=\count290
+\c@liste=\count291
+\c@savedliste=\count292
+\c@listf=\count293
+\c@savedlistf=\count294
+\c@location=\count295
+\c@savedlocation=\count296
+\c@organization=\count297
+\c@savedorganization=\count298
+\c@origlocation=\count299
+\c@savedoriglocation=\count300
+\c@origpublisher=\count301
+\c@savedorigpublisher=\count302
+\c@publisher=\count303
+\c@savedpublisher=\count304
+\c@language=\count305
+\c@savedlanguage=\count306
+\c@pageref=\count307
+\c@savedpageref=\count308
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -651,13 +628,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 
-\c@textcitecount=\count310
-\c@textcitetotal=\count311
-\c@textcitemaxnames=\count312
-\c@biburlnumpenalty=\count313
-\c@biburlucpenalty=\count314
-\c@biburllcpenalty=\count315
-\c@smartand=\count316
+\c@textcitecount=\count309
+\c@textcitetotal=\count310
+\c@textcitemaxnames=\count311
+\c@biburlnumpenalty=\count312
+\c@biburlucpenalty=\count313
+\c@biburllcpenalty=\count314
+\c@smartand=\count315
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
@@ -685,8 +662,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count317
-\c@bbx:relatedtotal=\count318
+\c@bbx:relatedcount=\count316
+\c@bbx:relatedtotal=\count317
 ))))
 Package biblatex Info: Trying to load citation style 'nature'...
 Package biblatex Info: ... file 'nature.cbx' found.
@@ -698,8 +675,8 @@ Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
 File: numeric-comp.cbx 2013/11/25 v2.8a biblatex citation style (PK/JW/AB)
-\c@cbx@tempcnta=\count319
-\c@cbx@tempcntb=\count320
+\c@cbx@tempcnta=\count318
+\c@cbx@tempcntb=\count319
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -724,26 +701,26 @@ Package biblatex Info: ... file 'english.lbx' found.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 )
-\@quotelevel=\count321
-\@quotereset=\count322
+\@quotelevel=\count320
+\@quotereset=\count321
 
 (./rominger_thesis.aux (./abstract.aux) (./intro.aux) (./chap1.aux)
 (./chap2.aux) (./chap3.aux) (./conclusion.aux) (./ch1_appendix.aux)
 (./ch2_appendix.aux))
 \openout1 = `rominger_thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 
 ******************************************************
@@ -767,16 +744,16 @@ Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count323
-\scratchdimen=\dimen165
+\scratchcounter=\count322
+\scratchdimen=\dimen158
 \scratchbox=\box32
-\nofMPsegments=\count324
-\nofMParguments=\count325
+\nofMPsegments=\count323
+\nofMParguments=\count324
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count326
-\MPscratchDim=\dimen166
-\MPnumerator=\count327
-\makeMPintoPDFobject=\count328
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen159
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
 \everyMPtoPDFconversion=\toks31
 ) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -804,8 +781,6 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: No input encoding detected.
 (biblatex)             Assuming 'ascii'.
 Package biblatex Info: Automatic encoding selection.
@@ -816,14 +791,14 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'rominger_thesis.bbl' found.
 
 (./rominger_thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 29.
-Package biblatex Info: Reference segment=0 on input line 29.
+Package biblatex Info: Reference section=0 on input line 28.
+Package biblatex Info: Reference segment=0 on input line 28.
  [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Class ucbthesis Warning: The final submitted version should not have an approva
-l page on input line 46.
+l page on input line 45.
 
 [2] [3]
 \openout2 = `abstract.aux'.
@@ -851,8 +826,8 @@ LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
 \openout2 = `chap1.aux'.
 
  (./chap1.tex
-\blx@maxsegment@1=\count329
-\blx@sectionciteorder@1=\count330
+\blx@maxsegment@1=\count328
+\blx@sectionciteorder@1=\count329
 Package biblatex Info: Reference section=1 on input line 2.
 Package biblatex Info: Setting label 'refsection:1' on input line 2.
  [2
@@ -898,8 +873,8 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
  (./chap2.tex
 Package biblatex Info: Reference section=0 on input line 2.
-\blx@maxsegment@2=\count331
-\blx@sectionciteorder@2=\count332
+\blx@maxsegment@2=\count330
+\blx@sectionciteorder@2=\count331
 Package biblatex Info: Reference section=2 on input line 2.
 Package biblatex Info: Setting label 'refsection:2' on input line 2.
  [16
@@ -1024,11 +999,12 @@ pdf>] [37 <./figs/fig_netMets.pdf>]
 File: figs/tab_amova.pdf Graphic file (type pdf)
 
 <use figs/tab_amova.pdf>
-Package pdftex.def Info: figs/tab_amova.pdf used on input line 808.
-(pdftex.def)             Requested size: 595.28864pt x 364.73172pt.
+Package pdftex.def Info: figs/tab_amova.pdf used on input line 806.
+(pdftex.def)             Requested size: 628.36247pt x 384.99597pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Overfull \hbox (21.86247pt too wide) in paragraph at lines 806--814
+ [][] 
+ []
 
 ) [38
 
@@ -1037,8 +1013,8 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
  (./chap3.tex
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@3=\count333
-\blx@sectionciteorder@3=\count334
+\blx@maxsegment@3=\count332
+\blx@sectionciteorder@3=\count333
 Package biblatex Info: Reference section=3 on input line 1.
 Package biblatex Info: Setting label 'refsection:3' on input line 1.
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <24.88> not available
@@ -1191,8 +1167,8 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 (./ch1_appendix.tex
 Package biblatex Info: Reference section=0 on input line 2.
-\blx@maxsegment@4=\count335
-\blx@sectionciteorder@4=\count336
+\blx@maxsegment@4=\count334
+\blx@sectionciteorder@4=\count335
 Package biblatex Info: Reference section=4 on input line 2.
 Package biblatex Info: Setting label 'refsection:4' on input line 2.
  [57
@@ -1206,8 +1182,8 @@ Package biblatex Info: Setting label 'refsection:4' on input line 2.
 
  (./ch2_appendix.tex
 Package biblatex Info: Reference section=0 on input line 2.
-\blx@maxsegment@5=\count337
-\blx@sectionciteorder@5=\count338
+\blx@maxsegment@5=\count336
+\blx@sectionciteorder@5=\count337
 Package biblatex Info: Reference section=5 on input line 2.
 Package biblatex Info: Setting label 'refsection:5' on input line 2.
  [60
@@ -1258,13 +1234,13 @@ Package logreq Info: Writing requests to 'rominger_thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12422 strings out of 493117
- 197407 string characters out of 6135433
- 644839 words of memory out of 5000000
- 15687 multiletter control sequences out of 15000+600000
+ 11401 strings out of 493117
+ 178719 string characters out of 6135433
+ 631546 words of memory out of 5000000
+ 14672 multiletter control sequences out of 15000+600000
  11336 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,15n,65p,2236b,1185s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,15n,53p,2236b,1106s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -1281,7 +1257,7 @@ ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive
 014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/20
 14/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/201
 4/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on rominger_thesis.pdf (75 pages, 3353476 bytes).
+Output written on rominger_thesis.pdf (75 pages, 3353451 bytes).
 PDF statistics:
  632 PDF objects out of 1000 (max. 8388607)
  446 compressed objects within 5 object streams
