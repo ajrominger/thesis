@@ -14,86 +14,94 @@
 \defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {1.2}Methods}{4}
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{Paleobiology Database data download and filtering}{4}
+\contentsline {subsection}{\numberline {1.2.1}Paleobiology Database data download and filtering}{4}
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{Three-timer and publication bias correction}{5}
+\contentsline {subsection}{\numberline {1.2.2}Three-timer and publication bias correction}{5}
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{Numerical methods}{5}
+\contentsline {subsection}{\numberline {1.2.3}Numerical methods}{5}
 \defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {1.3}Results and Discussion}{5}
 \defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {1.4}Conclusion}{7}
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{\chapternumberline {2}Community assembly on isolated islands: macroecology meets evolution}{15}
+\contentsline {chapter}{\chapternumberline {2}Community assembly on isolated islands: macroecology meets evolution}{14}
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {2.1}Introduction}{15}
+\contentsline {section}{\numberline {2.1}Introduction}{14}
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{Hotspot oceanic archipelagos as model systems}{16}
+\contentsline {subsection}{\numberline {2.1.1}Hotspot oceanic archipelagos as model systems}{15}
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{Development of genetic structure}{16}
+\contentsline {subsection}{\numberline {2.1.2}Development of genetic structure}{15}
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{Macroecological metrics and idealized ecological theory}{17}
+\contentsline {subsection}{\numberline {2.1.3}Macroecological metrics and idealized ecological theory}{16}
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {2.2}Methods}{18}
+\contentsline {section}{\numberline {2.2}Methods}{17}
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{Dispersal-driven processes to in situ differentiation across the island chronosequence}{18}
+\contentsline {subsection}{\numberline {2.2.1}Dispersal-driven processes to in situ differentiation across the island chronosequence}{17}
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{Ecological metrics across the island chronosequence}{19}
+\contentsline {subsection}{\numberline {2.2.2}Ecological metrics across the island chronosequence}{18}
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {2.3}Results}{20}
+\contentsline {section}{\numberline {2.3}Results}{19}
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{Dispersal-driven processes to in situ differentiation across the island chronosequence}{20}
+\contentsline {subsection}{\numberline {2.3.1}Dispersal-driven processes to in situ differentiation across the island chronosequence}{19}
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{Ecological metrics across the island chronosequence}{21}
+\contentsline {subsection}{\numberline {2.3.2}Ecological metrics across the island chronosequence}{20}
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {2.4}Discussion}{22}
+\contentsline {section}{\numberline {2.4}Discussion}{21}
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{Development of genetic population structure at different trophic levels}{22}
+\contentsline {subsection}{\numberline {2.4.1}Development of genetic population structure at different trophic levels}{21}
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{Macroecological metrics: network structure and steady state}{23}
+\contentsline {subsection}{\numberline {2.4.2}Macroecological metrics: network structure and steady state}{22}
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{Future research}{24}
+\contentsline {subsection}{\numberline {2.4.3}Future research}{23}
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Ecological data: assembly of species into communities}{24}
+\contentsline {subsubsection}{Ecological data: assembly of species into communities}{23}
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Evolutionary data: diversification within species}{25}
+\contentsline {subsubsection}{Evolutionary data: diversification within species}{24}
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {2.5}Conclusions}{25}
+\contentsline {section}{\numberline {2.5}Conclusions}{24}
 \defcounter {refsection}{3}\relax 
-\contentsline {chapter}{\chapternumberline {3}\texttt {meteR}: An R package for testing the Maximum Entropy Theory of Ecology}{37}
+\contentsline {chapter}{\chapternumberline {3}\texttt {meteR}: An R package for testing the Maximum Entropy Theory of Ecology}{36}
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.1}Background on the Maximum Entropy Theory of Ecology}{38}
+\contentsline {section}{\numberline {3.1}Background on the Maximum Entropy Theory of Ecology}{37}
 \defcounter {refsection}{3}\relax 
-\contentsline {subsection}{Stronger tests of METE}{39}
+\contentsline {subsection}{\numberline {3.1.1}Stronger tests of METE}{38}
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.2}\texttt {meteR}}{40}
+\contentsline {section}{\numberline {3.2}\texttt {meteR}}{39}
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.3}Package Features}{41}
+\contentsline {section}{\numberline {3.3}Package Features}{40}
 \defcounter {refsection}{3}\relax 
-\contentsline {subsection}{Inputs}{41}
+\contentsline {subsection}{\numberline {3.3.1}Inputs}{40}
 \defcounter {refsection}{3}\relax 
-\contentsline {subsection}{Core Functions}{42}
+\contentsline {subsection}{\numberline {3.3.2}Core Functions}{41}
 \defcounter {refsection}{3}\relax 
-\contentsline {subsection}{Macroecological Predictions}{42}
+\contentsline {subsection}{\numberline {3.3.3}Macroecological Predictions}{41}
 \defcounter {refsection}{3}\relax 
-\contentsline {subsection}{Directly Working with Probability Distributions}{43}
+\contentsline {subsection}{\numberline {3.3.4}Directly Working with Probability Distributions}{42}
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.4}Sample Code}{43}
+\contentsline {section}{\numberline {3.4}Sample Code}{42}
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.5}Conclusions}{45}
+\contentsline {section}{\numberline {3.5}Conclusions}{44}
 \defcounter {refsection}{3}\relax 
-\contentsline {chapter}{Conclusion}{52}
+\contentsline {chapter}{Conclusion}{51}
 \defcounter {refsection}{4}\relax 
-\contentsline {appendix}{\chapternumberline {A}Supplement to ``Punctuated non-equilibrium and niche conservatism explain biodiversity fluctuations through the Phanerozoic''}{53}
+\contentsline {appendix}{\chapternumberline {A}Supplement to ``Punctuated non-equilibrium and niche conservatism explain biodiversity fluctuations through the Phanerozoic''}{52}
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {A.1}Limit distribution of a time-averaged homogeneous origination-extinction process}{53}
+\contentsline {section}{\numberline {A.1}Limit distribution of a time-averaged homogeneous origination-extinction process}{52}
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {A.2}Additional super-statistical analyses}{54}
+\contentsline {section}{\numberline {A.2}Additional super-statistical analyses}{53}
 \defcounter {refsection}{4}\relax 
-\contentsline {subsection}{Raw PBDB data}{54}
+\contentsline {subsection}{\numberline {A.2.1}Raw PBDB data}{53}
 \defcounter {refsection}{4}\relax 
-\contentsline {subsection}{Different taxonomic ranks in PBDB data}{54}
+\contentsline {subsection}{\numberline {A.2.2}Different taxonomic ranks in PBDB data}{53}
 \defcounter {refsection}{4}\relax 
-\contentsline {subsection}{Sepkoski's compendium}{54}
+\contentsline {subsection}{\numberline {A.2.3}Sepkoski's compendium}{53}
 \defcounter {refsection}{5}\relax 
-\contentsline {appendix}{\chapternumberline {B}Supplement to ``Community assembly on isolated islands: Macroecology meets evolution''}{57}
+\contentsline {appendix}{\chapternumberline {B}Supplement to ``Community assembly on isolated islands: Macroecology meets evolution''}{55}
+\defcounter {refsection}{5}\relax 
+\contentsline {section}{\numberline {B.1}Compilation of networks and metric validation}{55}
+\defcounter {refsection}{5}\relax 
+\contentsline {section}{\numberline {B.2}\texttt {R} Scripts for Maximum Entorpy Analysis and Monte Carlo Methods}{56}
+\defcounter {refsection}{5}\relax 
+\contentsline {subsection}{\numberline {B.2.1}Needed Functions}{56}
+\defcounter {refsection}{5}\relax 
+\contentsline {subsection}{\numberline {B.2.2}Example Use}{58}

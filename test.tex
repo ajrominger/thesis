@@ -7,8 +7,6 @@
 \usepackage{amsmath}
 \usepackage{verbatim}
 \usepackage{paralist}
-% \usepackage{natbib}
-% \usepackage{chapterbib}
 \usepackage{graphicx}
 \usepackage{rotating}
 \usepackage{array}
@@ -23,6 +21,9 @@
 \makeoddfoot{simple}{}{\thepage}{}
 \makeevenhead{simple}{}{}{}
 \makeoddhead{simple}{}{}{}
+
+\setsecnumdepth{subsection}
+\maxtocdepth{subsection}
 
 \begin{document}
 
@@ -95,8 +96,8 @@ and Natural Resources.
 
 I would also like to acknowledge my funders including the National
 Science Foundation Graduate Research Fellowship, NSF DEB 1241253, the
-Moore Foundation, and the Department of Environmental Science, Policy
-and Management and the Walker Fund at UC Berkeley.s
+Moore Foundation, the Department of Environmental Science, Policy
+and Management and the Walker Fund at UC Berkeley.
 \end{acknowledgements}
 
 \end{frontmatter}
@@ -113,19 +114,14 @@ and Management and the Walker Fund at UC Berkeley.s
 \include{intro}
 \renewcommand{\chaptername}{\origChapName}
 \include{chap1}
-\printbibliography
 \include{chap2}
-\printbibliography
 \include{chap3}
-\printbibliography
 \renewcommand{\chaptername}{}
 \include{conclusion}
 
 \appendix
 \include{ch1_appendix}
-\printbibliography
 \include{ch2_appendix}
-\printbibliography
 
 
 \end{document}

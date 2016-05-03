@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  3 MAY 2016 09:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  3 MAY 2016 13:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -708,18 +708,18 @@ File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 (./chap3.aux) (./conclusion.aux) (./ch1_appendix.aux) (./ch2_appendix.aux))
 \openout1 = `test.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 
 ******************************************************
@@ -790,14 +790,14 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'test.bbl' found.
 
 (./test.bbl)
-Package biblatex Info: Reference section=0 on input line 27.
-Package biblatex Info: Reference segment=0 on input line 27.
+Package biblatex Info: Reference section=0 on input line 28.
+Package biblatex Info: Reference segment=0 on input line 28.
  [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Class ucbthesis Warning: The final submitted version should not have an approva
-l page on input line 44.
+l page on input line 45.
 
 [2] [3]
 \openout2 = `abstract.aux'.
@@ -806,10 +806,10 @@ l page on input line 44.
 
 ]) [1
 
-] (./test.toc
+] (./test.toc [2]
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 63.
- [2]) [3] (./test.lof) [4
+) [3] (./test.lof) [4
 
 ]
 (./test.lot) [5
@@ -833,14 +833,14 @@ Package biblatex Info: Setting label 'refsection:1' on input line 2.
 
 
 ] [3] [4] [5] [6]
-[7] [8] <figs/fig_pkx-fbeta.pdf, id=70, 576.56696pt x 477.76683pt>
+[7] [8] [9] [10] <figs/fig_pkx-fbeta.pdf, id=77, 576.56696pt x 477.76683pt>
 File: figs/fig_pkx-fbeta.pdf Graphic file (type pdf)
 
 <use figs/fig_pkx-fbeta.pdf>
 Package pdftex.def Info: figs/fig_pkx-fbeta.pdf used on input line 447.
 (pdftex.def)             Requested size: 461.2542pt x 382.21399pt.
 
-<figs/fig_Px.pdf, id=71, 270.00874pt x 270.00874pt>
+<figs/fig_Px.pdf, id=78, 270.00874pt x 270.00874pt>
 File: figs/fig_Px.pdf Graphic file (type pdf)
  <use figs/fig_Px.pdf>
 Package pdftex.def Info: figs/fig_Px.pdf used on input line 465.
@@ -849,7 +849,7 @@ Package pdftex.def Info: figs/fig_Px.pdf used on input line 465.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figs/fig_dStat(3TP).pdf, id=72, 235.46048pt x 216.81pt>
+<figs/fig_dStat(3TP).pdf, id=79, 235.46048pt x 216.81pt>
 File: figs/fig_dStat(3TP).pdf Graphic file (type pdf)
 
 <use figs/fig_dStat(3TP).pdf>
@@ -859,13 +859,10 @@ Package pdftex.def Info: figs/fig_dStat(3TP).pdf used on input line 482.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [9
+) [11
 
- <./figs/fig_pkx-fbeta.pdf>] [10 <./figs/fig_Px.pdf>] [11 <./figs/fig_dStat(3TP
-).pdf>] [12
-
-
-] [13] [14]
+ <./figs/fig_pkx-fbeta.pdf>] [12 <./figs/fig_Px.pdf>] [13 <./figs/fig_dStat(3TP
+).pdf>]
 \openout2 = `chap2.aux'.
 
  (./chap2.tex
@@ -886,10 +883,15 @@ Missing character: There is no ˜ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
- [15
+ [14
+
 
 
 ]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ [15]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
@@ -897,25 +899,20 @@ Missing character: There is no “ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [17]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no “ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no “ in font cmr12!
- [18]
-
-LaTeX Warning: Reference `sec:meteCode' on page 19 undefined on input line 289.
-
-
-[19]
+ [17] [18]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no ˆ in font cmr12!
 Missing character: There is no ’ in font cmr12!
+ [19]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
  [20]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
@@ -923,82 +920,73 @@ Missing character: There is no ˜ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
- [21]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ˜ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
- [22] [23] [24]
+ [21] [22] [23]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [25] [26]
-<figs/fig_map.pdf, id=285, 1244.65pt x 798.985pt>
+
+[24] [25] [26]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 664.
+
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 664.
+
+[27]
+Overfull \hbox (8.61023pt too wide) in paragraph at lines 664--664
+[]\OT1/cmr/m/n/12 O'Grady, P. M. \OT1/cmr/m/it/12 et al. \OT1/cmr/m/n/12 Phy-lo
+-ge-netic and eco-log-i-cal re-la-tion-ships of the Hawai-ian Drosophila
+ []
+
+[28] [29] <figs/fig_map.pdf, id=295, 1244.65pt x 798.985pt>
 File: figs/fig_map.pdf Graphic file (type pdf)
- <use figs/fig_map.pdf>
-Package pdftex.def Info: figs/fig_map.pdf used on input line 665.
+
+<use figs/fig_map.pdf>
+Package pdftex.def Info: figs/fig_map.pdf used on input line 672.
 (pdftex.def)             Requested size: 435.63402pt x 279.64894pt.
 
-<figs/fig_volcanoFst.pdf, id=286, 1289.81876pt x 477.785pt>
+<figs/fig_volcanoFst.pdf, id=296, 1289.81876pt x 477.785pt>
 File: figs/fig_volcanoFst.pdf Graphic file (type pdf)
 
 <use figs/fig_volcanoFst.pdf>
-Package pdftex.def Info: figs/fig_volcanoFst.pdf used on input line 677.
+Package pdftex.def Info: figs/fig_volcanoFst.pdf used on input line 684.
 (pdftex.def)             Requested size: 451.44333pt x 167.22725pt.
 
-<figs/fig_degree.pdf, id=287, 1193.45876pt x 787.94376pt>
+<figs/fig_degree.pdf, id=297, 1193.45876pt x 787.94376pt>
 File: figs/fig_degree.pdf Graphic file (type pdf)
 
 <use figs/fig_degree.pdf>
-Package pdftex.def Info: figs/fig_degree.pdf used on input line 700.
+Package pdftex.def Info: figs/fig_degree.pdf used on input line 707.
 (pdftex.def)             Requested size: 417.71683pt x 275.78444pt.
 
-<figs/fig_netMets.pdf, id=288, 720.6925pt x 710.655pt>
+<figs/fig_netMets.pdf, id=298, 720.6925pt x 710.655pt>
 File: figs/fig_netMets.pdf Graphic file (type pdf)
 
 <use figs/fig_netMets.pdf>
-Package pdftex.def Info: figs/fig_netMets.pdf used on input line 720.
+Package pdftex.def Info: figs/fig_netMets.pdf used on input line 727.
 (pdftex.def)             Requested size: 288.2719pt x 284.25696pt.
- [27
+ [30
 
- <./figs/fig_map.pdf>] [28 <./figs/fig_volcanoFst.pdf>] [29 <./figs/fig_degree.
-pdf>] [30 <./figs/fig_netMets.pdf>]
-<figs/tab_amova.pdf, id=343, 661.43793pt x 405.26122pt>
+ <./figs/fig_map.pdf>] [31 <./figs/fig_volcanoFst.pdf>] [32 <./figs/fig_degree.
+pdf>] [33 <./figs/fig_netMets.pdf>]
+<figs/tab_amova.pdf, id=353, 661.43793pt x 405.26122pt>
 File: figs/tab_amova.pdf Graphic file (type pdf)
 
 <use figs/tab_amova.pdf>
-Package pdftex.def Info: figs/tab_amova.pdf used on input line 735.
+Package pdftex.def Info: figs/tab_amova.pdf used on input line 742.
 (pdftex.def)             Requested size: 595.28864pt x 364.73172pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [31
+) [34
 
-] [32 <./figs/tab_amova.pdf>] [33
-
-
-] [34]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 118.
-
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 118.
-
-Overfull \hbox (8.61023pt too wide) in paragraph at lines 119--119
-[]\OT1/cmr/m/n/12 O'Grady, P. M. \OT1/cmr/m/it/12 et al. \OT1/cmr/m/n/12 Phy-lo
--ge-netic and eco-log-i-cal re-la-tion-ships of the Hawai-ian Drosophila
- []
-
-[35] [36]
+] [35 <./figs/tab_amova.pdf>]
 \openout2 = `chap3.aux'.
 
  (./chap3.tex
@@ -1009,53 +997,55 @@ Package biblatex Info: Reference section=3 on input line 1.
 Package biblatex Info: Setting label 'refsection:3' on input line 1.
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 1.
- [37
+ [36
 
 
-] [38]
+
+] [37]
 Overfull \hbox (6.1675pt too wide) in paragraph at lines 159--184
 \OT1/cmr/m/n/12 source (GNU Gen-eral Pub-lic Li-cense v2) \OT1/cmtt/m/n/12 R \O
 T1/cmr/m/n/12 pack-age, \OT1/cmtt/m/n/12 meteR \OT1/cmr/m/n/12 (ver-sion 1.0; \
 OT1/cmtt/m/n/12 cran.r-project.org/ 
  []
 
-[39]
+[38]
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 195.
- [40] [41]
+ [39] [40]
 
 Package biblatex Warning: Package option 'sortcites' enabled.
 (biblatex)                Verify postnote placement on input line 311.
 
-[42] [43]
+[41] [42]
 Overfull \hbox (5.72021pt too wide) in paragraph at lines 473--473
 [] \OT1/cmtt/m/n/12 ipd2.z <- logLikZ(ipd2, nrep=999, return.sim=TRUE) # return
  simulated values[] 
  []
 
-[44] [45] <figs/meteR_workflow.pdf, id=434, 617.57079pt x 478.48375pt>
+[43] [44] [45] [46]
+<figs/meteR_workflow.pdf, id=437, 617.57079pt x 478.48375pt>
 File: figs/meteR_workflow.pdf Graphic file (type pdf)
 
 <use figs/meteR_workflow.pdf>
-Package pdftex.def Info: figs/meteR_workflow.pdf used on input line 522.
+Package pdftex.def Info: figs/meteR_workflow.pdf used on input line 521.
 (pdftex.def)             Requested size: 469.0pt x 363.37398pt.
 
-<figs/meteR_MS_v3-anbo_plot.pdf, id=435, 433.62pt x 198.7425pt>
+<figs/meteR_MS_v3-anbo_plot.pdf, id=438, 433.62pt x 198.7425pt>
 File: figs/meteR_MS_v3-anbo_plot.pdf Graphic file (type pdf)
 
 <use figs/meteR_MS_v3-anbo_plot.pdf>
-Package pdftex.def Info: figs/meteR_MS_v3-anbo_plot.pdf used on input line 542.
+Package pdftex.def Info: figs/meteR_MS_v3-anbo_plot.pdf used on input line 541.
 
 (pdftex.def)             Requested size: 351.75pt x 161.22617pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figs/meteR_MS_v3-arth_plot.pdf, id=436, 433.62pt x 289.08pt>
+<figs/meteR_MS_v3-arth_plot.pdf, id=439, 433.62pt x 289.08pt>
 File: figs/meteR_MS_v3-arth_plot.pdf Graphic file (type pdf)
 
 <use figs/meteR_MS_v3-arth_plot.pdf>
-Package pdftex.def Info: figs/meteR_MS_v3-arth_plot.pdf used on input line 562.
+Package pdftex.def Info: figs/meteR_MS_v3-arth_plot.pdf used on input line 561.
 
 (pdftex.def)             Requested size: 351.75pt x 234.5108pt.
 
@@ -1063,8 +1053,13 @@ Package pdftex.def Info: figs/meteR_MS_v3-arth_plot.pdf used on input line 562.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (9.38309pt too wide) in paragraph at lines 592--592
+Overfull \hbox (9.38309pt too wide) in paragraph at lines 591--591
 []|\OT1/cmr/m/n/10.95 Acronym| 
+ []
+
+
+Overfull \hbox (1.43376pt too wide) in paragraph at lines 595--595
+[]|\OT1/cmr/m/n/10.95 Distribution| 
  []
 
 
@@ -1083,13 +1078,28 @@ Overfull \hbox (1.43376pt too wide) in paragraph at lines 598--598
  []
 
 
-Overfull \hbox (1.43376pt too wide) in paragraph at lines 599--599
-[]|\OT1/cmr/m/n/10.95 Distribution| 
+Overfull \hbox (2.92416pt too wide) in paragraph at lines 599--599
+[]|\OT1/cmr/m/n/10.95 Relationship| 
  []
 
 
 Overfull \hbox (2.92416pt too wide) in paragraph at lines 600--600
 []|\OT1/cmr/m/n/10.95 Relationship| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+[]|\OT1/cmtt/m/n/10.95 meteSAR\OT1/cmr/m/n/10.95 ,
+ []
+
+
+Overfull \hbox (15.12042pt too wide) in paragraph at lines 600--601
+[]\OT1/cmtt/m/n/10.95 downscaleSAR\OT1/cmr/m/n/10.95 ,
+ []
+
+
+Overfull \hbox (0.58138pt too wide) in paragraph at lines 600--601
+[]\OT1/cmtt/m/n/10.95 upscaleSAR| 
  []
 
 
@@ -1099,72 +1109,47 @@ Overfull \hbox (2.92416pt too wide) in paragraph at lines 601--601
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 601--602
-[]|\OT1/cmtt/m/n/10.95 meteSAR\OT1/cmr/m/n/10.95 ,
- []
-
-
-Overfull \hbox (15.12042pt too wide) in paragraph at lines 601--602
-[]\OT1/cmtt/m/n/10.95 downscaleSAR\OT1/cmr/m/n/10.95 ,
- []
-
-
-Overfull \hbox (0.58138pt too wide) in paragraph at lines 601--602
-[]\OT1/cmtt/m/n/10.95 upscaleSAR| 
- []
-
-
-Overfull \hbox (2.92416pt too wide) in paragraph at lines 602--602
-[]|\OT1/cmr/m/n/10.95 Relationship| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 602--603
 []|[]\OT1/cmtt/m/n/10.95 meteSAR\OT1/cmr/m/n/10.95 ,
  []
 
 
-Overfull \hbox (12.07875pt too wide) in paragraph at lines 602--603
+Overfull \hbox (12.07875pt too wide) in paragraph at lines 601--602
 []\OT1/cmtt/m/n/10.95 downscaleSAR| 
  []
 
 
-Overfull \hbox (5.65492pt too wide) in paragraph at lines 590--605
+Overfull \hbox (5.65492pt too wide) in paragraph at lines 589--604
 [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [46
+) [47
 
- <./figs/meteR_workflow.pdf>] [47 <./figs/meteR_MS_v3-anbo_plot.pdf>]
-[48 <./figs/meteR_MS_v3-arth_plot.pdf>] [49] [50
-
-
-] [51]
+ <./figs/meteR_workflow.pdf>] [48 <./figs/meteR_MS_v3-anbo_plot.pdf>]
+[49 <./figs/meteR_MS_v3-arth_plot.pdf>] [50]
 \openout2 = `conclusion.aux'.
 
- (./conclusion.tex)
-[52
+ (./conclusion.tex) [51
+
 
 
 ]
 \openout2 = `ch1_appendix.aux'.
 
- (./ch1_appendix.tex
+
+(./ch1_appendix.tex
 Package biblatex Info: Reference section=0 on input line 2.
 \blx@maxsegment@4=\count334
 \blx@sectionciteorder@4=\count335
 Package biblatex Info: Reference section=4 on input line 2.
 Package biblatex Info: Setting label 'refsection:4' on input line 2.
- [53
+ [52
 
 
 
-] [54]) [55
-
-] [56
-
+] [53]) [54
 
 ]
 \openout2 = `ch2_appendix.aux'.
@@ -1175,16 +1160,36 @@ Package biblatex Info: Reference section=0 on input line 2.
 \blx@sectionciteorder@5=\count337
 Package biblatex Info: Reference section=5 on input line 2.
 Package biblatex Info: Setting label 'refsection:5' on input line 2.
- [57
+ [55
 
 
-] [58])
-[59
 
-] [60
+] [56] [57] [58]
+<figs/figSupp_netMetComp.pdf, id=535, 614.295pt x 289.08pt>
+File: figs/figSupp_netMetComp.pdf Graphic file (type pdf)
 
+<use figs/figSupp_netMetComp.pdf>
+Package pdftex.def Info: figs/figSupp_netMetComp.pdf used on input line 164.
+(pdftex.def)             Requested size: 368.57983pt x 173.44933pt.
 
-]
+<figs/figSupp_netMetCons.pdf, id=536, 614.295pt x 289.08pt>
+File: figs/figSupp_netMetCons.pdf Graphic file (type pdf)
+
+<use figs/figSupp_netMetCons.pdf>
+Package pdftex.def Info: figs/figSupp_netMetCons.pdf used on input line 178.
+(pdftex.def)             Requested size: 368.57983pt x 173.44933pt.
+
+<figs/figSupp_rarified_prob1.pdf, id=537, 578.16pt x 361.35pt>
+File: figs/figSupp_rarified_prob1.pdf Graphic file (type pdf)
+
+<use figs/figSupp_rarified_prob1.pdf>
+Package pdftex.def Info: figs/figSupp_rarified_prob1.pdf used on input line 189
+.
+(pdftex.def)             Requested size: 346.89867pt x 216.81168pt.
+) [59
+
+ <./figs/figSupp_netMetComp.pdf> <./figs/figSupp_netMetCons.pdf>] [60 <./figs/f
+igSupp_rarified_prob1.pdf>]
 \tf@toc=\write5
 \openout5 = `test.toc'.
 
@@ -1194,20 +1199,18 @@ Package biblatex Info: Setting label 'refsection:5' on input line 2.
 \tf@lot=\write7
 \openout7 = `test.lot'.
 
- (./test.aux (./abstract.aux) (./intro.aux) (./chap1.aux) (./chap2.aux) (./chap
-3.aux) (./conclusion.aux) (./ch1_appendix.aux) (./ch2_appendix.aux))
 
-LaTeX Warning: There were undefined references.
-
+(./test.aux (./abstract.aux) (./intro.aux) (./chap1.aux) (./chap2.aux)
+(./chap3.aux) (./conclusion.aux) (./ch1_appendix.aux) (./ch2_appendix.aux))
 Package logreq Info: Writing requests to 'test.run.xml'.
 \openout1 = `test.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11386 strings out of 493117
- 178021 string characters out of 6135433
- 631444 words of memory out of 5000000
- 14660 multiletter control sequences out of 15000+600000
+ 11401 strings out of 493117
+ 178488 string characters out of 6135433
+ 631535 words of memory out of 5000000
+ 14672 multiletter control sequences out of 15000+600000
  11336 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,15n,53p,2225b,1106s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1227,10 +1230,10 @@ ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive
 014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/20
 14/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/201
 4/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on test.pdf (70 pages, 3326029 bytes).
+Output written on test.pdf (70 pages, 3348203 bytes).
 PDF statistics:
- 595 PDF objects out of 1000 (max. 8388607)
- 420 compressed objects within 5 object streams
+ 615 PDF objects out of 1000 (max. 8388607)
+ 434 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
