@@ -7,40 +7,23 @@
 \usepackage{amsmath}
 \usepackage{verbatim}
 \usepackage{paralist}
-\usepackage{natbib}
-% \usepackage{chapterbib}
 \usepackage{graphicx}
 \usepackage{rotating}
 \usepackage{array}
+
+\usepackage[style=nature,refsection=chapter,natbib=true]{biblatex}
+\addbibresource{thesis.bib}
+\DefineBibliographyStrings{english}{%
+  bibliography = {References}
+}
 
 \makeevenfoot{simple}{}{\thepage}{}
 \makeoddfoot{simple}{}{\thepage}{}
 \makeevenhead{simple}{}{}{}
 \makeoddhead{simple}{}{}{}
 
-% \copypagestyle{chapter}{simple} % make chapter a page style of its own
-% \makeevenfoot{chapter}{}{\thepage}{}
-% \makeoddfoot{chapter}{}{\thepage}{}
-% \makeevenhead{chapter}{}{}{}
-% \makeoddhead{chapter}{}{}{}
-
-% \copypagestyle{title}{simple} 
-% \makeevenfoot{title}{}{\thepage}{}
-% \makeoddfoot{title}{}{\thepage}{}
-% \makeevenhead{title}{}{}{}
-% \makeoddhead{title}{}{}{}
-
-% \copypagestyle{book}{simple} 
-% \makeevenfoot{book}{}{\thepage}{}
-% \makeoddfoot{book}{}{\thepage}{}
-% \makeevenhead{book}{}{}{}
-% \makeoddhead{book}{}{}{}
-
-% \copypagestyle{part}{simple} 
-% \makeevenfoot{part}{}{\thepage}{}
-% \makeoddfoot{part}{}{\thepage}{}
-% \makeevenhead{part}{}{}{}
-% \makeoddhead{part}{}{}{}
+\setsecnumdepth{subsection}
+\maxtocdepth{subsection}
 
 \begin{document}
 
@@ -113,8 +96,8 @@ and Natural Resources.
 
 I would also like to acknowledge my funders including the National
 Science Foundation Graduate Research Fellowship, NSF DEB 1241253, the
-Moore Foundation, and the Department of Environmental Science, Policy
-and Management and the Walker Fund at UC Berkeley.s
+Moore Foundation, the Department of Environmental Science, Policy
+and Management and the Walker Fund at UC Berkeley.
 \end{acknowledgements}
 
 \end{frontmatter}
@@ -124,6 +107,7 @@ and Management and the Walker Fund at UC Berkeley.s
 }
 
 \pagestyle{simple}
+\nobibintoc
 
 \let\origChapName\chaptername
 \renewcommand{\chaptername}{}
@@ -139,8 +123,5 @@ and Management and the Walker Fund at UC Berkeley.s
 \include{ch1_appendix}
 \include{ch2_appendix}
 
-% \bibliographystyle{thesis}
-% \bibliography{thesis}
 
 \end{document}
-
