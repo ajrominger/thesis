@@ -1,0 +1,131 @@
+\documentclass{ucbthesis}
+
+% If the Grad. Division insists that the first paragraph of a section
+% be indented (like the others), then include this line:
+% \usepackage{indentfirst}
+
+\usepackage{amsmath}
+\usepackage{verbatim}
+\usepackage{paralist}
+% \usepackage{natbib}
+% \usepackage{chapterbib}
+\usepackage{graphicx}
+\usepackage{rotating}
+\usepackage{array}
+
+\usepackage[style=nature,refsection=chapter,natbib=true]{biblatex}
+\addbibresource{thesis.bib}
+\DefineBibliographyStrings{english}{%
+  bibliography = {References}
+}
+
+\makeevenfoot{simple}{}{\thepage}{}
+\makeoddfoot{simple}{}{\thepage}{}
+\makeevenhead{simple}{}{}{}
+\makeoddhead{simple}{}{}{}
+
+\begin{document}
+
+% Declarations for Front Matter
+
+\title{The Statistical Mechanics of Biodiversity}
+\author{Andrew James Rominger}
+\degreesemester{Spring}
+\degreeyear{2016}
+\degree{Doctor of Philosophy}
+\cochairs{Professor John Harte}{Professor Rosemary Gillespie}
+\othermembers{Professor Charles Marshall}
+\numberofmembers{3}
+\field{Environmental Science, Policy and Management}
+\campus{Berkeley}
+
+\maketitle
+% Delete (or comment out) the \approvalpage line for the final version.
+\approvalpage
+\copyrightpage
+
+\include{abstract}
+
+\begin{frontmatter}
+
+\begin{dedication}
+\null\vfil
+\begin{center}
+  I dedicate this thesis to my guides and sources of solace through
+  the process of completing my Ph.D: to my mother Judy Rominger and my
+  godmother Marsha Keener; to my partner Linden Schneider; and to the
+  kolea \textit{(Pluvialis fulva)} and giant koa \textit{(Acacia koa)}
+  of Hawaii.
+\end{center}
+\vfil\null
+\end{dedication}
+
+
+\tableofcontents
+\clearpage
+\listoffigures
+\clearpage
+\listoftables
+
+\begin{acknowledgements}
+I would like to first and foremost thank my co-Chairs, Drs. John Harte
+and Rosemary Gillespie; their dedication and support to fostering my
+research and advocating for my contribution to the scientific
+community has been the defining feature of my graduate experience.  I
+would also like to thank my outside member Dr. Charles Marshall who's
+scientific curiousity and practicle advice have been critical in
+forging my path as a researcher.
+
+This work would not have been possible without the support and
+teamwork of many friends and collaborators.  I would like to thank
+especially Dr. Pablo Marquet, Dr. Miguel Fuentes, Dr. Daniel Gruner,
+Dr. Cory Merow, Dr. George Roderick, Jun Lim, Dr. Kari Goodman and Dr.
+Matthew Van Dam for their comraderee and tireless collaboration.  I
+would like to thank Dr. Manisha Anantharaman, Dr. Naim Darghouth,
+Dr. Danielle Christianson, Erica Newman, Dr. David Hembry, Jade Zhang
+and Meredith Jabis for their friendship and support.
+
+This work is rooted in the diversity of nature, particularely the
+unique biota of Hawaii.  I am grateful to those who have dedicated
+their lives to preserving and restoring that unique legacy, especially
+Pat Bily, Ed Misaki and Russell Kallstrom of The Nature Conservancy
+Hawaii, Rhonda Loh and Raina Kaholoa'a with the National Park Service,
+and Cynthia King and Betsy Gagne with the Hawaii Department of Land
+and Natural Resources.
+
+I would also like to acknowledge my funders including the National
+Science Foundation Graduate Research Fellowship, NSF DEB 1241253, the
+Moore Foundation, and the Department of Environmental Science, Policy
+and Management and the Walker Fund at UC Berkeley.s
+\end{acknowledgements}
+
+\end{frontmatter}
+
+\addtopsmarks{headings}{}{
+  \createmark{chapter}{left}{nonumber}{}{}
+}
+
+\pagestyle{simple}
+\nobibintoc
+
+\let\origChapName\chaptername
+\renewcommand{\chaptername}{}
+\include{intro}
+\renewcommand{\chaptername}{\origChapName}
+\include{chap1}
+\printbibliography
+\include{chap2}
+\printbibliography
+\include{chap3}
+\printbibliography
+\renewcommand{\chaptername}{}
+\include{conclusion}
+
+\appendix
+\include{ch1_appendix}
+\printbibliography
+\include{ch2_appendix}
+\printbibliography
+
+
+\end{document}
