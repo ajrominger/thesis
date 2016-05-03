@@ -69,7 +69,6 @@ differences among lineages \citep[e.g.][]{gruner2007, gillespie2009}
 that can be used to test for biologically meaningful differences among
 lineages that might drive their disparate diversification patterns.
 
-
 \subsection{Development of genetic structure}
 
 High levels of dispersal and associated gene flow among localities
@@ -185,15 +184,15 @@ across the island chronosequence}
 To evaluate the balance between regional immigration and the potential
 for local differentiation, we measured how molecular variation is
 partitioned among populations within species across locations of known
-substrate age on the islands of Hawaii and Maui (Fig. 1). We compiled
+substrate age on the islands of Hawaii and Maui (Fig. \ref{fig:map}). We compiled
 published [DNA sequences, amplified fragment length polymorphism
 (AFLPs) and allozymes] and new data sets for a diversity of native
 Hawaiian arthropod groups that represent a spectrum of trophic levels
 (Table1). New sequences were included for sap-feeding Hemiptera group
 \textit{Nesosydne} planthoppers [COI; data generated following the
-protocols in \cite{goodman2012}; GenBank accession numbers:
+protocols in \citet{goodman2012}; GenBank accession numbers:
 KT023113–KT023179] and \textit{Trioza psyllids} [COI, cytB; data
-generated following protocols in \cite{percy2003}; GenBank accession
+generated following protocols in \citet{percy2003}; GenBank accession
 numbers: KR108061–KR108144]. Samples were from the focal sites
 described below for the ecological analysis, as well as from other
 locations across Hawaii and Maui. These data were used to provide an
@@ -210,7 +209,7 @@ in \texttt{Arlequin} v.3.5 \citep{arlequin} using the AMOVA procedure
 to compute $F_{ST}$, a measure of genetic variance, or, where
 possible, $\Phi_{ST}$, an $F_{ST}$ analogue that incorporates genetic
 sequence information. The \textit{Laupala} AFLP data were analyzed
-using \texttt{tfpga} v.1.3 (Miller, 1997), using the same hierarchical
+using \texttt{tfpga} v.1.3 \citep{miller1997}, using the same hierarchical
 approach of comparing within and among volcanoes as described
 above. To provide a temporal framework for the population
 differentiation analysis we assembled divergence-dating information
@@ -225,29 +224,29 @@ volcanoes. This analysis assumes that volcano age parallels habitat
 age, allowing more or less time for the presence of the populations.
 
 
+
 \subsection{Ecological metrics across the island chronosequence}
 
 To investigate how ecological patterns change as communities age, we
 selected four focal sites across the chronosequence and island ages
-(two on the island of Hawaii, one on Maui and one on Kauai; Fig. 1) of
-approximately 12 km$^2$ (each was defined as a point with a 2 km
-radius buffer). Focal sites were selected to have similar forest
-composition (dominated by \textit{Metrosideros polymorpha};
-Myrtaceae), elevation (1100--1400 m) and rainfall (mean annual
-precipitation 2000--3000 mm). We then constructed bipartite
+(two on the island of Hawaii, one on Maui and one on Kauai;
+Fig. \ref{fig:map}) of approximately 12 km$^2$ (each was defined as a
+point with a 2 km radius buffer). Focal sites were selected to have
+similar forest composition (dominated by \textit{Metrosideros
+  polymorpha}; Myrtaceae), elevation (1100--1400 m) and rainfall (mean
+annual precipitation 2000--3000 mm). We then constructed bipartite
 interaction networks between native herbivorous Hemiptera species and
 native plants at each of the study sites. Bipartite networks describe
 the topology of ecological interactions between two guilds of
 organisms (e.g. herbivores and their plant hosts). Quantitative
 information on the relative importance of interaction links can be
-incorporated into network analyses (Vazquez et al., 2009). However,
+incorporated into network analyses \citep{vazquez2009}. However,
 currently available data are restricted to binary networks: those that
 describe the potential for interaction between any two species but not
 the relative frequency of that interaction to each species.
 
 We compiled species lists of all native herbivorous Hemiptera for each
-focal site from published species accounts (see Table S1 in the
-Supporting Information for a full list). Species accounts and other
+focal site from published species accounts. Species accounts and other
 published sources were used to determine the presence, probable
 presence, or probable absence of each species at each of our four
 focal sites. A documented presence was defined as a known specimen
@@ -287,7 +286,7 @@ observed log-likelihood. This comparison is identical in approach to a
 z-score test using a Monte Carlo simulation to estimate the sampling
 distribution of log-likelihoods. \texttt{R} scripts
 \citep[v.3.1.1;][]{RCore} used for METE estimation and Monte Carlo
-methods are available in Appendix 1.  To investigate how speciation
+methods are available in Appendix 1 \ref{sec:meteCode}.  To investigate how speciation 
 may in part drive network patterns and deviations from those predicted
 by idealized ecological theory, we analyzed the number of links
 assigned to each Hemiptera species (the degree distribution)
@@ -350,10 +349,10 @@ at localities within volcanoes compared with among them (Table 1). The
 analysis of genetic population structure across the chronosequence of
 localities revealed a similar pattern. The herbivores show high
 genetic population structure among localities even on young volcanoes
-(Fig. 2). By contrast, predatory spiders exhibited little genetic
-population structure within sites on the same volcano; this was higher
-among volcanoes, with values increasing with age across the
-chronosequence.
+(Fig. \ref{fig:popGen}). By contrast, predatory spiders exhibited
+little genetic population structure within sites on the same volcano;
+this was higher among volcanoes, with values increasing with age
+across the chronosequence.
 
 The observed levels of genetic divergence have evolved rapidly in many
 cases. For example, for species from the island of Hawaii for which
@@ -374,13 +373,13 @@ diverged as little as 2600 years ago \citep[][Table 1]{goodman2012}.
 The degree distribution of Hemiptera species varied across the
 chronosequence with both the youngest and oldest sites deviating most
 from the statistical steady-state maximum entropy predictions
-(Fig. 3). In the intermediate-aged site of Kohala, deviations are not
-significantly different from the predictions of maximum entropy.  The
-generalized linear model revealed significant differences between the
-degree distributions of single-island endemics (species whose
-distributions are restricted to only one island) versus archipelagic
-endemics that are found across multiple islands
-(Fig. 3). Single-island endemics show significantly lower degree
+(Fig. \ref{fig:degree}). In the intermediate-aged site of Kohala,
+deviations are not significantly different from the predictions of
+maximum entropy.  The generalized linear model revealed significant
+differences between the degree distributions of single-island endemics
+(species whose distributions are restricted to only one island) versus
+archipelagic endemics that are found across multiple islands
+(Fig. \ref{fig:degree}). Single-island endemics show significantly lower degree
 distributions overall (i.e. more specialization) compared with more
 generalist species found across multiple islands. Furthermore,
 single-island endemics use more host plant species on the
@@ -395,15 +394,15 @@ suggests that increased generality of Maui endemics may be driven by
 increased plant species diversity within genera on that island.
 
 Network nestedness decreased with habitat age while modularity
-increased (Fig. 4). This trend was recovered in networks constructed
-from both more and less stringent geographic criteria
-(Fig. S3). Choice of null model changed the magnitude of modularity
-and the sign of nestedness z-scores; however, the relative pattern of
-decreasing nestedness and increasing modularity remained across the
-different null models used to standardize network metrics
-(Fig. S2). The patterns were also robust to sampling intensity, as
-demonstrated by a rarefaction analysis (Fig. S4).
-
+increased (Fig. \ref{fig:netMet}). This trend was recovered in
+networks constructed from both more and less stringent geographic
+criteria (Fig. \ref{figSupp:netCons}). Choice of null model changed
+the magnitude of modularity and the sign of nestedness z-scores;
+however, the relative pattern of decreasing nestedness and increasing
+modularity remained across the different null models used to
+standardize network metrics (Fig. \ref{figSupp:netMetComp}). The
+patterns were also robust to sampling intensity, as demonstrated by a
+rarefaction analysis (Fig. \ref{figSupp:rfy}).
 
 \section{Discussion}
 
@@ -412,21 +411,22 @@ trophic levels}
 
 The analysis of available genetic data presented here indicates that
 divergence is occurring within the islands at small spatial scales and
-over short time periods (Table 1, Fig. 2). Furthermore, the scale of
-population structure varies with trophic position, with structure
-developing in sap-feeding herbivore lineages at smaller scales (and
-hence shorter timeframes in the context of the chronosequence)
-compared with detritivorous crickets and predatory spiders (Table 1,
-Fig. 2). Structure within species may allow populations to take
-independent evolutionary trajectories, especially when aided by other
-evolutionary processes acting differentially across species geographic
-ranges. A variety of factors have been associated with the genetic
-divergence of populations and species in the lineages described here,
-including combinations of genetic drift associated with geographic
-isolation \citep{percy2003, mendelson2005, ogrady2011, goodman2012},
-adaptation associated with competition, predation and mutualism
-\citep{gillespie2004, roderick2008, brewer2015} and sexual signaling
-\citep{mendelson2005, percy2006, magnacca2008, goodman2015}.
+over short time periods (Table \ref{tab:genStat},
+Fig. \ref{fig:popGen}). Furthermore, the scale of population structure
+varies with trophic position, with structure developing in sap-feeding
+herbivore lineages at smaller scales (and hence shorter timeframes in
+the context of the chronosequence) compared with detritivorous
+crickets and predatory spiders (Table \ref{tab:genStat},
+Fig. \ref{fig:popGen}). Structure within species may allow populations
+to take independent evolutionary trajectories, especially when aided
+by other evolutionary processes acting differentially across species
+geographic ranges. A variety of factors have been associated with the
+genetic divergence of populations and species in the lineages
+described here, including combinations of genetic drift associated
+with geographic isolation \citep{percy2003, mendelson2005, ogrady2011,
+  goodman2012}, adaptation associated with competition, predation and
+mutualism \citep{gillespie2004, roderick2008, brewer2015} and sexual
+signaling \citep{mendelson2005, percy2006, magnacca2008, goodman2015}.
 
 The \textit{Nesosydne} planthoppers provide evidence that some period
 of geographic isolation preceded the divergence of sexual signals
@@ -437,24 +437,25 @@ a phylogenetic study of a radiation of sap-feeding
 was associated with host plant specialization between 1 and 5 Ma, but
 only with geography on the younger island \citep{bennett2013}. Our
 network analysis shows that specialization and modularity are more
-pronounced on Maui than on Hawaii (Figs 3 and 4), consistent with the
-phylogenetic results from \textit{Nesophrosyne}. Available dating
-analyses of other arthropod taxa indicate that population genetic
-structure can develop in much less than 1 Myr (Table 1), and suggest
-that landscape fragmentation processes (e.g. lava flows) may dominate
-the earliest stages of diversification across taxa in the Hawaiian
-islands. Other taxa at low trophic levels, such as the herbivorous
-\textit{Trioza psyllids}, detritivorous \textit{Laupala} crickets and
-fungivorous Drosophila, show similar signals of geographic isolation
-combined with ecological and sexual processes driving genetic
-divergence and diversification across sites as young as those on
-Hawaii \citep{percy2003, mendelson2005, percy2006, magnacca2008,
-  ogrady2011}. By contrast, spiders, which are predatory, develop
-genetic discontinuities at larger spatial and temporal scales with a
-strong signature of increasing structure with age of the
-chronosequence \citep[][Table 1]{roderick2012}. Further work is needed
-to assess the generality of this pattern of slower genetic
-differentiation in predators compared with herbivores.
+pronounced on Maui than on Hawaii (Figs. \ref{fig:degree} and
+\ref{fig:netMet}), consistent with the phylogenetic results from
+\textit{Nesophrosyne}. Available dating analyses of other arthropod
+taxa indicate that population genetic structure can develop in much
+less than 1 Myr (Table 1), and suggest that landscape fragmentation
+processes (e.g. lava flows) may dominate the earliest stages of
+diversification across taxa in the Hawaiian islands. Other taxa at low
+trophic levels, such as the herbivorous \textit{Trioza psyllids},
+detritivorous \textit{Laupala} crickets and fungivorous Drosophila,
+show similar signals of geographic isolation combined with ecological
+and sexual processes driving genetic divergence and diversification
+across sites as young as those on Hawaii \citep{percy2003,
+  mendelson2005, percy2006, magnacca2008, ogrady2011}. By contrast,
+spiders, which are predatory, develop genetic discontinuities at
+larger spatial and temporal scales with a strong signature of
+increasing structure with age of the chronosequence \citep[][Table
+1]{roderick2012}. Further work is needed to assess the generality of
+this pattern of slower genetic differentiation in predators compared
+with herbivores.
 
 
 \subsection{Macroecological metrics: network structure and steady
@@ -469,30 +470,31 @@ by the generalist species already present at the site
 and thus the potential for neutral colonization-driven assembly, this
 site did not conform to the statistical steady-state predication of
 the METE. The observed deviations from the METE at Kilauea appear to
-be largely driven by a surplus of singleton links (Fig. 3), which may
-reflect a state of ‘incomplete’ assembly, possibly by lower species
-richness of the plant and herbivore biotas. Conversely, at Kohala, at
-intermediate age (150 ka), observations were not significantly
-different from the METE predictions. We posit that the reason why
-theoretical predictions fit Kohala so well is that the site has had
-sufficient time to undergo ecological succession and thus arrive at a
-statistical steady state, but is still too young to be affected by
-ecological specialization and rapid in situ diversification associated
-with host plants on older islands.
+be largely driven by a surplus of singleton links
+(Fig. \ref{fig:degree}), which may reflect a state of ‘incomplete’
+assembly, possibly by lower species richness of the plant and
+herbivore biotas. Conversely, at Kohala, at intermediate age (150 ka),
+observations were not significantly different from the METE
+predictions. We posit that the reason why theoretical predictions fit
+Kohala so well is that the site has had sufficient time to undergo
+ecological succession and thus arrive at a statistical steady state,
+but is still too young to be affected by ecological specialization and
+rapid in situ diversification associated with host plants on older
+islands.
 
 Interestingly, the communities on the older Maui and Kauai sites show
-strong deviations from the METE expectations (Fig. 4). The METE is
-agnostic about which mechanisms determine the values of the state
-variables that lead to its macroecological predictions (Harte,
-2011). It does not account for the evolutionary history of biological
-systems. Thus, one possible explanation for the strong deviations from
-the METE expectations, compared with observations at our
-intermediate-aged site (Kohala), is that while the ages of Maui and
-Kauai are sufficient for evolutionary assembly driven by
-specialization and diversification on host plants, the older age of
-these islands may have led to range contractions and possibly
-extinction of plant species on the oldest island of Kauai (Whittaker
-et al., 2008).
+strong deviations from the METE expectations
+(Fig. \ref{fig:netMet}). The METE is agnostic about which mechanisms
+determine the values of the state variables that lead to its
+macroecological predictions (Harte, 2011). It does not account for the
+evolutionary history of biological systems. Thus, one possible
+explanation for the strong deviations from the METE expectations,
+compared with observations at our intermediate-aged site (Kohala), is
+that while the ages of Maui and Kauai are sufficient for evolutionary
+assembly driven by specialization and diversification on host plants,
+the older age of these islands may have led to range contractions and
+possibly extinction of plant species on the oldest island of Kauai
+(Whittaker et al., 2008).
 
 Our results show decreased nestedness and increased modularity on Maui
 and Kauai. Co-evolution between interacting species should lead to
@@ -525,17 +527,18 @@ hypothesis that in situ formation of single-island endemics may be the
 product of co-evolution and specialization. At the Kohala site, which
 showed the best fit to maximum entropy theory, single-island endemic
 and multiple-island endemic species alike showed increased
-generalization (i.e. a higher degree, or more links; Fig 3), while at
-the youngest site of Kilauea, specialist single-island endemics may be
-limited by low plant diversity and thus appear more specialized
-(Fig. 3). Conversely at the oldest site on Kauai, where plant
-diversity is high \citep{kitayama1995}, single-island endemics are
-again associated with decreased degree and thus genuine specialization
-(Fig. 3). On Maui, single-island endemics show statistically
-significant increases in generalization, but this pattern disappears
-when analyzing the data at the resolution of plant genera, thus
-suggesting that Hemiptera species endemic to Maui may benefit from the
-diversification of plant species within genera.
+generalization (i.e. a higher degree, or more links; Fig
+\ref{degree}), while at the youngest site of Kilauea, specialist
+single-island endemics may be limited by low plant diversity and thus
+appear more specialized (Fig. \ref{degree}). Conversely at the oldest
+site on Kauai, where plant diversity is high \citep{kitayama1995},
+single-island endemics are again associated with decreased degree and
+thus genuine specialization (Fig. \ref{degree}). On Maui,
+single-island endemics show statistically significant increases in
+generalization, but this pattern disappears when analyzing the data at
+the resolution of plant genera, thus suggesting that Hemiptera species
+endemic to Maui may benefit from the diversification of plant species
+within genera.
 
 
 \subsection{Future research}
@@ -561,7 +564,7 @@ predict that these communities will exhibit a nested network
 structure, assuming new species will eat or be eaten by the generalist
 species already present in the community, as suggested by previous
 work on nestedness (bascompte2007) and by our finding that widespread
-species tend to be generalists (Fig. 4).  Following the same logic, in
+species tend to be generalists (Fig. \ref{netMet}).  Following the same logic, in
 older communities we expect to see characteristics of evolutionary
 assembly, dominated by processes such as adaptive exploration of niche
 space, giving way to speciation. Thus, we predict increasing
@@ -582,9 +585,10 @@ will allow us to test entire arthropod communities for deviations from
 METE predictions of statistical steady state \citep{harte2011} across
 substrates of different ages. For example, predators, whose
 assemblages are likely to be more dominated by immigration and
-ecological assembly (Fig. 2), may never show strong deviations from
-METE predictions, whereas herbivores could show increasing deviation
-with age in agreement with the network results of this paper (Fig. 3).
+ecological assembly (Fig. \ref{fig:popGen}), may never show strong
+deviations from METE predictions, whereas herbivores could show
+increasing deviation with age in agreement with the network results of
+this paper (Fig. \ref{fig:degree}).
 
 
 \subsubsection{Evolutionary data: diversification within species} The
@@ -616,19 +620,20 @@ simplified natural experiment, as exemplified by oceanic archipelagos.
 
 We have demonstrated how taxa in the lower trophic levels developed
 genetic structure even in the youngest habitats of the observed
-chronosequence and at smaller spatial scales (Table 1, Fig. 2). Thus,
-lower trophic levels are affected by in situ processes of
-diversification very early in the chronosequence, compared with higher
-trophic levels, though in situ processes become more important over
-time in the latter. Network nestedness decreased while modularity
-increased with age (Fig. 4), again indicating a possible shift from
-assembly driven by ex situ immigration early on to one based on in
-situ diversification, such as in co-diversification of insect
-herbivores with host plants \citep{bascompte2007, donatti2011}. That
-single-island endemics (probably the product of in situ
-diversification) show more specialization at older sites than more
-broadly distributed species (those taxa more likely to be initial
-colonists; Fig. 3) also supports this hypothesis.
+chronosequence and at smaller spatial scales (Table \ref{tab:genStat},
+Fig. \ref{fig:popGen}). Thus, lower trophic levels are affected by in
+situ processes of diversification very early in the chronosequence,
+compared with higher trophic levels, though in situ processes become
+more important over time in the latter. Network nestedness decreased
+while modularity increased with age (Fig. \ref{fig:netMet}), again
+indicating a possible shift from assembly driven by ex situ
+immigration early on to one based on in situ diversification, such as
+in co-diversification of insect herbivores with host plants
+\citep{bascompte2007, donatti2011}. That single-island endemics
+(probably the product of in situ diversification) show more
+specialization at older sites than more broadly distributed species
+(those taxa more likely to be initial colonists;
+Fig. \ref{fig:degree}) also supports this hypothesis.
 
 This study provides a framework for using chronologically arranged
 oceanic island systems to examine the interplay between evolutionary
@@ -650,14 +655,13 @@ Experimental Tropical Forests), Betsy Gagne (Natural Area Reserve
 System), Lisa Hadway and Joey Mello (Department of Forestry and
 Wildlife Hilo), Cynthia King and Charmian Dang (Department of Land and
 Natural Resources) and Rhonda Loh (Hawaii Volcanoes National Park). We
-thank Robert Ricklefs, Lauren Ponisio and two anonymous referees for
-thoughtful commentary. We are very grateful to Guida Santos, Richard
-Field and Robert Ricklefs for inviting us to contribute to this
-Special Issue. The research was supported by the National Science
-Foundation DEB 1241253.
+thank Robert Ricklefs and two anonymous referees for thoughtful
+commentary. We are very grateful to Guida Santos, Richard Field and
+Robert Ricklefs for inviting us to contribute to this Special
+Issue. The research was supported by the National Science Foundation
+DEB 1241253.
 
-% \bibliographystyle{thesis}
-% \bibliography{thesis}
+% \printbibliography
 
 \clearpage
 
@@ -671,7 +675,7 @@ years, My) of the islands of Kauai, Maui and Hawaii. Colours
 correspond to substrate age from young (light) to old (dark). Focal
 sites are shown as black circles (on Hawaii, Kohala is in the north,
 Kilauea in the south) while sampling sites for genetic data are
-represented by grey circles..}
+represented by grey circles.}
   \label{fig:map}
 \end{figure}
 
