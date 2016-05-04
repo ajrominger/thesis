@@ -1,100 +1,57 @@
 \begin{abstract}
+  Biologists have searched for a simple set of universal governing
+  mechanisms that dictate the dynamics of biodiversity since at least
+  the time of Darwin. While much progress has been made in
+  understanding system-specific processes and in documenting the
+  context-dependent roles of such mechanisms as competition and
+  facilitation, we still lack a universal governing rule set.  The
+  goal of understanding and predicting biodiversity dynamics comes at
+  a critical moment when human systems are disrupting those very
+  dynamics. In this thesis I approach the long-standing problem with
+  the hypothesis that general patterns in biodiversity emerge from a
+  combination of the statistical mechanics of large systems and the
+  unique non-equilibrium dynamics imparted to biological systems by
+  their evolutionary history. Statistical mechanics provides the key
+  analytical approaches to abstracting the complex details of
+  biodiversity into general macroscopic predictions that I show
+  receive support from empirical data.  However, key deviations from
+  the simplest statistical mechanics of biodiversity reveal the key
+  role of biological evolution in driving systems away from the
+  idealized steady state predicted by statistical mechanics.
 
+  In Chapter 1 I expanded a branch of non-equilibrial statistical
+  mechanics, known as super statistics, to explain previously
+  unaccounted for wild fluctuations in the richness of taxa through
+  the Phanerozoic marine invertebrate fossil record and show how this
+  non-equilibrium is driven by clades' punctuated exploration of their
+  adaptive landscapes. This theory provides a novel explanation for
+  deep time diversity dynamics invoking emergence of lineage-level
+  traits as the drivers of complexity via the same mechanisms by which
+  complexity emerges in large physical and social systems. In the
+  context of fossil diversity I show how this complexity arises
+  naturally from the uniquely biological mechanisms of punctuated
+  adaptive radiation followed by long durations of niche conservatism
+  and thus identify these mechanisms as sufficient and necessary to
+  produce observed patterns in the fossil record.  I test this theory
+  using two seminal fossil datasets.
 
-\cite{darwin} concluded {\it On the Origin} with his famous remark
-about the diversity of a tangled bank of vegetation and the
-possibility that it behaves according to some unknown set of universal
-laws. After a century and a half, that governing rule set still eludes
-us. This persistent scientific puzzle inspires my research and I
-approach it with the hypothesis that general patterns in biodiversity
-emerge from a combination of the statistical mechanics of large
-systems and the unique non-equilibrium dynamics imparted to biological
-systems by their evolutionary history. Understanding biodiversity
-dynamics comes at a critical moment when human systems are disrupting
-those very dynamics. My work will help provide a foundation for how
-global change might drive future shifts in ecology and evolution. To
-date I have studied macroscopic patterns in the richness, relatedness
-and abundance of species using principles from statistical physics and
-data science combined with global databases of museum specimens and
-exhaustive ecological surveys.  I have collected these data firsthand,
-giving me both the insight of a theoretician and the practicality and
-intuition of a field biologist. I am excited to enrich my research by
-collaborating with scientists who not only study large biological
-systems but also social systems, which we must understand equally well
-to prevent a biodiversity crisis, and who use principles from
-statistical physics to successfully predict generalities in light of
-complexity.
+  In Chapter 2 I use the chronosequence afforded by the Hawaiian
+  Islands to capture evolutionary snapshots of arthropod communities
+  at different ages and stages of assembly to understand how the
+  history underlying an assemblage determine its contemporary
+  biodiversity patterns.  I apply static ecological theory of trophic
+  networks based on statistical mechanics to these rapidly evolving
+  ecosystems to highlight what about the evolutionary process drives
+  communities away from statistical idealizations. I have tested
+  static ecological theories of herbivory network structure and the
+  distributions of abundances and metabolic rates across species. This
+  study indicates that rapid assembly from immigration and speciation
+  in young ecosystems and extinction in old ecosystems could drive
+  observed patterns.
 
-what each chapter does
-
-Working with SFI affiliates Pablo Marquet and Miguel Fuentes I
-expanded a branch of non-equilibrial statistical mechanics, known as
-super statistics, to explain previously unaccounted for wild
-fluctuations in the richness of taxa through the Phanerozoic marine
-invertebrate fossil record and show how this non-equilibrium is driven
-by clades' punctuated exploration of their adaptive landscapes
-\citep{romSStat}. To test this theory I developed object-oriented
-software that queried online databases of global fossil specimen
-records and then calculated Monte Carlo and likelihood-based measures
-of model fit.
-
-Our study is the first to demonstrate that complex, previously
-unexplained patterns in the sequence of origination and extinction
-events in the fossil record are the result of a simple underlying
-process emerging from non-equilibrium evolution on an adaptive
-landscape \cite{eldredgeGould1972, newman1985adaptive}. Our theory
-provides a novel explanation for deep time diversity dynamics invoking
-emergence of lineage-level traits as the drivers of complexity via the
-same mechanisms by which complexity emerges in large physical
-\cite{beck2004} and social systems \cite{fuentes2009}. In the context
-of fossil diversity we show how this complexity arises naturally from
-the uniquely biological mechanisms of punctuated adaptive radiation
-\cite{eldredgeGould1972, newman1985adaptive, hopkins2014} followed by
-long durations of niche conservatism \cite{ackerly2003, roy2009range,
-  hopkins2014} and thus identify these mechanisms as sufficient and
-necessary to produce observed patterns in the fossil record.
-
-Using two seminal fossil datasets \cite{sepkoski1992, alroy08} we show
-that fluctuations in marine biodiversity over the past 550 million
-years results from the superposition of many independently fluctuating
-subsystems whose fluctuations are Gaussian but give rise to
-non-Gaussian patterns when combined.  These independent subsystems
-correspond to lineages of closely related animal taxa, implying that
-diversification within lineages is driven by random additive
-interactions with the environment. Our findings thus challenge the
-idea that changes in origination and extinction through deep geologic
-time are the result of complicated evolutionary interactions among
-organisms and between organisms and their environment \cite{bak1993,
-  sole1997, newman1995}. However, we demonstrate that the evolutionary
-process responsible for generating new lineages varies slowly through
-time, possibly driven by non-random evolutionary innovations in the
-physiology and demography of new lineages. This slow change between
-lineages produces patterns of apparent complexity earlier ascribed to
-unnecessarily complicated mechanisms. We further show, using
-permutational null models, that our findings are not an artifact of how
-fossils are taxonomically classified but rather capture true
-underlying biological processes.
-
-
-Applying static ecological theories in rapidly evolving ecosystems
-can highlight what about the evolutionary process drives communities
-away from statistical idealizations. Using the chronosequence afforded
-by the Hawaiian Islands to capture snapshots of arthropod communities
-at different evolutionary ages and stages of ecological assembly, I
-have tested static ecological theories of herbivory network structure
-and the distributions of abundances and metabolic rates across
-species. To do so I developed an open source R package implementing an
-approach to theory development in ecology based on the principle of
-maximum information entropy. This framework seeks to predict
-distributions of interest, such as abundance distributions, without
-invoking any specific mechanistic assumptions but instead by finding
-the solution that an ideal system would reach in equilibrium.  Thus
-deviations from this theory can reveal the nature of unique mechanisms
-behind the observed structure of biodiversity.  My studies of network
-linkage, abundance and metabolic distributions indicate that rapid
-assembly from immigration and speciation in young ecosystems and
-extinction in old ecosystems could drive observed patterns.
-
-meteR
-
+  In Chapter 3 I highlight and explain the computational requirements
+  to testing one statistical theory of biodiversity---the Maximum
+  Entropy Theory of Ecology---with real data and make those test
+  available in a stream-lined framework via the \texttt{R} package
+  \texttt{meteR} that I authored.
 \end{abstract}
