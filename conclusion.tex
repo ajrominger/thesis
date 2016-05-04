@@ -1,26 +1,9 @@
 \chapter*{Conclusion}
 \addcontentsline{toc}{chapter}{Conclusion}
 
-how has thesis provided better top-down predictive theory for
-biodiversity and better integrated evolution into theory?
-
-use of stat mech to make detailed top-down predictions and to
-indentify where other mechanisms needed
-
-application of top down modeling to evolutionary process and testing
-of top down theory in evolving landscapes to understand how
-evolutionary drives deviation from theory
-
-provided software tools to make theory testing more robust and
-accessible
-
-what future steps are motivated by the thesis?
-
-
-
-Using two seminal paleontological datasets \cite{sepkoski1992,
-  alroy08} I show that fluctuations in marine biodiversity over the
-past 550 million years results from the superposition of many
+Using two seminal paleontological datasets \citep{sepkoski1992,
+  alroy08} I have shown that fluctuations in marine biodiversity over
+the past 550 million years results from the superposition of many
 independently fluctuating subsystems whose fluctuations are Gaussian
 but give rise to non-Gaussian patterns when combined.  These
 independent subsystems correspond to lineages of closely related
@@ -29,45 +12,105 @@ by random additive interactions with the environment. These findings
 thus challenge the idea that changes in origination and extinction
 through deep geologic time are the result of complicated evolutionary
 interactions among organisms and between organisms and their
-environment \cite{bak1993, sole1997, newman1995}. However, I
-demonstrate that the evolutionary process responsible for generating
+environment \citep{bak1993, sole1997, newman1995}. However, I
+demonstrated that the evolutionary process responsible for generating
 new lineages varies slowly through time, possibly driven by non-random
 evolutionary innovations in the physiology and demography of new
 lineages. This slow change between lineages produces patterns of
 apparent complexity earlier ascribed to unnecessarily complicated
-mechanisms. I further show, using permutational null models, that our
-findings are not an artifact of how fossils are taxonomically
-classified but rather capture true underlying biological processes.
+mechanisms. I have further shown, using permutational null models,
+that these findings are not an artifact of how fossils are
+taxonomically classified but rather capture true underlying biological
+processes.
 
+To further explore the importance of biological evolution in driving
+unique non-equilibrial patterns I synthesized population genetic and
+trophic network data for Hawaiian arthropods to show that as assembly
+by immigration (in communities assembled on young substrates) gives
+way to evolutionary processes (in communities assembled on old
+substrates), arthropod herbivore networks momentarily reach a steady
+state as predicted by equilibrial statistical mechanics
+\citep{rominger2015GEB}. On the young and old end of this spectrum
+different eco-evolutionary mechanisms lead to deviations from
+statistical mechanical theory: incomplete assembly and non-equilibrium
+adaptive evolution, respectively. Using population genetic data from
+other arthropod lineages I show that assembly and differentiation
+rates differ according to the trophic level of the organisms, implying
+that different trophic levels will reach an equilibrium at different
+periods and for different durations along the chronosequence.  This
+study provides a framework for using island systems combined with
+simple equilibrial theory building to understand how complex
+communities emerge from ecological (population dynamics, dispersal,
+trophic interactions) and evolutionary (genetic structuring,
+adaptation, speciation, extinction) processes.
 
+Finally, I argue that to fully realize the utility of statistical
+mechanics in the study of biodiversity, we must test these theories
+across many different systems.  I advocate for further exploring how
+the evolutionary process and rapid ecological transitions could drive
+deviations from theory by proposing tests of the maximum entropy
+theory of ecology \citep{harte2011} across gradients of disturbance,
+diversity and evolutionary age.  To facilitate these novel tests I
+provided ecologists with the open source \texttt{R} package
+\texttt{meteR}.
 
+``Top-down'' approaches to biodiversity theory will be critical for
+building universal predictions about the the diversity of life
+\citep{harte2011, krakauer2011}.  These theories require that many
+biological details be course-grained but in turn promise unprecedented
+predictive power.  Testing these theories in real ecosystems can
+illuminate where more detailed, biologically-grounded mechanisms are
+further needed.  In this thesis I have used principles form
+statistical mechanics to develop and test new top-down theory that
+explains fluctuations in diversity through deep geologic time and
+identifies key evolutionary processes as important mechanisms to
+include in a synthetic eco-evolutionary theory of biodiversity.  This
+work motivates exciting research directions for the near future which
+I sketch below.
 
+% how has thesis provided better top-down predictive theory for
+% biodiversity and better integrated evolution into theory?
 
+% use of stat mech to make detailed top-down predictions and to
+% identify where other mechanisms needed
 
+% application of top down modeling to evolutionary process and testing
+% of top down theory in evolving landscapes to understand how
+% evolutionary drives deviation from theory
 
-\paragraph{Future work: adaptive landscapes and memory.}
+% provided software tools to make theory testing more robust and
+% accessible
+
+% what future steps are motivated by the thesis?
+
+\section{Future Work}
+
+\subsection{Adaptive landscapes and non-Markovian memory}
+
 Ecological theory has of late been dominated by neutral models
 \citep[e.g.][]{rominger2009, rominger2015GEB}. This approach needs
 robust alternative hypotheses because a lack of alternative theories
 rooted in classical ecology could be one limitation preventing a more
 rigorous competition between deterministic and statistical theories of
-biodiversity. My work in the fossil record motivates a new approach to
-ecological theory using super-statistics to parsimoniously capture the
-non-neutrality of species and relate that non-neutrality to the
-non-equilibrium process of diversification on an adaptive landscape. I
-am also excited by the prospect of exploring what other principles
-from statistical physics could help us illuminate mechanisms in
-ecology and evolution. Spin glasses, with their non-exponential memory
-and non-ergodic dynamics, could be an ideal starting point.
+biodiversity. My work with super-statistics in the fossil record
+(Chapter 1) motivates a new approach to ecological theory using
+super-statistics to parsimoniously capture the non-neutrality of
+species and relate that non-neutrality to the non-equilibrium process
+of diversification on an adaptive landscape.
 
-\paragraph{Future work: metabarcoding and ecological theory.}
-Combining test of ecological theory with massive phylogenetic data
-could determine what aspects of evolutionary history specifically
-shape ecological communities, but massive phylogenetic data on the
-scale of large ecological studies is limiting.  A new approach
-dubbed ``metabarcoding'' \citep{taberlet2012} harnesses next
+\subsection{Metabarcoding and Ecological Theory}
+
+Combining test of ecological theory with massive phylogenetic data, as
+motivated by my synthesis of population genetics with trophic networks
+(Chapter 2), could determine what aspects of evolutionary history
+specifically shape ecological communities, but massive phylogenetic
+data on the scale of large ecological studies is limiting.  A new
+approach dubbed ``metabarcoding'' \citep{taberlet2012} harnesses next
 generation sequencing technology to produce massive amounts of genetic
 data for ecological samples. This approach, however, has known
-pitfalls but these could be overcome bioinformatically.
+pitfalls \citep[e.g. bias in primer affinities between
+taxa][]{clarke2014} but these could be overcome bioinformatically
+using hierarchical models, already commonplace in ecology
+\citep{royleDorazio}.
 
 \printbibliography[heading=subbibliography]
