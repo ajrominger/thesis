@@ -3803,31 +3803,6 @@
       \verb http://rspb.royalsocietypublishing.org/content/260/1357/31.abstract
       \endverb
     \endentry
-    \entry{rominger2009}{article}{}
-      \name{labelname}{3}{}{%
-        {{hash=ece36a5a612832105e068b10c930b084}{Rominger}{R\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=df58988ff64342fd2570ed701d3e47dc}{Miller}{M\bibinitperiod}{T.\bibnamedelimi E.\bibnamedelimi X.}{T\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim X\bibinitperiod}{}{}{}{}}%
-        {{hash=9a528971ea42c4d928bf9535af6bab51}{Collins}{C\bibinitperiod}{S.\bibnamedelimi L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=ece36a5a612832105e068b10c930b084}{Rominger}{R\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=df58988ff64342fd2570ed701d3e47dc}{Miller}{M\bibinitperiod}{T.\bibnamedelimi E.\bibnamedelimi X.}{T\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim X\bibinitperiod}{}{}{}{}}%
-        {{hash=9a528971ea42c4d928bf9535af6bab51}{Collins}{C\bibinitperiod}{S.\bibnamedelimi L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{0d4f78aa7fc6e57951b7000bc9cf743a}
-      \strng{fullhash}{24d6a176070cc33121711491d7864fa7}
-      \field{sortinit}{0}
-      \field{labeltitle}{Relative contributions of neutral and niche-based processes to the structure of a desert grassland grasshopper community}
-      \field{journaltitle}{Oecologia}
-      \field{number}{4}
-      \field{title}{Relative contributions of neutral and niche-based processes to the structure of a desert grassland grasshopper community}
-      \field{volume}{161}
-      \field{year}{2009}
-      \field{pages}{791\bibrangedash 800}
-    \endentry
     \entry{rominger2015GEB}{article}{}
       \true{morelabelname}
       \name{labelname}{10}{}{%
@@ -3863,6 +3838,85 @@
       \field{title}{Community assembly on isolated islands: macroecology meets evolution}
       \field{year}{2015}
     \endentry
+    \entry{harte2011}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=a699018ef2db7a37a20cdbaf75e1453e}{Harte}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a699018ef2db7a37a20cdbaf75e1453e}{Harte}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a699018ef2db7a37a20cdbaf75e1453e}
+      \strng{fullhash}{a699018ef2db7a37a20cdbaf75e1453e}
+      \field{sortinit}{0}
+      \field{labeltitle}{The Maximum Entropy Theory of Ecology}
+      \field{title}{The Maximum Entropy Theory of Ecology}
+      \field{year}{2011}
+    \endentry
+    \entry{krakauer2011}{article}{}
+      \name{labelname}{9}{}{%
+        {{hash=582e1ff39a6522489611e323535c8498}{Krakauer}{K\bibinitperiod}{David\bibnamedelima C}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=ef80e2cfa9f45ecb3f3cf0bd4519e87e}{Collins}{C\bibinitperiod}{James\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=89ec15c3a0016dbe345533677b5f52ee}{Erwin}{E\bibinitperiod}{Douglas}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=be871b52468a456719f546eb242e5db7}{Flack}{F\bibinitperiod}{Jessica\bibnamedelima C}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=91b7039806c5a295c28c879fe8600bbe}{Fontana}{F\bibinitperiod}{Walter}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=c7b9126852407dac18794603b991cb34}{Laubichler}{L\bibinitperiod}{Manfred\bibnamedelima D}{M\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=ec75f580984b8f5479e94425f1d5cddb}{Prohaska}{P\bibinitperiod}{Sonja\bibnamedelima J}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ab20ceb6888e1d800c3b22cff607159c}{West}{W\bibinitperiod}{Geoffrey\bibnamedelima B}{G\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=f785c52b1c1b02e23d779f5508f50619}{Stadler}{S\bibinitperiod}{Peter\bibnamedelima F}{P\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=582e1ff39a6522489611e323535c8498}{Krakauer}{K\bibinitperiod}{David\bibnamedelima C}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=ef80e2cfa9f45ecb3f3cf0bd4519e87e}{Collins}{C\bibinitperiod}{James\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=89ec15c3a0016dbe345533677b5f52ee}{Erwin}{E\bibinitperiod}{Douglas}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=be871b52468a456719f546eb242e5db7}{Flack}{F\bibinitperiod}{Jessica\bibnamedelima C}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=91b7039806c5a295c28c879fe8600bbe}{Fontana}{F\bibinitperiod}{Walter}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=c7b9126852407dac18794603b991cb34}{Laubichler}{L\bibinitperiod}{Manfred\bibnamedelima D}{M\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=ec75f580984b8f5479e94425f1d5cddb}{Prohaska}{P\bibinitperiod}{Sonja\bibnamedelima J}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ab20ceb6888e1d800c3b22cff607159c}{West}{W\bibinitperiod}{Geoffrey\bibnamedelima B}{G\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=f785c52b1c1b02e23d779f5508f50619}{Stadler}{S\bibinitperiod}{Peter\bibnamedelima F}{P\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1f4b1d7f317c11772fd45122bf2ef5c7}
+      \strng{fullhash}{ab89ace1bebf42908ba036cd66590df5}
+      \field{sortinit}{0}
+      \field{labeltitle}{The challenges and scope of theoretical biology}
+      \field{journaltitle}{Journal of theoretical biology}
+      \field{number}{1}
+      \field{title}{The challenges and scope of theoretical biology}
+      \field{volume}{276}
+      \field{year}{2011}
+      \field{pages}{269\bibrangedash 276}
+    \endentry
+    \entry{rominger2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=ece36a5a612832105e068b10c930b084}{Rominger}{R\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=df58988ff64342fd2570ed701d3e47dc}{Miller}{M\bibinitperiod}{T.\bibnamedelimi E.\bibnamedelimi X.}{T\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=9a528971ea42c4d928bf9535af6bab51}{Collins}{C\bibinitperiod}{S.\bibnamedelimi L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=ece36a5a612832105e068b10c930b084}{Rominger}{R\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=df58988ff64342fd2570ed701d3e47dc}{Miller}{M\bibinitperiod}{T.\bibnamedelimi E.\bibnamedelimi X.}{T\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=9a528971ea42c4d928bf9535af6bab51}{Collins}{C\bibinitperiod}{S.\bibnamedelimi L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0d4f78aa7fc6e57951b7000bc9cf743a}
+      \strng{fullhash}{24d6a176070cc33121711491d7864fa7}
+      \field{sortinit}{0}
+      \field{labeltitle}{Relative contributions of neutral and niche-based processes to the structure of a desert grassland grasshopper community}
+      \field{journaltitle}{Oecologia}
+      \field{number}{4}
+      \field{title}{Relative contributions of neutral and niche-based processes to the structure of a desert grassland grasshopper community}
+      \field{volume}{161}
+      \field{year}{2009}
+      \field{pages}{791\bibrangedash 800}
+    \endentry
     \entry{taberlet2012}{article}{}
       \name{labelname}{5}{}{%
         {{hash=1564c09aa4ca88abc3c82774cf5afc13}{Taberlet}{T\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
@@ -3891,6 +3945,52 @@
       \field{volume}{21}
       \field{year}{2012}
       \field{pages}{2045\bibrangedash 2050}
+    \endentry
+    \entry{clarke2014}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=edbaeef52cfb747a8dbe1f45c9c1c25d}{Clarke}{C\bibinitperiod}{Laurence\bibnamedelima J}{L\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=a9ee7cbc2f7bad035b2dc4e439fbbf1d}{Soubrier}{S\bibinitperiod}{Julien}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b01ecf42648661d682a7527cb38a8926}{Weyrich}{W\bibinitperiod}{Laura\bibnamedelima S}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=d78505b492960cdf2af17b725dcb25e2}{Cooper}{C\bibinitperiod}{Alan}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=edbaeef52cfb747a8dbe1f45c9c1c25d}{Clarke}{C\bibinitperiod}{Laurence\bibnamedelima J}{L\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=a9ee7cbc2f7bad035b2dc4e439fbbf1d}{Soubrier}{S\bibinitperiod}{Julien}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b01ecf42648661d682a7527cb38a8926}{Weyrich}{W\bibinitperiod}{Laura\bibnamedelima S}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=d78505b492960cdf2af17b725dcb25e2}{Cooper}{C\bibinitperiod}{Alan}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{08159f63e26fcfb95bb8e8befb414518}
+      \strng{fullhash}{8de02bcfa8c9b6c0ffb8c8425bfb18f5}
+      \field{sortinit}{0}
+      \field{labeltitle}{Environmental metabarcodes for insects: in silico PCR reveals potential for taxonomic bias}
+      \field{journaltitle}{Molecular ecology resources}
+      \field{number}{6}
+      \field{title}{Environmental metabarcodes for insects: in silico PCR reveals potential for taxonomic bias}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{pages}{1160\bibrangedash 1170}
+    \endentry
+    \entry{royleDorazio}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=6c3411eac2bd930fba100372366c3af4}{Royle}{R\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=9169dc18faea152b27d612fda6b50db7}{Dorazio}{D\bibinitperiod}{R.\bibnamedelimi M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6c3411eac2bd930fba100372366c3af4}{Royle}{R\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=9169dc18faea152b27d612fda6b50db7}{Dorazio}{D\bibinitperiod}{R.\bibnamedelimi M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{22aa27c7176f8fe5c2fa2cf7e31bd407}
+      \strng{fullhash}{22aa27c7176f8fe5c2fa2cf7e31bd407}
+      \field{sortinit}{0}
+      \field{labeltitle}{Hierarchical modeling and inference in ecology: the analysis of data from populations, metapopulations and communities}
+      \field{title}{Hierarchical modeling and inference in ecology: the analysis of data from populations, metapopulations and communities}
+      \field{year}{2008}
     \endentry
   \endsortlist
 \endrefsection

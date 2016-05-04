@@ -2258,9 +2258,15 @@
     <bcf:citekey order="37">bak1993</bcf:citekey>
     <bcf:citekey order="37">sole1997</bcf:citekey>
     <bcf:citekey order="37">newman1995</bcf:citekey>
-    <bcf:citekey order="38">rominger2009</bcf:citekey>
     <bcf:citekey order="38">rominger2015GEB</bcf:citekey>
-    <bcf:citekey order="39">taberlet2012</bcf:citekey>
+    <bcf:citekey order="39">harte2011</bcf:citekey>
+    <bcf:citekey order="40">harte2011</bcf:citekey>
+    <bcf:citekey order="40">krakauer2011</bcf:citekey>
+    <bcf:citekey order="41">rominger2009</bcf:citekey>
+    <bcf:citekey order="41">rominger2015GEB</bcf:citekey>
+    <bcf:citekey order="42">taberlet2012</bcf:citekey>
+    <bcf:citekey order="43">clarke2014</bcf:citekey>
+    <bcf:citekey order="44">royleDorazio</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">

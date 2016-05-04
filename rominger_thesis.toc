@@ -84,9 +84,11 @@
 \defcounter {refsection}{3}\relax 
 \contentsline {chapter}{Conclusion}{59}
 \defcounter {refsection}{3}\relax 
-\contentsline {paragraph}{Future work: adaptive landscapes and memory.}{59}
+\contentsline {section}{\numberline {3.6}Future Work}{60}
 \defcounter {refsection}{3}\relax 
-\contentsline {paragraph}{Future work: metabarcoding and ecological theory.}{60}
+\contentsline {subsection}{\numberline {3.6.1}Adaptive landscapes and non-Markovian memory}{60}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{\numberline {3.6.2}Metabarcoding and Ecological Theory}{60}
 \defcounter {refsection}{4}\relax 
 \contentsline {appendix}{\chapternumberline {A}Supplement to ``Punctuated non-equilibrium and niche conservatism explain biodiversity fluctuations through the Phanerozoic''}{63}
 \defcounter {refsection}{4}\relax 
