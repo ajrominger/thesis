@@ -3,30 +3,30 @@
 
 
 Biodiversity is a striking feature of our world. Diverse ecosystems
-provide humanity with irreplacable services \citep{daily1997} and yet
+provide humanity with irreplaceable services \citep{daily1997} and yet
 predicting biodiversity's dynamics---a key goal in order to better
-manage and preserve it---continues to ellude ecologists and
+manage and preserve it---continues to elude ecologists and
 evolutionary biologists \citep{mcgill2010, gould1985}. Over the past
 550 million years biodiversity has fluctuated between periods of rapid
 diversification, such as the Cambrian explosion, and devastating
 extinctions, such as the end Permian extinction \citep{sepkoski1992,
   alroy08}. In the Modern, where we can directly sample living
-assemgladges of species, surprising regularities are found in the
+assemblages of species, surprising regularities are found in the
 distributions of population sizes, resource uses and trophic
 interactions across species \citep{brown1995, hubbell2001, nekola2007,
   harte2011, Jordano2003, nuismer2013, berlow2009}. Thus to predict
-diodiversity we must embrace both the extreme variability and
+biodiversity we must embrace both the extreme variability and
 contingency of its history as well as the persistent emergent
 similarities in macroscopic patterns across systems.
 
-Statistical mechanics provides a powerful framework for perdicting
-macroscopic generalities in systems composed of many constituient,
+Statistical mechanics provides a powerful framework for predicting
+macroscopic generalities in systems composed of many constituent,
 potentially complex, parts \citep[e.g.][]{albert2002, sethna2006}.  In
 this thesis I use the predictive power of statistical mechanics to
 understand the origin of pervasive patterns in biodiversity, such as
 the distribution of its fluctuations through time and the distribution
 of trophic interactions across species.  I combine this approach with
-an explicit consideration of the evolutionary procees leading to these
+an explicit consideration of the evolutionary process leading to these
 biodiversity patterns, seeking to understand how biological evolution
 drives biological systems away from the steady state idealizations
 predicted by statistical mechanics.  Thus I show using examples from
@@ -35,7 +35,7 @@ patterns in biodiversity emerge from a combination of the statistical
 mechanics of large systems and the unique non-equilibrium dynamics
 imparted to biological systems by their evolutionary history.
 
-Biodiversity theory seeks to predict observed assembladges of species
+Biodiversity theory seeks to predict observed assemblages of species
 \citep{hubbell2001}. Historically, this pursuit has been dominated by
 ``bottom-up'' theories that attempt to account for all possible
 mechanistic interactions between species and their environments
@@ -43,7 +43,7 @@ mechanistic interactions between species and their environments
 on the specifics of the systems for which they are developed and
 cannot be generally applied across the breadth of biodiversity.  The
 pursuit of simple universal theory was ignited by the work of
-\citet{macWilson} whose quantitative description of island assembdaged
+\citet{macWilson} whose quantitative description of island assemblages
 as a dynamic equilibrium of colonization and extinction paved the way
 for more nuanced theories such as the unified neutral theory of
 biodiversity \citep{hubbell2001}, predicting the species abundance
@@ -53,23 +53,23 @@ distribution of a birth-death-immigration-speciation process.
 Surprisingly, the patterns these theories seek to predict do not
 appear to be unique to biology \citep{nekola2007}, implying that the
 mechanisms leading to these outcomes should not be uniquely
-biological.  Indeed, there is historical precidence in ecology to
-consider macroscopic properties of assembladges, such as the species
-abundance distribuiton, as the outcome of general statistical laws
+biological.  Indeed, there is historical precedence in ecology to
+consider macroscopic properties of assemblages, such as the species
+abundance distribution, as the outcome of general statistical laws
 \citep{fisher1943, preston1950, preston1962a, preston1962b}. This
 ``non-mechanistic'' line of thinking has culminated in purely
-statistical theories of biodiversity, such as the maximum entorpy
-theory of ecology \citep{harte2011}. Such theories paralelle the
+statistical theories of biodiversity, such as the maximum entropy
+theory of ecology \citep{harte2011}. Such theories parallel the
 coarse-graining of statistical mechanics, where the details of how
 micro-states interact (e.g. particles in the case of theoretical
 physics or populations in the case of biology) are averaged over in
 order to predict the behavior of the system as a whole.
 
 The application of coarse-graining in ecology has met with
-considerable emperical success \citep[e.g.][]{banavar2007, pueyo2007,
+considerable empirical success \citep[e.g.][]{banavar2007, pueyo2007,
   dewar2008, harte2011}, yet biology differs fundamentally from
 statistical physics because of the non-Markovian memory imparted to
-species and populations due to common inheretance of genomes and
+species and populations due to common inheritance of genomes and
 niche-constructed environments \citep{odling2003} that are the result
 of natural selection.  If biological systems are in steady state they
 have the chance to overcome the effect of evolutionary contingency,
@@ -78,29 +78,29 @@ be clearly seen in deviations between observed biodiversity patterns
 and statistical idealizations thereof.
 
 Here I use two complementary approaches to understand the importance
-of evolutionary history through the lense of statistical mechanics.
+of evolutionary history through the lens of statistical mechanics.
 In the first I develop a dynamic non-equilibrium theory of changes in
-biodivesity by extending a branch of non-equilibrum statistical
+biodiversity by extending a branch of non-equilibrium statistical
 physics, known as super-statistics \citep{beck2003, beck2004}, to
-demonstrate that the complex dyanimic of diversity fluctuations
+demonstrate that the complex dynamic of diversity fluctuations
 through time arrises from the same non-equilibrium processes that can
 describe complexity in large physical \citep{beck2004} and social
 systems \citep{fuentes2009}.  In the second approach I test a static
-equilibrial theory of biodiveristy \citep[the maximum entropy theory
-of ecology][]{harte2011} across rapidly evoloving arthropod
+equilibrial theory of biodiversity \citep[the maximum entropy theory
+of ecology][]{harte2011} across rapidly evolving arthropod
 communities of different ages in the Hawaiian archipelago. This work
 combines population genetics with the geologic chronosequence to
 understand how the rate and mode (e.g. through adaptive
-differenciation) of evolutionary community assembly drives deviations
-from statistical steady sate. To do so I developed an open source
-\texttt{R} package implementing an approach to theory development in
-ecology based on the principle of maximum information entropy. This
-framework seeks to predict distributions of interest, such as
-abundance distributions, without invoking any specific mechanistic
-assumptions but instead by finding the solution that an ideal system
-would reach in equilibrium.  Thus deviations from this theory can
-reveal the nature of unique mechanisms behind the observed structure
-of biodiversity.
+differentiation) of evolutionary community assembly drives deviations
+from statistical steady sate. I develop open source software,
+available as an \texttt{R} package, implementing these statistical
+mechanical approaches to biodiversity theory to showcase the
+computation required to achieve these insights and to make that
+computation more accessible to other biodiversity scientists.  Broadly
+testing this new form of theory will be critical for ultimately
+evaluating its utility in predicting and understanding the spectacular
+diversity of life that is so critical to the health of our planet and
+humanity.
 
 
 \printbibliography[heading=subbibliography]
