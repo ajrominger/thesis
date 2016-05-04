@@ -100,12 +100,12 @@
 \defcounter {refsection}{4}\relax 
 \contentsline {subsection}{\numberline {A.2.3}Sepkoski's compendium}{64}
 \defcounter {refsection}{5}\relax 
-\contentsline {appendix}{\chapternumberline {B}Supplement to ``Community assembly on isolated islands: Macroecology meets evolution''}{66}
+\contentsline {appendix}{\chapternumberline {B}Supplement to ``Community assembly on isolated islands: Macroecology meets evolution''}{68}
 \defcounter {refsection}{5}\relax 
-\contentsline {section}{\numberline {B.1}Compilation of networks and metric validation}{66}
+\contentsline {section}{\numberline {B.1}Compilation of networks and metric validation}{68}
 \defcounter {refsection}{5}\relax 
-\contentsline {section}{\numberline {B.2}\texttt {R} Scripts for Maximum Entorpy Analysis and Monte Carlo Methods}{67}
+\contentsline {section}{\numberline {B.2}\texttt {R} Scripts for Maximum Entorpy Analysis and Monte Carlo Methods}{69}
 \defcounter {refsection}{5}\relax 
-\contentsline {subsection}{\numberline {B.2.1}Needed Functions}{67}
+\contentsline {subsection}{\numberline {B.2.1}Needed Functions}{69}
 \defcounter {refsection}{5}\relax 
-\contentsline {subsection}{\numberline {B.2.2}Example Use}{69}
+\contentsline {subsection}{\numberline {B.2.2}Example Use}{71}

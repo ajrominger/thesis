@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  4 MAY 2016 11:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  4 MAY 2016 11:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1175,9 +1175,51 @@ Package biblatex Info: Setting label 'refsection:4' on input line 2.
 
 
 
-] [64]) [65
+] [64]
+<figs/figSupp_divByPub.pdf, id=557, 271.0125pt x 271.0125pt>
+File: figs/figSupp_divByPub.pdf Graphic file (type pdf)
 
-]
+<use figs/figSupp_divByPub.pdf>
+Package pdftex.def Info: figs/figSupp_divByPub.pdf used on input line 79.
+(pdftex.def)             Requested size: 189.70744pt x 189.70744pt.
+
+<figs/figSupp_sqsRaw3tpub.pdf, id=558, 569.12625pt x 271.0125pt>
+File: figs/figSupp_sqsRaw3tpub.pdf Graphic file (type pdf)
+
+<use figs/figSupp_sqsRaw3tpub.pdf>
+Package pdftex.def Info: figs/figSupp_sqsRaw3tpub.pdf used on input line 88.
+(pdftex.def)             Requested size: 398.38567pt x 189.70744pt.
+
+<figs/figSupp_pbdbRaw_Px.pdf, id=559, 289.08pt x 289.08pt>
+File: figs/figSupp_pbdbRaw_Px.pdf Graphic file (type pdf)
+
+<use figs/figSupp_pbdbRaw_Px.pdf>
+Package pdftex.def Info: figs/figSupp_pbdbRaw_Px.pdf used on input line 103.
+(pdftex.def)             Requested size: 202.35461pt x 202.35461pt.
+
+<figs/figSupp_Px_cls.pdf, id=560, 270.00874pt x 270.00874pt>
+File: figs/figSupp_Px_cls.pdf Graphic file (type pdf)
+
+<use figs/figSupp_Px_cls.pdf>
+Package pdftex.def Info: figs/figSupp_Px_cls.pdf used on input line 115.
+(pdftex.def)             Requested size: 189.00482pt x 189.00482pt.
+
+<figs/figSupp_sepk_Px.pdf, id=561, 802.37805pt x 273.33165pt>
+File: figs/figSupp_sepk_Px.pdf Graphic file (type pdf)
+
+<use figs/figSupp_sepk_Px.pdf>
+Package pdftex.def Info: figs/figSupp_sepk_Px.pdf used on input line 128.
+(pdftex.def)             Requested size: 481.43054pt x 164.00024pt.
+
+Overfull \hbox (11.67552pt too wide) in paragraph at lines 128--135
+ [][] 
+ []
+
+) [65
+
+ <./figs/figSupp_divByPub.pdf> <./figs/figSupp_sqsRaw3tpub.pdf>] [66 <./figs/fi
+gSupp_pbdbRaw_Px.pdf> <./figs/figSupp_Px_cls.pdf>] [67 <./figs/figSupp_sepk_Px.
+pdf>]
 \openout2 = `ch2_appendix.aux'.
 
  (./ch2_appendix.tex
@@ -1186,35 +1228,35 @@ Package biblatex Info: Reference section=0 on input line 2.
 \blx@sectionciteorder@5=\count337
 Package biblatex Info: Reference section=5 on input line 2.
 Package biblatex Info: Setting label 'refsection:5' on input line 2.
- [66
+ [68
 
 
 
-]
-[67] [68] [69] <figs/figSupp_netMetComp.pdf, id=573, 614.295pt x 289.08pt>
+] [69] [70] [71]
+<figs/figSupp_netMetComp.pdf, id=1053, 614.295pt x 289.08pt>
 File: figs/figSupp_netMetComp.pdf Graphic file (type pdf)
 
 <use figs/figSupp_netMetComp.pdf>
 Package pdftex.def Info: figs/figSupp_netMetComp.pdf used on input line 164.
 (pdftex.def)             Requested size: 368.57983pt x 173.44933pt.
 
-<figs/figSupp_netMetCons.pdf, id=574, 614.295pt x 289.08pt>
+<figs/figSupp_netMetCons.pdf, id=1054, 614.295pt x 289.08pt>
 File: figs/figSupp_netMetCons.pdf Graphic file (type pdf)
 
 <use figs/figSupp_netMetCons.pdf>
 Package pdftex.def Info: figs/figSupp_netMetCons.pdf used on input line 178.
 (pdftex.def)             Requested size: 368.57983pt x 173.44933pt.
 
-<figs/figSupp_rarified_prob1.pdf, id=575, 578.16pt x 361.35pt>
+<figs/figSupp_rarified_prob1.pdf, id=1055, 578.16pt x 361.35pt>
 File: figs/figSupp_rarified_prob1.pdf Graphic file (type pdf)
 
 <use figs/figSupp_rarified_prob1.pdf>
 Package pdftex.def Info: figs/figSupp_rarified_prob1.pdf used on input line 189
 .
 (pdftex.def)             Requested size: 346.89867pt x 216.81168pt.
-) [70
+) [72
 
- <./figs/figSupp_netMetComp.pdf> <./figs/figSupp_netMetCons.pdf>] [71 <./figs/f
+ <./figs/figSupp_netMetComp.pdf> <./figs/figSupp_netMetCons.pdf>] [73 <./figs/f
 igSupp_rarified_prob1.pdf>]
 \tf@toc=\write5
 \openout5 = `rominger_thesis.toc'.
@@ -1234,10 +1276,10 @@ Package logreq Info: Writing requests to 'rominger_thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11450 strings out of 493117
- 179816 string characters out of 6135433
+ 11475 strings out of 493117
+ 180521 string characters out of 6135433
  631833 words of memory out of 5000000
- 14721 multiletter control sequences out of 15000+600000
+ 14741 multiletter control sequences out of 15000+600000
  11336 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,15n,60p,1078b,1106s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1257,10 +1299,10 @@ ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive
 014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/20
 14/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/201
 4/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on rominger_thesis.pdf (82 pages, 3374857 bytes).
+Output written on rominger_thesis.pdf (84 pages, 4669219 bytes).
 PDF statistics:
- 654 PDF objects out of 1000 (max. 8388607)
- 461 compressed objects within 5 object streams
+ 1134 PDF objects out of 1200 (max. 8388607)
+ 822 compressed objects within 9 object streams
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
