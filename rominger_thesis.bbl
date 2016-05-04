@@ -17,6 +17,659 @@
 \endgroup
 
 
+\refsection{0}
+  \sortlist{entry}{none}
+    \entry{daily1997}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=9018004aead3921a07604c0ed1712370}{Daily}{D\bibinitperiod}{Gretchen}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9018004aead3921a07604c0ed1712370}{Daily}{D\bibinitperiod}{Gretchen}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Island Press}%
+      }
+      \strng{namehash}{9018004aead3921a07604c0ed1712370}
+      \strng{fullhash}{9018004aead3921a07604c0ed1712370}
+      \field{sortinit}{0}
+      \field{labeltitle}{Nature's services: societal dependence on natural ecosystems}
+      \field{title}{Nature's services: societal dependence on natural ecosystems}
+      \field{year}{1997}
+    \endentry
+    \entry{mcgill2010}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=3a8d79c3fad6cdf734fbee55008c99be}{McGill}{M\bibinitperiod}{Brian\bibnamedelima J}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=cd54ced5b6bc44f67cba3900bd2e4ca7}{Nekola}{N\bibinitperiod}{Jeffrey\bibnamedelima C}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=3a8d79c3fad6cdf734fbee55008c99be}{McGill}{M\bibinitperiod}{Brian\bibnamedelima J}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=cd54ced5b6bc44f67cba3900bd2e4ca7}{Nekola}{N\bibinitperiod}{Jeffrey\bibnamedelima C}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{33e629ba852525e5db4aedaad7095f20}
+      \strng{fullhash}{33e629ba852525e5db4aedaad7095f20}
+      \field{sortinit}{0}
+      \field{labeltitle}{Mechanisms in macroecology: AWOL or purloined letter? Towards a pragmatic view of mechanism}
+      \field{journaltitle}{Oikos}
+      \field{number}{4}
+      \field{title}{Mechanisms in macroecology: AWOL or purloined letter? Towards a pragmatic view of mechanism}
+      \field{volume}{119}
+      \field{year}{2010}
+      \field{pages}{591\bibrangedash 603}
+    \endentry
+    \entry{gould1985}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=4684625981e330bfd023f543c1324b0f}{Gould}{G\bibinitperiod}{Stephen\bibnamedelima Jay}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4684625981e330bfd023f543c1324b0f}{Gould}{G\bibinitperiod}{Stephen\bibnamedelima Jay}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge Univ Press}%
+      }
+      \strng{namehash}{4684625981e330bfd023f543c1324b0f}
+      \strng{fullhash}{4684625981e330bfd023f543c1324b0f}
+      \field{sortinit}{0}
+      \field{labeltitle}{The paradox of the first tier: an agenda for paleobiology}
+      \field{journaltitle}{Paleobiology}
+      \field{number}{01}
+      \field{title}{The paradox of the first tier: an agenda for paleobiology}
+      \field{volume}{11}
+      \field{year}{1985}
+      \field{pages}{2\bibrangedash 12}
+    \endentry
+    \entry{sepkoski1992}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ac15c4030f31726c781cb5b377139815}{Sepkoski}{S\bibinitperiod}{J.\bibnamedelimi John}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ac15c4030f31726c781cb5b377139815}{Sepkoski}{S\bibinitperiod}{J.\bibnamedelimi John}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Milwaukee, WI}%
+      }
+      \list{publisher}{1}{%
+        {Milwaukee Public Museum}%
+      }
+      \strng{namehash}{ac15c4030f31726c781cb5b377139815}
+      \strng{fullhash}{ac15c4030f31726c781cb5b377139815}
+      \field{sortinit}{0}
+      \field{labeltitle}{A compendium of fossil marine animal families}
+      \field{title}{A compendium of fossil marine animal families}
+      \field{year}{1992}
+    \endentry
+    \entry{alroy08}{article}{}
+      \name{labelname}{35}{}{%
+        {{hash=139258ecb448cbdd5d01bef611b8d985}{Alroy}{A\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=761fc6142f0314272dd542d68acf6bfb}{Aberhan}{A\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0c15afae33f11b4b22cdbde37ed70693}{Bottjer}{B\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ab99be064192f9409924032ef936a04f}{Foote}{F\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c904386fa8a39edbb3e90fa4636f11e0}{F{\"u}rsich}{F\bibinitperiod}{Franz\bibnamedelima T.}{F\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=4002d185d7b5f77d1c75ed366dec6515}{Harries}{H\bibinitperiod}{Peter\bibnamedelima J.}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=4c389ed3f57ef774c277f28d0522203a}{Hendy}{H\bibinitperiod}{Austin\bibnamedelimb J.\bibnamedelimi W.}{A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=f3fcac22215fe6b6e59f4eef8fa85497}{Holland}{H\bibinitperiod}{Steven\bibnamedelima M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=7a07b576c3bc81bb3db926e1bb67ae69}{Ivany}{I\bibinitperiod}{Linda\bibnamedelima C.}{L\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8d64c069ee1e4098c8ae987371387165}{Kiessling}{K\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ad5fe40c075b34c5e70ee1a08f0a5c25}{Kosnik}{K\bibinitperiod}{Matthew\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e7d5e2e47cb586c9b464216d130b5cb0}{Marshall}{M\bibinitperiod}{Charles\bibnamedelima R.}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2e46677ba044211d971bffe2cf38dcba}{McGowan}{M\bibinitperiod}{Alistair\bibnamedelima J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=3c93905b0f808eaf6ef5cdbd621ff635}{Miller}{M\bibinitperiod}{Arnold\bibnamedelima I.}{A\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{hash=b3f411e518adff51c0b4e05c9e7620e6}{Olszewski}{O\bibinitperiod}{Thomas\bibnamedelima D.}{T\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=ca633cab3dfd6e4f28db38164a6cbff9}{Patzkowsky}{P\bibinitperiod}{Mark\bibnamedelima E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=a3243cb96ab018507d727f2aacc79087}{Peters}{P\bibinitperiod}{Shanan\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=b1eef27b3cbaa96fd5db724c618efefe}{Villier}{V\bibinitperiod}{Lo{\"\i}c}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bb0a5fbe4c854d4eca45761cfcbe9a6f}{Wagner}{W\bibinitperiod}{Peter\bibnamedelima J.}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e93ace0a504000082e58bd271e96f200}{Bonuso}{B\bibinitperiod}{Nicole}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=7d9d1caafaa1c7d831ed3c3bfd6dd404}{Borkow}{B\bibinitperiod}{Philip\bibnamedelima S.}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=7f080afcc23bcf178ed97149ecb5aa82}{Brenneis}{B\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=ed4188bd7e566caae248b0ec0ad67f7a}{Clapham}{C\bibinitperiod}{Matthew\bibnamedelima E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=81a578350b908c6ad06bfc11b0cea597}{Fall}{F\bibinitperiod}{Leigh\bibnamedelima M.}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=096426a10900e7bed2b3ca25619e06d9}{Ferguson}{F\bibinitperiod}{Chad\bibnamedelima A.}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cc66d1dcceb6b500792d7c092b74cfa7}{Hanson}{H\bibinitperiod}{Victoria\bibnamedelima L.}{V\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=28628c52f8ddd079c4698c398c96dc15}{Krug}{K\bibinitperiod}{Andrew\bibnamedelima Z.}{A\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{hash=e212ca13a267dbba9a0cb76e7fe2d38b}{Layou}{L\bibinitperiod}{Karen\bibnamedelima M.}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=73cf5de3a8585a946fa1130986cd36a1}{Leckey}{L\bibinitperiod}{Erin\bibnamedelima H.}{E\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=3ef68e0377afb4d26d92227ecb0bcce0}{N{\"u}rnberg}{N\bibinitperiod}{Sabine}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3b2a15744609835b89b1873eaa815228}{Powers}{P\bibinitperiod}{Catherine\bibnamedelima M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=b51d306b58241f16555013685e9b1d35}{Sessa}{S\bibinitperiod}{Jocelyn\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=21b6af629bc168836575391476615574}{Simpson}{S\bibinitperiod}{Carl}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a532cbf798ce58ef95c6d991615c9fe3}{Toma{\v s}ov{\'y}ch}{T\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=536e12ea152c4d3fee6e5ae491d981fb}{Visaggi}{V\bibinitperiod}{Christy\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{35}{}{%
+        {{hash=139258ecb448cbdd5d01bef611b8d985}{Alroy}{A\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=761fc6142f0314272dd542d68acf6bfb}{Aberhan}{A\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0c15afae33f11b4b22cdbde37ed70693}{Bottjer}{B\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ab99be064192f9409924032ef936a04f}{Foote}{F\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c904386fa8a39edbb3e90fa4636f11e0}{F{\"u}rsich}{F\bibinitperiod}{Franz\bibnamedelima T.}{F\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=4002d185d7b5f77d1c75ed366dec6515}{Harries}{H\bibinitperiod}{Peter\bibnamedelima J.}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=4c389ed3f57ef774c277f28d0522203a}{Hendy}{H\bibinitperiod}{Austin\bibnamedelimb J.\bibnamedelimi W.}{A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=f3fcac22215fe6b6e59f4eef8fa85497}{Holland}{H\bibinitperiod}{Steven\bibnamedelima M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=7a07b576c3bc81bb3db926e1bb67ae69}{Ivany}{I\bibinitperiod}{Linda\bibnamedelima C.}{L\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8d64c069ee1e4098c8ae987371387165}{Kiessling}{K\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ad5fe40c075b34c5e70ee1a08f0a5c25}{Kosnik}{K\bibinitperiod}{Matthew\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e7d5e2e47cb586c9b464216d130b5cb0}{Marshall}{M\bibinitperiod}{Charles\bibnamedelima R.}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2e46677ba044211d971bffe2cf38dcba}{McGowan}{M\bibinitperiod}{Alistair\bibnamedelima J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=3c93905b0f808eaf6ef5cdbd621ff635}{Miller}{M\bibinitperiod}{Arnold\bibnamedelima I.}{A\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{hash=b3f411e518adff51c0b4e05c9e7620e6}{Olszewski}{O\bibinitperiod}{Thomas\bibnamedelima D.}{T\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=ca633cab3dfd6e4f28db38164a6cbff9}{Patzkowsky}{P\bibinitperiod}{Mark\bibnamedelima E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=a3243cb96ab018507d727f2aacc79087}{Peters}{P\bibinitperiod}{Shanan\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=b1eef27b3cbaa96fd5db724c618efefe}{Villier}{V\bibinitperiod}{Lo{\"\i}c}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bb0a5fbe4c854d4eca45761cfcbe9a6f}{Wagner}{W\bibinitperiod}{Peter\bibnamedelima J.}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e93ace0a504000082e58bd271e96f200}{Bonuso}{B\bibinitperiod}{Nicole}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=7d9d1caafaa1c7d831ed3c3bfd6dd404}{Borkow}{B\bibinitperiod}{Philip\bibnamedelima S.}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=7f080afcc23bcf178ed97149ecb5aa82}{Brenneis}{B\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=ed4188bd7e566caae248b0ec0ad67f7a}{Clapham}{C\bibinitperiod}{Matthew\bibnamedelima E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=81a578350b908c6ad06bfc11b0cea597}{Fall}{F\bibinitperiod}{Leigh\bibnamedelima M.}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=096426a10900e7bed2b3ca25619e06d9}{Ferguson}{F\bibinitperiod}{Chad\bibnamedelima A.}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cc66d1dcceb6b500792d7c092b74cfa7}{Hanson}{H\bibinitperiod}{Victoria\bibnamedelima L.}{V\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=28628c52f8ddd079c4698c398c96dc15}{Krug}{K\bibinitperiod}{Andrew\bibnamedelima Z.}{A\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{hash=e212ca13a267dbba9a0cb76e7fe2d38b}{Layou}{L\bibinitperiod}{Karen\bibnamedelima M.}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=73cf5de3a8585a946fa1130986cd36a1}{Leckey}{L\bibinitperiod}{Erin\bibnamedelima H.}{E\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=3ef68e0377afb4d26d92227ecb0bcce0}{N{\"u}rnberg}{N\bibinitperiod}{Sabine}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3b2a15744609835b89b1873eaa815228}{Powers}{P\bibinitperiod}{Catherine\bibnamedelima M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=b51d306b58241f16555013685e9b1d35}{Sessa}{S\bibinitperiod}{Jocelyn\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=21b6af629bc168836575391476615574}{Simpson}{S\bibinitperiod}{Carl}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a532cbf798ce58ef95c6d991615c9fe3}{Toma{\v s}ov{\'y}ch}{T\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=536e12ea152c4d3fee6e5ae491d981fb}{Visaggi}{V\bibinitperiod}{Christy\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7149a6dd8b097f4da60fb2d31032398f}
+      \strng{fullhash}{07bb418ef001b2f08f2d837541cb5185}
+      \field{sortinit}{0}
+      \field{labeltitle}{Phanerozoic Trends in the Global Diversity of Marine Invertebrates}
+      \field{journaltitle}{Science}
+      \field{title}{Phanerozoic Trends in the Global Diversity of Marine Invertebrates}
+      \field{volume}{321}
+      \field{year}{2008}
+      \field{pages}{97\bibrangedash 100}
+      \verb{doi}
+      \verb 10.1126/science.1156963
+      \endverb
+      \keyw{database,fossil record,evolutionary history}
+    \endentry
+    \entry{brown1995}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=0cb75075aa0d650105103499c214acaf}{Brown}{B\bibinitperiod}{James\bibnamedelima H}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0cb75075aa0d650105103499c214acaf}{Brown}{B\bibinitperiod}{James\bibnamedelima H}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{0cb75075aa0d650105103499c214acaf}
+      \strng{fullhash}{0cb75075aa0d650105103499c214acaf}
+      \field{sortinit}{0}
+      \field{labeltitle}{Macroecology}
+      \field{title}{Macroecology}
+      \field{year}{1995}
+    \endentry
+    \entry{hubbell2001}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c16c06f2f577d51331ac50b40d63f2fa}{Hubbell}{H\bibinitperiod}{S.\bibnamedelimi P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c16c06f2f577d51331ac50b40d63f2fa}{Hubbell}{H\bibinitperiod}{S.\bibnamedelimi P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{c16c06f2f577d51331ac50b40d63f2fa}
+      \strng{fullhash}{c16c06f2f577d51331ac50b40d63f2fa}
+      \field{sortinit}{0}
+      \field{labeltitle}{The unified neutral theory of biodiversity and biogeography (MPB-32)}
+      \field{title}{The unified neutral theory of biodiversity and biogeography (MPB-32)}
+      \field{volume}{32}
+      \field{year}{2001}
+    \endentry
+    \entry{nekola2007}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=cd54ced5b6bc44f67cba3900bd2e4ca7}{Nekola}{N\bibinitperiod}{Jeffrey\bibnamedelima C}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=0cb75075aa0d650105103499c214acaf}{Brown}{B\bibinitperiod}{James\bibnamedelima H}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=cd54ced5b6bc44f67cba3900bd2e4ca7}{Nekola}{N\bibinitperiod}{Jeffrey\bibnamedelima C}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=0cb75075aa0d650105103499c214acaf}{Brown}{B\bibinitperiod}{James\bibnamedelima H}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{f083a3d310510d50eaa3c05c01e273cc}
+      \strng{fullhash}{f083a3d310510d50eaa3c05c01e273cc}
+      \field{sortinit}{0}
+      \field{labeltitle}{The wealth of species: ecological communities, complex systems and the legacy of Frank Preston}
+      \field{journaltitle}{Ecology letters}
+      \field{number}{3}
+      \field{title}{The wealth of species: ecological communities, complex systems and the legacy of Frank Preston}
+      \field{volume}{10}
+      \field{year}{2007}
+      \field{pages}{188\bibrangedash 196}
+    \endentry
+    \entry{harte2011}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=a699018ef2db7a37a20cdbaf75e1453e}{Harte}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a699018ef2db7a37a20cdbaf75e1453e}{Harte}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a699018ef2db7a37a20cdbaf75e1453e}
+      \strng{fullhash}{a699018ef2db7a37a20cdbaf75e1453e}
+      \field{sortinit}{0}
+      \field{labeltitle}{The Maximum Entropy Theory of Ecology}
+      \field{title}{The Maximum Entropy Theory of Ecology}
+      \field{year}{2011}
+    \endentry
+    \entry{Jordano2003}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=03890ee36dba0705b83f45073dc24fc8}{Jordano}{J\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=c19b9957e9071dd91b943295ac6cbd3e}{Bascompte}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=26dc63c1e8fe56efc32d48eeebba0124}{Olesen}{O\bibinitperiod}{J.\bibnamedelimi M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=03890ee36dba0705b83f45073dc24fc8}{Jordano}{J\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=c19b9957e9071dd91b943295ac6cbd3e}{Bascompte}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=26dc63c1e8fe56efc32d48eeebba0124}{Olesen}{O\bibinitperiod}{J.\bibnamedelimi M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a7e163d2d73ab1c4645a0e14d05f7e11}
+      \strng{fullhash}{081179f8c54eddc795b2d29d8936c620}
+      \field{sortinit}{0}
+      \field{labeltitle}{Invariant properties in coevolutionary networks of plant-animal interactions}
+      \field{journaltitle}{Ecol. Lett.}
+      \field{title}{Invariant properties in coevolutionary networks of plant-animal interactions}
+      \field{volume}{6}
+      \field{year}{2003}
+      \field{pages}{69\bibrangedash 81}
+    \endentry
+    \entry{nuismer2013}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=40bf3d5241f80aee911667628a838472}{Nuismer}{N\bibinitperiod}{Scott\bibnamedelima L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=6989b4e5f87b7100722669ce27436978}{Jordano}{J\bibinitperiod}{Pedro}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b71c47fff97792c37706210243e23ae5}{Bascompte}{B\bibinitperiod}{Jordi}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=40bf3d5241f80aee911667628a838472}{Nuismer}{N\bibinitperiod}{Scott\bibnamedelima L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=6989b4e5f87b7100722669ce27436978}{Jordano}{J\bibinitperiod}{Pedro}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b71c47fff97792c37706210243e23ae5}{Bascompte}{B\bibinitperiod}{Jordi}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{90bbe39b25393f7f3dc3efa8a8b3c4a0}
+      \strng{fullhash}{4e4acdea05422185c8978510cf810c6c}
+      \field{sortinit}{0}
+      \field{labeltitle}{Coevolution and the architecture of mutualistic networks}
+      \field{journaltitle}{Evolution}
+      \field{number}{2}
+      \field{title}{Coevolution and the architecture of mutualistic networks}
+      \field{volume}{67}
+      \field{year}{2013}
+      \field{pages}{338\bibrangedash 354}
+    \endentry
+    \entry{berlow2009}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=b496493e2f31bc898c426e0509fa1b8e}{Berlow}{B\bibinitperiod}{Eric\bibnamedelima L}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=d8bd9d6ede58c3085d77c4bbfa3d44b3}{Dunne}{D\bibinitperiod}{Jennifer\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=63fed56949183dae525be50c39cd97d9}{Martinez}{M\bibinitperiod}{Neo\bibnamedelima D}{N\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=13eeadeb7a302eec8b842b35ad4eaf5a}{Stark}{S\bibinitperiod}{Philip\bibnamedelima B}{P\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=7f8123cf5e619b351609ba83abb43335}{Williams}{W\bibinitperiod}{Richard\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=39ca3a19ab48aa9f09001ea80b9fd10c}{Brose}{B\bibinitperiod}{Ulrich}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=b496493e2f31bc898c426e0509fa1b8e}{Berlow}{B\bibinitperiod}{Eric\bibnamedelima L}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=d8bd9d6ede58c3085d77c4bbfa3d44b3}{Dunne}{D\bibinitperiod}{Jennifer\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=63fed56949183dae525be50c39cd97d9}{Martinez}{M\bibinitperiod}{Neo\bibnamedelima D}{N\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=13eeadeb7a302eec8b842b35ad4eaf5a}{Stark}{S\bibinitperiod}{Philip\bibnamedelima B}{P\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=7f8123cf5e619b351609ba83abb43335}{Williams}{W\bibinitperiod}{Richard\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=39ca3a19ab48aa9f09001ea80b9fd10c}{Brose}{B\bibinitperiod}{Ulrich}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {National Acad Sciences}%
+      }
+      \strng{namehash}{b26610a53a28da4cfa256a16e10eb120}
+      \strng{fullhash}{61e50a63d6d2e234f8aeaee7eed0cf57}
+      \field{sortinit}{0}
+      \field{labeltitle}{Simple prediction of interaction strengths in complex food webs}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{1}
+      \field{title}{Simple prediction of interaction strengths in complex food webs}
+      \field{volume}{106}
+      \field{year}{2009}
+      \field{pages}{187\bibrangedash 191}
+    \endentry
+    \entry{albert2002}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=da9943a1845cbd3f5e22d7bdd3115761}{Albert}{A\bibinitperiod}{R{\'e}ka}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=37f7c0d988538f646e648f57c2385c72}{Barab{\'a}si}{B\bibinitperiod}{Albert-L{\'a}szl{\'o}}{A\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=da9943a1845cbd3f5e22d7bdd3115761}{Albert}{A\bibinitperiod}{R{\'e}ka}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=37f7c0d988538f646e648f57c2385c72}{Barab{\'a}si}{B\bibinitperiod}{Albert-L{\'a}szl{\'o}}{A\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{70b09740a071d2b1b4fda0bd66770bcf}
+      \strng{fullhash}{70b09740a071d2b1b4fda0bd66770bcf}
+      \field{sortinit}{0}
+      \field{labeltitle}{Statistical mechanics of complex networks}
+      \field{journaltitle}{Reviews of modern physics}
+      \field{number}{1}
+      \field{title}{Statistical mechanics of complex networks}
+      \field{volume}{74}
+      \field{year}{2002}
+      \field{pages}{47}
+    \endentry
+    \entry{sethna2006}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=42cf951a0b2ffff8463fae236aba5d23}{Sethna}{S\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=42cf951a0b2ffff8463fae236aba5d23}{Sethna}{S\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{42cf951a0b2ffff8463fae236aba5d23}
+      \strng{fullhash}{42cf951a0b2ffff8463fae236aba5d23}
+      \field{sortinit}{0}
+      \field{labeltitle}{Statistical mechanics: entropy, order parameters, and complexity}
+      \field{title}{Statistical mechanics: entropy, order parameters, and complexity}
+      \field{volume}{14}
+      \field{year}{2006}
+    \endentry
+    \entry{haegeman2008}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=9b7d5c22c760ab87e22d13b234a7954b}{Haegeman}{H\bibinitperiod}{Bart}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b74f59617a602bec371b660bb9b1e4f8}{Loreau}{L\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=9b7d5c22c760ab87e22d13b234a7954b}{Haegeman}{H\bibinitperiod}{Bart}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b74f59617a602bec371b660bb9b1e4f8}{Loreau}{L\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{13593a5a34284ca1689ae970b97ae717}
+      \strng{fullhash}{13593a5a34284ca1689ae970b97ae717}
+      \field{sortinit}{0}
+      \field{labeltitle}{Limitations of entropy maximization in ecology}
+      \field{journaltitle}{Oikos}
+      \field{number}{11}
+      \field{title}{Limitations of entropy maximization in ecology}
+      \field{volume}{117}
+      \field{year}{2008}
+      \field{pages}{1700\bibrangedash 1710}
+    \endentry
+    \entry{macWilson}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=d8aca303897970c75c6cc996b48dff19}{MacArthur}{M\bibinitperiod}{R.\bibnamedelimi H.}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=6d1640252ac6d13aa24972647d647476}{Wilson}{W\bibinitperiod}{E.\bibnamedelimi O.}{E\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d8aca303897970c75c6cc996b48dff19}{MacArthur}{M\bibinitperiod}{R.\bibnamedelimi H.}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=6d1640252ac6d13aa24972647d647476}{Wilson}{W\bibinitperiod}{E.\bibnamedelimi O.}{E\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{69d69fe169ab5d5c6d1e5e3a66496ba5}
+      \strng{fullhash}{69d69fe169ab5d5c6d1e5e3a66496ba5}
+      \field{sortinit}{0}
+      \field{labeltitle}{The theory of island biogeography}
+      \field{title}{The theory of island biogeography}
+      \field{year}{1967}
+    \endentry
+    \entry{fisher1943}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=35dd876b7f17d154bcff325475f5d212}{Fisher}{F\bibinitperiod}{Ronald\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=dbb2be00c324eeb47c588f61b57c8dd6}{Corbet}{C\bibinitperiod}{A\bibnamedelima Steven}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=8cea6f59019c8e23b5ec0c7abef621d3}{Williams}{W\bibinitperiod}{Carrington\bibnamedelima B}{C\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=35dd876b7f17d154bcff325475f5d212}{Fisher}{F\bibinitperiod}{Ronald\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=dbb2be00c324eeb47c588f61b57c8dd6}{Corbet}{C\bibinitperiod}{A\bibnamedelima Steven}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=8cea6f59019c8e23b5ec0c7abef621d3}{Williams}{W\bibinitperiod}{Carrington\bibnamedelima B}{C\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{a0f65598c36bec64407733ac5e9506d7}
+      \strng{fullhash}{6968a2d1e7492d2bb85d96e6d09ab422}
+      \field{sortinit}{0}
+      \field{labeltitle}{The relation between the number of species and the number of individuals in a random sample of an animal population}
+      \field{journaltitle}{The Journal of Animal Ecology}
+      \field{title}{The relation between the number of species and the number of individuals in a random sample of an animal population}
+      \field{year}{1943}
+      \field{pages}{42\bibrangedash 58}
+    \endentry
+    \entry{preston1950}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=097e5801c24194c1b66f75eb34070f69}{Preston}{P\bibinitperiod}{Frank\bibnamedelima W}{F\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=097e5801c24194c1b66f75eb34070f69}{Preston}{P\bibinitperiod}{Frank\bibnamedelima W}{F\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{097e5801c24194c1b66f75eb34070f69}
+      \strng{fullhash}{097e5801c24194c1b66f75eb34070f69}
+      \field{sortinit}{0}
+      \field{labeltitle}{Gas laws and wealth laws}
+      \field{journaltitle}{The Scientific Monthly}
+      \field{title}{Gas laws and wealth laws}
+      \field{volume}{71}
+      \field{year}{1950}
+      \field{pages}{309\bibrangedash 311}
+    \endentry
+    \entry{preston1962a}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=097e5801c24194c1b66f75eb34070f69}{Preston}{P\bibinitperiod}{Frank\bibnamedelima W}{F\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=097e5801c24194c1b66f75eb34070f69}{Preston}{P\bibinitperiod}{Frank\bibnamedelima W}{F\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Eco Soc America}%
+      }
+      \strng{namehash}{097e5801c24194c1b66f75eb34070f69}
+      \strng{fullhash}{097e5801c24194c1b66f75eb34070f69}
+      \field{sortinit}{0}
+      \field{labeltitle}{The canonical distribution of commonness and rarity: Part I}
+      \field{journaltitle}{Ecology}
+      \field{number}{2}
+      \field{title}{The canonical distribution of commonness and rarity: Part I}
+      \field{volume}{43}
+      \field{year}{1962}
+      \field{pages}{185\bibrangedash 215}
+    \endentry
+    \entry{preston1962b}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=097e5801c24194c1b66f75eb34070f69}{Preston}{P\bibinitperiod}{Frank\bibnamedelima W}{F\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=097e5801c24194c1b66f75eb34070f69}{Preston}{P\bibinitperiod}{Frank\bibnamedelima W}{F\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{097e5801c24194c1b66f75eb34070f69}
+      \strng{fullhash}{097e5801c24194c1b66f75eb34070f69}
+      \field{sortinit}{0}
+      \field{labeltitle}{The canonical distribution of commonness and rarity: Part II}
+      \field{journaltitle}{Ecology}
+      \field{number}{3}
+      \field{title}{The canonical distribution of commonness and rarity: Part II}
+      \field{volume}{43}
+      \field{year}{1962}
+      \field{pages}{410\bibrangedash 432}
+    \endentry
+    \entry{banavar2007}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=5e6eadf73895f1dd7d035f170e13307f}{Banavar}{B\bibinitperiod}{JR}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7196d92e9015c98312bac16eb39fea08}{Maritan}{M\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=5e6eadf73895f1dd7d035f170e13307f}{Banavar}{B\bibinitperiod}{JR}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7196d92e9015c98312bac16eb39fea08}{Maritan}{M\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a3e519c2a6fb49f291758c08ed937366}
+      \strng{fullhash}{a3e519c2a6fb49f291758c08ed937366}
+      \field{sortinit}{0}
+      \field{labeltitle}{The maximum relative entropy principle. {\'A} Bhttp}
+      \field{journaltitle}{arxiv. org/abs/cond-mat/0703622}
+      \field{title}{The maximum relative entropy principle. {\'A} Bhttp}
+      \field{year}{2007}
+    \endentry
+    \entry{pueyo2007}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=9d15021d8edaf202d8c07596dbcff6d5}{Pueyo}{P\bibinitperiod}{Salvador}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=821c518f085e14e19c653295836edffa}{He}{H\bibinitperiod}{Fangliang}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=6e8ec46486ea6db130326267d0b8b1e9}{Zillio}{Z\bibinitperiod}{Tommaso}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=9d15021d8edaf202d8c07596dbcff6d5}{Pueyo}{P\bibinitperiod}{Salvador}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=821c518f085e14e19c653295836edffa}{He}{H\bibinitperiod}{Fangliang}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=6e8ec46486ea6db130326267d0b8b1e9}{Zillio}{Z\bibinitperiod}{Tommaso}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{6c1e8079d9cc77562cbc837a413a0f8e}
+      \strng{fullhash}{b4b6380e103879437fbb34df0fd8bc30}
+      \field{sortinit}{0}
+      \field{labeltitle}{The maximum entropy formalism and the idiosyncratic theory of biodiversity}
+      \field{journaltitle}{Ecology Letters}
+      \field{number}{11}
+      \field{title}{The maximum entropy formalism and the idiosyncratic theory of biodiversity}
+      \field{volume}{10}
+      \field{year}{2007}
+      \field{pages}{1017\bibrangedash 1028}
+    \endentry
+    \entry{dewar2008}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=9f1e56a8eb5b1ed454539799d7c7497f}{Dewar}{D\bibinitperiod}{Roderick\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=440c7ac028b82f82b6b866e754d021a2}{Port{\'e}}{P\bibinitperiod}{Annabel}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=9f1e56a8eb5b1ed454539799d7c7497f}{Dewar}{D\bibinitperiod}{Roderick\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=440c7ac028b82f82b6b866e754d021a2}{Port{\'e}}{P\bibinitperiod}{Annabel}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a31aa3a054470763adebb71a7cae764c}
+      \strng{fullhash}{a31aa3a054470763adebb71a7cae764c}
+      \field{sortinit}{0}
+      \field{labeltitle}{Statistical mechanics unifies different ecological patterns}
+      \field{journaltitle}{Journal of Theoretical Biology}
+      \field{number}{3}
+      \field{title}{Statistical mechanics unifies different ecological patterns}
+      \field{volume}{251}
+      \field{year}{2008}
+      \field{pages}{389\bibrangedash 403}
+    \endentry
+    \entry{odling2003}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=669806e075b281d41297a0a4673989e6}{Odling-Smee}{O\bibinithyphendelim S\bibinitperiod}{F\bibnamedelima John}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=5364092071ac2c66641b3a765b0e4c9f}{Laland}{L\bibinitperiod}{Kevin\bibnamedelima N}{K\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=defd990c2763b86f2347b8c6aba976a8}{Feldman}{F\bibinitperiod}{Marcus\bibnamedelima W}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=669806e075b281d41297a0a4673989e6}{Odling-Smee}{O\bibinithyphendelim S\bibinitperiod}{F\bibnamedelima John}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=5364092071ac2c66641b3a765b0e4c9f}{Laland}{L\bibinitperiod}{Kevin\bibnamedelima N}{K\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=defd990c2763b86f2347b8c6aba976a8}{Feldman}{F\bibinitperiod}{Marcus\bibnamedelima W}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{6d739ce94786d13a029e6022e15d5e37}
+      \strng{fullhash}{5a0b9140f1c24221f7b2b2c4b2a1c593}
+      \field{sortinit}{0}
+      \field{labeltitle}{Niche construction: the neglected process in evolution}
+      \field{number}{37}
+      \field{title}{Niche construction: the neglected process in evolution}
+      \field{year}{2003}
+    \endentry
+    \entry{beck2003}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=c42ed7e408c5a648c4892d30f5ba5cad}{Beck}{B\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a3485714a2c84d2da0215e6b9bba843d}{Cohen}{C\bibinitperiod}{E.G.D.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=c42ed7e408c5a648c4892d30f5ba5cad}{Beck}{B\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a3485714a2c84d2da0215e6b9bba843d}{Cohen}{C\bibinitperiod}{E.G.D.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{eab11b675e8eb84267b6615aa2dfb039}
+      \strng{fullhash}{eab11b675e8eb84267b6615aa2dfb039}
+      \field{sortinit}{0}
+      \field{labeltitle}{Superstatistics}
+      \field{abstract}{We consider nonequilibrium systems with complex dynamics in stationary states with large fluctuations of intensive quantities (e.g. the temperature, chemical potential or energy dissipation) on long time scales. Depending on the statistical properties of the fluctuations, we obtain different effective statistical mechanical descriptions. Tsallis statistics follows from a \x{fffd}\x{fffd}2-distribution of an intensive variable, but other classes of generalized statistics are obtained as well. We show that for small variance of the fluctuations all these different statistics behave in a universal way.}
+      \field{journaltitle}{Physica A: Statistical Mechanics and its Applications}
+      \field{title}{Superstatistics}
+      \field{volume}{322}
+      \field{year}{2003}
+      \field{pages}{267\bibrangedash 275}
+      \verb{doi}
+      \verb 10.1016/S0378-4371(03)00019-0
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0378437103000190
+      \endverb
+      \keyw{super-statistics}
+    \endentry
+    \entry{beck2004}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=53a777055b139b74439193de18ada60c}{Beck}{B\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=53a777055b139b74439193de18ada60c}{Beck}{B\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{53a777055b139b74439193de18ada60c}
+      \strng{fullhash}{53a777055b139b74439193de18ada60c}
+      \field{sortinit}{0}
+      \field{labeltitle}{Superstatistics in hydrodynamic turbulence}
+      \field{annotation}{Superstatistics is a `statistics of a statistics'relevant for driven nonequilibrium systems with fluctuating intensive parameters. It contains Tsallis statistics as a special case. We show that probability density functions of velocity differences and accelerations measured in Eulerian and Lagrangian turbulence experiments are well reproduced by simple superstatistics models. We compare fits obtained for log-normal superstatistics and \x{fffd}\x{fffd}2-superstatistics (= Tsallis statistics).}
+      \field{journaltitle}{Physica D: Nonlinear Phenomena}
+      \field{title}{Superstatistics in hydrodynamic turbulence}
+      \field{volume}{193}
+      \field{year}{2004}
+      \field{pages}{195\bibrangedash 207}
+      \keyw{Superstatistics; Generalized statistical mechanics; Turbulence models}
+    \endentry
+    \entry{fuentes2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=a2e89bdbbad97821f6b94ce400682067}{Fuentes}{F\bibinitperiod}{Miguel\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=f1cf392a9efae433b0f7b6440d2f2d3a}{Gerig}{G\bibinitperiod}{Austin}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=715fef480ab32d3a28aee179339804e0}{Vicente}{V\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=a2e89bdbbad97821f6b94ce400682067}{Fuentes}{F\bibinitperiod}{Miguel\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=f1cf392a9efae433b0f7b6440d2f2d3a}{Gerig}{G\bibinitperiod}{Austin}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=715fef480ab32d3a28aee179339804e0}{Vicente}{V\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{ef95c55259c3d8d551465791717cc493}
+      \strng{fullhash}{c8cce5a1143845bf60593e53c7669b11}
+      \field{sortinit}{0}
+      \field{labeltitle}{Universal Behavior of Extreme Price Movements in Stock Markets}
+      \field{abstract}{<p>Many studies assume stock prices follow a random process known as geometric Brownian motion. Although approximately correct, this model fails to explain the frequent occurrence of extreme price movements, such as stock market crashes. Using a large collection of data from three different stock markets, we present evidence that a modification to the random model---adding a slow, but significant, fluctuation to the standard deviation of the process---accurately explains the probability of different-sized price changes, including the relative high frequency of extreme movements. Furthermore, we show that this process is similar across stocks so that their price fluctuations can be characterized by a single curve. Because the behavior of price fluctuations is rooted in the characteristics of volatility, we expect our results to bring increased interest to stochastic volatility models, and especially to those that can produce the properties of volatility reported here.</p>}
+      \field{journaltitle}{PLoS ONE}
+      \field{title}{Universal Behavior of Extreme Price Movements in Stock Markets}
+      \field{volume}{4}
+      \field{year}{2009}
+      \field{pages}{e8243}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0008243
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1371/journal.pone.0008243
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+
 \refsection{1}
   \sortlist{entry}{none}
     \entry{raup1982}{article}{}
@@ -52,7 +705,6 @@
       \strng{fullhash}{03ce371e292808c2681748577174738c}
       \field{sortinit}{0}
       \field{labeltitle}{A Kinetic Model of Phanerozoic Taxonomic Diversity. III. Post-Paleozoic Families and Mass Extinctions}
-      \field{annotation}{A three-phase kinetic model with time-specific perturbations is used to describe large-scale patterns in the diversification of Phanerozoic marine families. The basic model assumes that the Cambrian, Paleozoic, and Modern evolutionary faunas each diversified logistically as a consequence of early exponential growth and of later slowing of growth as the ecosystems became filled; it also assumes interaction among the evolutionary faunas such that expansion of the combined diversities of all three faunas above any single fauna's equilibrium caused that fauna's diversity to begin to decline. This basic model adequately describes the diversification of the evolutionary faunas through the Paleozoic Era as well as the asymmetrical rise and fall of background extinction rates through the entire Phanerozoic. Declines in diversity and changes in faunal dominance associated with mass extinctions can be accommodated in the model with short-term accelerations in extinction rates or declines in equilibria. Such accelerations, or perturbations, cause diversity to decline exponentially and then to rebound sigmoidally following release. The amount of decline is dependent on the magnitude and duration of the perturbation, the timing of the perturbation with respect to the diversification of the system, and the system's initial per-taxon rates of diversification and turnover. When applied to the three-phase model, such perturbations describe the changes in diversity and faunal dominance during and after major mass extinctions, the long-term rise in total diversity following the Late Permian and Norian mass extinctions, and the peculiar diversification and then decline of the remnants of the Paleozoic fauna during the Mesozoic and Cenozoic Eras. The good fit of this model to data on Phanerozoic familial diversity suggests that many of the large-scale patterns of diversification seen in the marine fossil record of animal families are simple consequences of nonlinear interrelationships among a small number of parameters that are intrinsic to the evolutionary faunas and are largely (but not completely) invariant through time.}
       \field{journaltitle}{Paleobiology}
       \field{title}{A Kinetic Model of Phanerozoic Taxonomic Diversity. III. Post-Paleozoic Families and Mass Extinctions}
       \field{volume}{10}
@@ -183,7 +835,6 @@
       \strng{fullhash}{07bb418ef001b2f08f2d837541cb5185}
       \field{sortinit}{0}
       \field{labeltitle}{Phanerozoic Trends in the Global Diversity of Marine Invertebrates}
-      \field{abstract}{It has previously been thought that there was a steep Cretaceous and Cenozoic radiation of marine invertebrates. This pattern can be replicated with a new data set of fossil occurrences representing 3.5 million specimens, but only when older analytical protocols are used. Moreover, analyses that employ sampling standardization and more robust counting methods show a modest rise in diversity with no clear trend after the mid-Cretaceous. Globally, locally, and at both high and low latitudes, diversity was less than twice as high in the Neogene as in the mid-Paleozoic. The ratio of global to local richness has changed little, and a latitudinal diversity gradient was present in the early Paleozoic.}
       \field{journaltitle}{Science}
       \field{title}{Phanerozoic Trends in the Global Diversity of Marine Invertebrates}
       \field{volume}{321}
@@ -2969,6 +3620,278 @@
       \field{year}{2007}
       \field{pages}{551\bibrangedash 570}
     \endentry
+    \entry{sepkoski1992}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ac15c4030f31726c781cb5b377139815}{Sepkoski}{S\bibinitperiod}{J.\bibnamedelimi John}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ac15c4030f31726c781cb5b377139815}{Sepkoski}{S\bibinitperiod}{J.\bibnamedelimi John}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Milwaukee, WI}%
+      }
+      \list{publisher}{1}{%
+        {Milwaukee Public Museum}%
+      }
+      \strng{namehash}{ac15c4030f31726c781cb5b377139815}
+      \strng{fullhash}{ac15c4030f31726c781cb5b377139815}
+      \field{sortinit}{0}
+      \field{labeltitle}{A compendium of fossil marine animal families}
+      \field{title}{A compendium of fossil marine animal families}
+      \field{year}{1992}
+    \endentry
+    \entry{alroy08}{article}{}
+      \name{labelname}{35}{}{%
+        {{hash=139258ecb448cbdd5d01bef611b8d985}{Alroy}{A\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=761fc6142f0314272dd542d68acf6bfb}{Aberhan}{A\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0c15afae33f11b4b22cdbde37ed70693}{Bottjer}{B\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ab99be064192f9409924032ef936a04f}{Foote}{F\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c904386fa8a39edbb3e90fa4636f11e0}{F{\"u}rsich}{F\bibinitperiod}{Franz\bibnamedelima T.}{F\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=4002d185d7b5f77d1c75ed366dec6515}{Harries}{H\bibinitperiod}{Peter\bibnamedelima J.}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=4c389ed3f57ef774c277f28d0522203a}{Hendy}{H\bibinitperiod}{Austin\bibnamedelimb J.\bibnamedelimi W.}{A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=f3fcac22215fe6b6e59f4eef8fa85497}{Holland}{H\bibinitperiod}{Steven\bibnamedelima M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=7a07b576c3bc81bb3db926e1bb67ae69}{Ivany}{I\bibinitperiod}{Linda\bibnamedelima C.}{L\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8d64c069ee1e4098c8ae987371387165}{Kiessling}{K\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ad5fe40c075b34c5e70ee1a08f0a5c25}{Kosnik}{K\bibinitperiod}{Matthew\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e7d5e2e47cb586c9b464216d130b5cb0}{Marshall}{M\bibinitperiod}{Charles\bibnamedelima R.}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2e46677ba044211d971bffe2cf38dcba}{McGowan}{M\bibinitperiod}{Alistair\bibnamedelima J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=3c93905b0f808eaf6ef5cdbd621ff635}{Miller}{M\bibinitperiod}{Arnold\bibnamedelima I.}{A\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{hash=b3f411e518adff51c0b4e05c9e7620e6}{Olszewski}{O\bibinitperiod}{Thomas\bibnamedelima D.}{T\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=ca633cab3dfd6e4f28db38164a6cbff9}{Patzkowsky}{P\bibinitperiod}{Mark\bibnamedelima E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=a3243cb96ab018507d727f2aacc79087}{Peters}{P\bibinitperiod}{Shanan\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=b1eef27b3cbaa96fd5db724c618efefe}{Villier}{V\bibinitperiod}{Lo{\"\i}c}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bb0a5fbe4c854d4eca45761cfcbe9a6f}{Wagner}{W\bibinitperiod}{Peter\bibnamedelima J.}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e93ace0a504000082e58bd271e96f200}{Bonuso}{B\bibinitperiod}{Nicole}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=7d9d1caafaa1c7d831ed3c3bfd6dd404}{Borkow}{B\bibinitperiod}{Philip\bibnamedelima S.}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=7f080afcc23bcf178ed97149ecb5aa82}{Brenneis}{B\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=ed4188bd7e566caae248b0ec0ad67f7a}{Clapham}{C\bibinitperiod}{Matthew\bibnamedelima E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=81a578350b908c6ad06bfc11b0cea597}{Fall}{F\bibinitperiod}{Leigh\bibnamedelima M.}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=096426a10900e7bed2b3ca25619e06d9}{Ferguson}{F\bibinitperiod}{Chad\bibnamedelima A.}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cc66d1dcceb6b500792d7c092b74cfa7}{Hanson}{H\bibinitperiod}{Victoria\bibnamedelima L.}{V\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=28628c52f8ddd079c4698c398c96dc15}{Krug}{K\bibinitperiod}{Andrew\bibnamedelima Z.}{A\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{hash=e212ca13a267dbba9a0cb76e7fe2d38b}{Layou}{L\bibinitperiod}{Karen\bibnamedelima M.}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=73cf5de3a8585a946fa1130986cd36a1}{Leckey}{L\bibinitperiod}{Erin\bibnamedelima H.}{E\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=3ef68e0377afb4d26d92227ecb0bcce0}{N{\"u}rnberg}{N\bibinitperiod}{Sabine}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3b2a15744609835b89b1873eaa815228}{Powers}{P\bibinitperiod}{Catherine\bibnamedelima M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=b51d306b58241f16555013685e9b1d35}{Sessa}{S\bibinitperiod}{Jocelyn\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=21b6af629bc168836575391476615574}{Simpson}{S\bibinitperiod}{Carl}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a532cbf798ce58ef95c6d991615c9fe3}{Toma{\v s}ov{\'y}ch}{T\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=536e12ea152c4d3fee6e5ae491d981fb}{Visaggi}{V\bibinitperiod}{Christy\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{35}{}{%
+        {{hash=139258ecb448cbdd5d01bef611b8d985}{Alroy}{A\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=761fc6142f0314272dd542d68acf6bfb}{Aberhan}{A\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0c15afae33f11b4b22cdbde37ed70693}{Bottjer}{B\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ab99be064192f9409924032ef936a04f}{Foote}{F\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c904386fa8a39edbb3e90fa4636f11e0}{F{\"u}rsich}{F\bibinitperiod}{Franz\bibnamedelima T.}{F\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=4002d185d7b5f77d1c75ed366dec6515}{Harries}{H\bibinitperiod}{Peter\bibnamedelima J.}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=4c389ed3f57ef774c277f28d0522203a}{Hendy}{H\bibinitperiod}{Austin\bibnamedelimb J.\bibnamedelimi W.}{A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=f3fcac22215fe6b6e59f4eef8fa85497}{Holland}{H\bibinitperiod}{Steven\bibnamedelima M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=7a07b576c3bc81bb3db926e1bb67ae69}{Ivany}{I\bibinitperiod}{Linda\bibnamedelima C.}{L\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8d64c069ee1e4098c8ae987371387165}{Kiessling}{K\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ad5fe40c075b34c5e70ee1a08f0a5c25}{Kosnik}{K\bibinitperiod}{Matthew\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e7d5e2e47cb586c9b464216d130b5cb0}{Marshall}{M\bibinitperiod}{Charles\bibnamedelima R.}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2e46677ba044211d971bffe2cf38dcba}{McGowan}{M\bibinitperiod}{Alistair\bibnamedelima J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=3c93905b0f808eaf6ef5cdbd621ff635}{Miller}{M\bibinitperiod}{Arnold\bibnamedelima I.}{A\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{hash=b3f411e518adff51c0b4e05c9e7620e6}{Olszewski}{O\bibinitperiod}{Thomas\bibnamedelima D.}{T\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=ca633cab3dfd6e4f28db38164a6cbff9}{Patzkowsky}{P\bibinitperiod}{Mark\bibnamedelima E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=a3243cb96ab018507d727f2aacc79087}{Peters}{P\bibinitperiod}{Shanan\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=b1eef27b3cbaa96fd5db724c618efefe}{Villier}{V\bibinitperiod}{Lo{\"\i}c}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bb0a5fbe4c854d4eca45761cfcbe9a6f}{Wagner}{W\bibinitperiod}{Peter\bibnamedelima J.}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e93ace0a504000082e58bd271e96f200}{Bonuso}{B\bibinitperiod}{Nicole}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=7d9d1caafaa1c7d831ed3c3bfd6dd404}{Borkow}{B\bibinitperiod}{Philip\bibnamedelima S.}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=7f080afcc23bcf178ed97149ecb5aa82}{Brenneis}{B\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=ed4188bd7e566caae248b0ec0ad67f7a}{Clapham}{C\bibinitperiod}{Matthew\bibnamedelima E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=81a578350b908c6ad06bfc11b0cea597}{Fall}{F\bibinitperiod}{Leigh\bibnamedelima M.}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=096426a10900e7bed2b3ca25619e06d9}{Ferguson}{F\bibinitperiod}{Chad\bibnamedelima A.}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=cc66d1dcceb6b500792d7c092b74cfa7}{Hanson}{H\bibinitperiod}{Victoria\bibnamedelima L.}{V\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=28628c52f8ddd079c4698c398c96dc15}{Krug}{K\bibinitperiod}{Andrew\bibnamedelima Z.}{A\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{hash=e212ca13a267dbba9a0cb76e7fe2d38b}{Layou}{L\bibinitperiod}{Karen\bibnamedelima M.}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=73cf5de3a8585a946fa1130986cd36a1}{Leckey}{L\bibinitperiod}{Erin\bibnamedelima H.}{E\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=3ef68e0377afb4d26d92227ecb0bcce0}{N{\"u}rnberg}{N\bibinitperiod}{Sabine}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3b2a15744609835b89b1873eaa815228}{Powers}{P\bibinitperiod}{Catherine\bibnamedelima M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=b51d306b58241f16555013685e9b1d35}{Sessa}{S\bibinitperiod}{Jocelyn\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=21b6af629bc168836575391476615574}{Simpson}{S\bibinitperiod}{Carl}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=a532cbf798ce58ef95c6d991615c9fe3}{Toma{\v s}ov{\'y}ch}{T\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=536e12ea152c4d3fee6e5ae491d981fb}{Visaggi}{V\bibinitperiod}{Christy\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7149a6dd8b097f4da60fb2d31032398f}
+      \strng{fullhash}{07bb418ef001b2f08f2d837541cb5185}
+      \field{sortinit}{0}
+      \field{labeltitle}{Phanerozoic Trends in the Global Diversity of Marine Invertebrates}
+      \field{journaltitle}{Science}
+      \field{title}{Phanerozoic Trends in the Global Diversity of Marine Invertebrates}
+      \field{volume}{321}
+      \field{year}{2008}
+      \field{pages}{97\bibrangedash 100}
+      \verb{doi}
+      \verb 10.1126/science.1156963
+      \endverb
+      \keyw{database,fossil record,evolutionary history}
+    \endentry
+    \entry{bak1993}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=ba09ee685f28647bf1bebbff4d1e814e}{Bak}{B\bibinitperiod}{Per}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=f5b8567831dadb725654bc06718f8caa}{Sneppen}{S\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=ba09ee685f28647bf1bebbff4d1e814e}{Bak}{B\bibinitperiod}{Per}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=f5b8567831dadb725654bc06718f8caa}{Sneppen}{S\bibinitperiod}{Kim}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{eabd1d43053f28ad6ab222f89a53f87c}
+      \strng{fullhash}{eabd1d43053f28ad6ab222f89a53f87c}
+      \field{sortinit}{0}
+      \field{labeltitle}{Punctuated equilibrium and criticality in a simple model of evolution}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{title}{Punctuated equilibrium and criticality in a simple model of evolution}
+      \field{volume}{71}
+      \field{year}{1993}
+      \field{pages}{4083\bibrangedash 4086}
+      \verb{url}
+      \verb http://link.aps.org/doi/10.1103/PhysRevLett.71.4083
+      \endverb
+    \endentry
+    \entry{sole1997}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=30b687ebe98d751bb21a6da1a7050574}{Sol{\'e}}{S\bibinitperiod}{R.\bibnamedelimi V.}{R\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=a711b4d087519b9f56a34a724205d44b}{Manrubia}{M\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=e3ba3fc7bf864a6a45d039b87693c83c}{Benton}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d805047557ef1ac413c2fbbb2105f28a}{Bak}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=30b687ebe98d751bb21a6da1a7050574}{Sol{\'e}}{S\bibinitperiod}{R.\bibnamedelimi V.}{R\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=a711b4d087519b9f56a34a724205d44b}{Manrubia}{M\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=e3ba3fc7bf864a6a45d039b87693c83c}{Benton}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d805047557ef1ac413c2fbbb2105f28a}{Bak}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{870762f8bb4e1503fd1716478ba4f728}
+      \strng{fullhash}{681f6a3ef17250fa58d475485d5c55a8}
+      \field{sortinit}{0}
+      \field{labeltitle}{Self-similarity of extinction statistics in the fossil record}
+      \field{journaltitle}{Nature}
+      \field{title}{Self-similarity of extinction statistics in the fossil record}
+      \field{volume}{388}
+      \field{year}{1997}
+      \field{pages}{764\bibrangedash 767}
+    \endentry
+    \entry{newman1995}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=e10496a046558ed6c27e3a9373727f7f}{Newman}{N\bibinitperiod}{M.\bibnamedelimi E.\bibnamedelimi J.}{M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ef865a24bdd3713391013732e1f8a240}{Roberts}{R\bibinitperiod}{B.\bibnamedelimi W.}{B\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=e10496a046558ed6c27e3a9373727f7f}{Newman}{N\bibinitperiod}{M.\bibnamedelimi E.\bibnamedelimi J.}{M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ef865a24bdd3713391013732e1f8a240}{Roberts}{R\bibinitperiod}{B.\bibnamedelimi W.}{B\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e6d88c786037b96e5e00b5574d115749}
+      \strng{fullhash}{e6d88c786037b96e5e00b5574d115749}
+      \field{sortinit}{0}
+      \field{labeltitle}{Mass Extinction: Evolution and the Effects of External Influences on Unfit Species}
+      \field{abstract}{We present a new model for extinction in which species evolve in bursts or `avalanches', during which they become on average more susceptible to environmental stresses such as harsh climates and so are more easily rendered extinct. Results of simulations and analytic calculations using our model show a powerlaw distribution of extinction sizes which is in reasonable agreement with fossil data. We also see several features qualitatively similar to those seen in the fossil record. For example, we see frequent smaller extinctions in the wake of a large mass extinction which arise because there is reduced competition for resources in the aftermath of a large extinction event, so species which would not normally be able to compete can get a foothold, but only until the next cold winter or bad attack of influenza comes along to wipe them out.}
+      \field{journaltitle}{Proceedings of the Royal Society of London B}
+      \field{title}{Mass Extinction: Evolution and the Effects of External Influences on Unfit Species}
+      \field{volume}{260}
+      \field{year}{1995}
+      \field{pages}{31\bibrangedash 37}
+      \verb{doi}
+      \verb 10.1098/rspb.1995.0055
+      \endverb
+      \verb{eprint}
+      \verb http://rspb.royalsocietypublishing.org/content/260/1357/31.full.pdf+html
+      \endverb
+      \verb{url}
+      \verb http://rspb.royalsocietypublishing.org/content/260/1357/31.abstract
+      \endverb
+    \endentry
+    \entry{rominger2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=ece36a5a612832105e068b10c930b084}{Rominger}{R\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=df58988ff64342fd2570ed701d3e47dc}{Miller}{M\bibinitperiod}{T.\bibnamedelimi E.\bibnamedelimi X.}{T\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=9a528971ea42c4d928bf9535af6bab51}{Collins}{C\bibinitperiod}{S.\bibnamedelimi L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=ece36a5a612832105e068b10c930b084}{Rominger}{R\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=df58988ff64342fd2570ed701d3e47dc}{Miller}{M\bibinitperiod}{T.\bibnamedelimi E.\bibnamedelimi X.}{T\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=9a528971ea42c4d928bf9535af6bab51}{Collins}{C\bibinitperiod}{S.\bibnamedelimi L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0d4f78aa7fc6e57951b7000bc9cf743a}
+      \strng{fullhash}{24d6a176070cc33121711491d7864fa7}
+      \field{sortinit}{0}
+      \field{labeltitle}{Relative contributions of neutral and niche-based processes to the structure of a desert grassland grasshopper community}
+      \field{journaltitle}{Oecologia}
+      \field{number}{4}
+      \field{title}{Relative contributions of neutral and niche-based processes to the structure of a desert grassland grasshopper community}
+      \field{volume}{161}
+      \field{year}{2009}
+      \field{pages}{791\bibrangedash 800}
+    \endentry
+    \entry{rominger2015GEB}{article}{}
+      \true{morelabelname}
+      \name{labelname}{10}{}{%
+        {{hash=58e0eb57f1247eb81a4b87095b6e810f}{Rominger}{R\bibinitperiod}{AJ}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=2a9b10ab9bce172910424d68436e7325}{Goodman}{G\bibinitperiod}{KR}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=69baff02db705665c9a8f3db3e9cae70}{Lim}{L\bibinitperiod}{JY}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1c121a2c0486eba426668e94df8b3720}{Armstrong}{A\bibinitperiod}{EE}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=7265f71f875b2029284d581d77a2bf2f}{Becking}{B\bibinitperiod}{LE}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=e60e04162e9d6cdd01c2fc5ce319d53b}{Bennett}{B\bibinitperiod}{GM}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=5493089214f123d6c9deffe454f37b9b}{Brewer}{B\bibinitperiod}{MS}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=587ca5d77f17bdc79570ff991e373cbc}{Cotoras}{C\bibinitperiod}{DD}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=151e393f01fb7f75e6d228e6f7b36427}{Ewing}{E\bibinitperiod}{CP}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7dc4b93c23be7566fccfb6c8d437c5a0}{Harte}{H\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=58e0eb57f1247eb81a4b87095b6e810f}{Rominger}{R\bibinitperiod}{AJ}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=2a9b10ab9bce172910424d68436e7325}{Goodman}{G\bibinitperiod}{KR}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=69baff02db705665c9a8f3db3e9cae70}{Lim}{L\bibinitperiod}{JY}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1c121a2c0486eba426668e94df8b3720}{Armstrong}{A\bibinitperiod}{EE}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=7265f71f875b2029284d581d77a2bf2f}{Becking}{B\bibinitperiod}{LE}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=e60e04162e9d6cdd01c2fc5ce319d53b}{Bennett}{B\bibinitperiod}{GM}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=5493089214f123d6c9deffe454f37b9b}{Brewer}{B\bibinitperiod}{MS}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=587ca5d77f17bdc79570ff991e373cbc}{Cotoras}{C\bibinitperiod}{DD}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=151e393f01fb7f75e6d228e6f7b36427}{Ewing}{E\bibinitperiod}{CP}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7dc4b93c23be7566fccfb6c8d437c5a0}{Harte}{H\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1fdfbcbcdb63141cebc57c5d3c512f1c}
+      \strng{fullhash}{0588e3c69750f944ed8c116881324a52}
+      \field{sortinit}{0}
+      \field{labeltitle}{Community assembly on isolated islands: macroecology meets evolution}
+      \field{journaltitle}{Global Ecology and Biogeography}
+      \field{title}{Community assembly on isolated islands: macroecology meets evolution}
+      \field{year}{2015}
+    \endentry
+    \entry{taberlet2012}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=1564c09aa4ca88abc3c82774cf5afc13}{Taberlet}{T\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=eb52174d3006e145f598793acae71516}{Coissac}{C\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=9d6618390022ffcf335a8ef4ad6e8b20}{Pompanon}{P\bibinitperiod}{Francois}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=2131b993a3525152c32296d3a4b5d49b}{Brochmann}{B\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=0940ace4c4b2a0ab2d5321e16c4a36fb}{Willerslev}{W\bibinitperiod}{Eske}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=1564c09aa4ca88abc3c82774cf5afc13}{Taberlet}{T\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=eb52174d3006e145f598793acae71516}{Coissac}{C\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=9d6618390022ffcf335a8ef4ad6e8b20}{Pompanon}{P\bibinitperiod}{Francois}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=2131b993a3525152c32296d3a4b5d49b}{Brochmann}{B\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=0940ace4c4b2a0ab2d5321e16c4a36fb}{Willerslev}{W\bibinitperiod}{Eske}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{f6de483af0e36dc422934cc11894c268}
+      \strng{fullhash}{6f71eacfa054e8694dc846ea72665bcb}
+      \field{sortinit}{0}
+      \field{labeltitle}{Towards next-generation biodiversity assessment using DNA metabarcoding}
+      \field{journaltitle}{Molecular Ecology}
+      \field{number}{8}
+      \field{title}{Towards next-generation biodiversity assessment using DNA metabarcoding}
+      \field{volume}{21}
+      \field{year}{2012}
+      \field{pages}{2045\bibrangedash 2050}
+    \endentry
   \endsortlist
 \endrefsection
 
@@ -3104,7 +4027,6 @@
       \strng{fullhash}{07bb418ef001b2f08f2d837541cb5185}
       \field{sortinit}{0}
       \field{labeltitle}{Phanerozoic Trends in the Global Diversity of Marine Invertebrates}
-      \field{abstract}{It has previously been thought that there was a steep Cretaceous and Cenozoic radiation of marine invertebrates. This pattern can be replicated with a new data set of fossil occurrences representing 3.5 million specimens, but only when older analytical protocols are used. Moreover, analyses that employ sampling standardization and more robust counting methods show a modest rise in diversity with no clear trend after the mid-Cretaceous. Globally, locally, and at both high and low latitudes, diversity was less than twice as high in the Neogene as in the mid-Paleozoic. The ratio of global to local richness has changed little, and a latitudinal diversity gradient was present in the early Paleozoic.}
       \field{journaltitle}{Science}
       \field{title}{Phanerozoic Trends in the Global Diversity of Marine Invertebrates}
       \field{volume}{321}

@@ -1941,6 +1941,43 @@
     <bcf:datasource type="file" datatype="bibtex">thesis.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1">daily1997</bcf:citekey>
+    <bcf:citekey order="2">mcgill2010</bcf:citekey>
+    <bcf:citekey order="2">gould1985</bcf:citekey>
+    <bcf:citekey order="3">sepkoski1992</bcf:citekey>
+    <bcf:citekey order="3">alroy08</bcf:citekey>
+    <bcf:citekey order="4">brown1995</bcf:citekey>
+    <bcf:citekey order="4">hubbell2001</bcf:citekey>
+    <bcf:citekey order="4">nekola2007</bcf:citekey>
+    <bcf:citekey order="4">harte2011</bcf:citekey>
+    <bcf:citekey order="4">Jordano2003</bcf:citekey>
+    <bcf:citekey order="4">nuismer2013</bcf:citekey>
+    <bcf:citekey order="4">berlow2009</bcf:citekey>
+    <bcf:citekey order="5">albert2002</bcf:citekey>
+    <bcf:citekey order="5">sethna2006</bcf:citekey>
+    <bcf:citekey order="6">hubbell2001</bcf:citekey>
+    <bcf:citekey order="7">hubbell2001</bcf:citekey>
+    <bcf:citekey order="7">haegeman2008</bcf:citekey>
+    <bcf:citekey order="7">harte2011</bcf:citekey>
+    <bcf:citekey order="8">macWilson</bcf:citekey>
+    <bcf:citekey order="9">macWilson</bcf:citekey>
+    <bcf:citekey order="10">hubbell2001</bcf:citekey>
+    <bcf:citekey order="11">nekola2007</bcf:citekey>
+    <bcf:citekey order="12">fisher1943</bcf:citekey>
+    <bcf:citekey order="12">preston1950</bcf:citekey>
+    <bcf:citekey order="12">preston1962a</bcf:citekey>
+    <bcf:citekey order="12">preston1962b</bcf:citekey>
+    <bcf:citekey order="13">harte2011</bcf:citekey>
+    <bcf:citekey order="14">banavar2007</bcf:citekey>
+    <bcf:citekey order="14">pueyo2007</bcf:citekey>
+    <bcf:citekey order="14">dewar2008</bcf:citekey>
+    <bcf:citekey order="14">harte2011</bcf:citekey>
+    <bcf:citekey order="15">odling2003</bcf:citekey>
+    <bcf:citekey order="16">beck2003</bcf:citekey>
+    <bcf:citekey order="16">beck2004</bcf:citekey>
+    <bcf:citekey order="17">beck2004</bcf:citekey>
+    <bcf:citekey order="18">fuentes2009</bcf:citekey>
+    <bcf:citekey order="19">harte2011</bcf:citekey>
   </bcf:section>
   <!-- SECTION 1 -->
   <bcf:bibdata section="1">
@@ -2216,6 +2253,14 @@
     <bcf:citekey order="33">Harte:2011ut</bcf:citekey>
     <bcf:citekey order="34">Harte:2011ut</bcf:citekey>
     <bcf:citekey order="35">Harte:2011ut</bcf:citekey>
+    <bcf:citekey order="36">sepkoski1992</bcf:citekey>
+    <bcf:citekey order="36">alroy08</bcf:citekey>
+    <bcf:citekey order="37">bak1993</bcf:citekey>
+    <bcf:citekey order="37">sole1997</bcf:citekey>
+    <bcf:citekey order="37">newman1995</bcf:citekey>
+    <bcf:citekey order="38">rominger2009</bcf:citekey>
+    <bcf:citekey order="38">rominger2015GEB</bcf:citekey>
+    <bcf:citekey order="39">taberlet2012</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2259,6 +2304,13 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <bcf:sortlist section="0" type="entry" label="none">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
   <bcf:sortlist section="1" type="entry" label="none">
   <bcf:sorting>
     <bcf:sort order="1">
@@ -2267,6 +2319,13 @@
   </bcf:sorting>
   </bcf:sortlist>
   <bcf:sortlist section="2" type="entry" label="none">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="3" type="entry" label="none">
   <bcf:sorting>
     <bcf:sort order="1">
       <bcf:sortitem order="1">citeorder</bcf:sortitem>
