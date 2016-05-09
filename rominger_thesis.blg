@@ -1,48 +1,83 @@
-[0] Config.pm:318> INFO - This is Biber 1.8
-[0] Config.pm:321> INFO - Logfile is 'rominger_thesis.blg'
-[49] biber-darwin:275> INFO - === Wed May  4, 2016, 12:21:52
-[49] Biber.pm:333> INFO - Reading 'rominger_thesis.bcf'
-[105] Biber.pm:630> INFO - Found 27 citekeys in bib section 0
-[106] Biber.pm:630> INFO - Found 43 citekeys in bib section 1
-[106] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[107] Biber.pm:630> INFO - Found 60 citekeys in bib section 2
-[107] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[107] Biber.pm:630> INFO - Found 35 citekeys in bib section 3
-[107] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[108] Biber.pm:630> INFO - Found 4 citekeys in bib section 4
-[108] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[108] Biber.pm:630> INFO - Found 7 citekeys in bib section 5
-[108] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[125] Biber.pm:3053> INFO - Processing section 0
-[141] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
-[154] bibtex.pm:812> INFO - Found BibTeX data source 'thesis.bib'
-[241] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[241] Biber.pm:2945> INFO - Sorting 'entry' list 'none' keys
-[241] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[279] Biber.pm:3053> INFO - Processing section 1
-[279] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 1
-[356] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[356] Biber.pm:2945> INFO - Sorting 'entry' list 'none' keys
-[356] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[414] Biber.pm:3053> INFO - Processing section 2
-[414] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 2
-[516] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[517] Biber.pm:2945> INFO - Sorting 'entry' list 'none' keys
-[517] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[596] Biber.pm:3053> INFO - Processing section 3
-[596] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 3
-[668] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[668] Biber.pm:2945> INFO - Sorting 'entry' list 'none' keys
-[668] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[717] Biber.pm:3053> INFO - Processing section 4
-[718] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 4
-[740] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[740] Biber.pm:2945> INFO - Sorting 'entry' list 'none' keys
-[740] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[747] Biber.pm:3053> INFO - Processing section 5
-[748] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 5
-[768] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[768] Biber.pm:2945> INFO - Sorting 'entry' list 'none' keys
-[768] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[778] bbl.pm:482> INFO - Writing 'rominger_thesis.bbl' with encoding 'ascii'
-[846] bbl.pm:555> INFO - Output to rominger_thesis.bbl
+[0] Config.pm:324> INFO - This is Biber 2.1
+[0] Config.pm:327> INFO - Logfile is 'rominger_thesis.blg'
+[42] biber-darwin:276> INFO - === Mon May  9, 2016, 12:15:50
+[43] Biber.pm:333> INFO - Reading 'rominger_thesis.bcf'
+[138] Biber.pm:645> INFO - Found 27 citekeys in bib section 0
+[139] Biber.pm:645> INFO - Found 43 citekeys in bib section 1
+[139] Biber.pm:645> INFO - Found 0 citekeys in bib section 0
+[139] Biber.pm:645> INFO - Found 60 citekeys in bib section 2
+[139] Biber.pm:645> INFO - Found 0 citekeys in bib section 0
+[140] Biber.pm:645> INFO - Found 35 citekeys in bib section 3
+[140] Biber.pm:645> INFO - Found 0 citekeys in bib section 0
+[140] Biber.pm:645> INFO - Found 4 citekeys in bib section 4
+[140] Biber.pm:645> INFO - Found 0 citekeys in bib section 0
+[140] Biber.pm:645> INFO - Found 7 citekeys in bib section 5
+[140] Biber.pm:645> INFO - Found 0 citekeys in bib section 0
+[159] Biber.pm:2977> INFO - Processing section 0
+[170] Biber.pm:3115> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[184] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[200] bibtex.pm:895> INFO - Found BibTeX data source 'thesis.bib'
+[467] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[467] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[467] Biber.pm:2854> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'en-US'
+[467] Biber.pm:2858> INFO - No sort tailoring available for locale 'en-US'
+[492] Biber.pm:2977> INFO - Processing section 1
+[492] Biber.pm:3115> INFO - Looking for bibtex format file 'thesis.bib' for section 1
+[801] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[801] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[802] Biber.pm:2854> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'en-US'
+[802] Biber.pm:2858> INFO - No sort tailoring available for locale 'en-US'
+[837] Biber.pm:2977> INFO - Processing section 2
+[837] Biber.pm:3115> INFO - Looking for bibtex format file 'thesis.bib' for section 2
+[1289] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1289] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1289] Biber.pm:2854> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'en-US'
+[1289] Biber.pm:2858> INFO - No sort tailoring available for locale 'en-US'
+[1341] Biber.pm:2977> INFO - Processing section 3
+[1341] Biber.pm:3115> INFO - Looking for bibtex format file 'thesis.bib' for section 3
+[1629] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1629] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1629] Biber.pm:2854> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'en-US'
+[1629] Biber.pm:2858> INFO - No sort tailoring available for locale 'en-US'
+[1656] Biber.pm:2977> INFO - Processing section 4
+[1657] Biber.pm:3115> INFO - Looking for bibtex format file 'thesis.bib' for section 4
+[1707] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1707] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1707] Biber.pm:2854> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'en-US'
+[1707] Biber.pm:2858> INFO - No sort tailoring available for locale 'en-US'
+[1714] Biber.pm:2977> INFO - Processing section 5
+[1714] Biber.pm:3115> INFO - Looking for bibtex format file 'thesis.bib' for section 5
+[1782] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1782] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1782] Biber.pm:2854> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'en-US'
+[1782] Biber.pm:2858> INFO - No sort tailoring available for locale 'en-US'
+[1792] bbl.pm:505> INFO - Writing 'rominger_thesis.bbl' with encoding 'ascii'
+[1798] Utils.pm:146> WARN - The entry 'alroy08' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1801] Utils.pm:146> WARN - The entry 'albert2002' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1803] Utils.pm:146> WARN - The entry 'banavar2007' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1803] Utils.pm:146> WARN - The entry 'dewar2008' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1805] Utils.pm:146> WARN - The entry 'beck2003' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1806] Utils.pm:146> WARN - The entry 'beck2004' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1842] Utils.pm:146> WARN - The entry 'alroy08' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1844] Utils.pm:146> WARN - The entry 'sole1997' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1904] Utils.pm:146> WARN - The entry 'madin2006' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1906] Utils.pm:146> WARN - The entry 'beck2003' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1908] Utils.pm:146> WARN - The entry 'price2014' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1911] Utils.pm:146> WARN - The entry 'beck2004' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1971] Utils.pm:146> WARN - The entry 'chave2004neutral' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1974] Utils.pm:146> WARN - The entry 'warren2015' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1976] Utils.pm:146> WARN - The entry 'dewar2008' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1976] Utils.pm:146> WARN - The entry 'donatti2011' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1977] Utils.pm:146> WARN - The entry 'thompson2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1978] Utils.pm:146> WARN - The entry 'vazquez2005' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1979] Utils.pm:146> WARN - The entry 'vazquez2009' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[2039] Utils.pm:146> WARN - The entry 'ulrich2009' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[2040] Utils.pm:146> WARN - The entry 'nodf' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[2044] Utils.pm:146> WARN - The entry 'yeakel2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[2050] Utils.pm:146> WARN - The entry 'alroy08' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[2051] Utils.pm:146> WARN - The entry 'sole1997' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[2055] Utils.pm:146> WARN - The entry 'alroy08' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[2056] Utils.pm:146> WARN - The entry 'ulrich2009' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[2057] Utils.pm:146> WARN - The entry 'rivera2012' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[2099] bbl.pm:596> INFO - Output to rominger_thesis.bbl
+[2099] Biber.pm:106> INFO - WARNINGS: 27
