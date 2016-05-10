@@ -3534,6 +3534,27 @@
       \field{pages}{791\bibrangedash 800}
       \range{pages}{10}
     \endentry
+    \entry{fisher1943}{article}{}
+      \name{author}{3}{}{%
+        {{hash=35dd876b7f17d154bcff325475f5d212}{Fisher}{F\bibinitperiod}{Ronald\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=dbb2be00c324eeb47c588f61b57c8dd6}{Corbet}{C\bibinitperiod}{A\bibnamedelima Steven}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=8cea6f59019c8e23b5ec0c7abef621d3}{Williams}{W\bibinitperiod}{Carrington\bibnamedelima B}{C\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{a0f65598c36bec64407733ac5e9506d7}
+      \strng{fullhash}{6968a2d1e7492d2bb85d96e6d09ab422}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Animal Ecology}
+      \field{title}{The relation between the number of species and the number of individuals in a random sample of an animal population}
+      \field{year}{1943}
+      \field{pages}{42\bibrangedash 58}
+      \range{pages}{17}
+    \endentry
     \entry{taberlet2012}{article}{}
       \name{author}{5}{}{%
         {{hash=1564c09aa4ca88abc3c82774cf5afc13}{Taberlet}{T\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
